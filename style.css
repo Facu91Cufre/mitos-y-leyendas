@@ -1,0 +1,215 @@
+@import url("https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Truculenta", sans-serif;
+}
+
+html {
+  font-size: 16px;
+}
+
+/* Body Styles */
+
+body {
+  background: url("./images/piramids.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  color: #011C27;
+}
+
+/* Header */
+
+.nav-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(216, 201, 155,0.6);
+  padding: 0.5rem 2rem;
+}
+
+li{
+  cursor: pointer;
+}
+
+a{
+  color: black;
+}
+
+/*  Header Logo */
+
+.header-logo {
+  width: 6rem;
+}
+
+.header-logo img {
+  width: 100%;
+}
+
+/* Tabs Styles */
+
+.nav-tabs {
+  width: 30rem;
+}
+
+.nav-tabs ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+ul {
+  list-style: none;
+  gap: 1rem;
+  font-size: 1.3rem;
+}
+
+/* Socials Styles*/
+
+.nav-socials ul {
+  display: flex;
+}
+
+.nav-socials ul i {
+  cursor: pointer;
+  font-size: 1.4rem;
+}
+
+.nav-socials ul i:hover {
+  transform: scale(1.1);
+  transition: 0.9s;
+}
+/* Main Styles */
+
+main {
+  margin: 2rem;
+}
+
+/* Search Container Styles */
+
+.cont-search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.cont-search label {
+  font-size: 1.2rem;
+}
+
+#search-input {
+  width: 14rem;
+  height: 1.6rem;
+  font-size: 0.95rem;
+  padding: 0.5rem;
+  margin: 0 0.3rem;
+  border: 0.06rem solid rgb(66, 65, 65);
+}
+
+#search-input:focus {
+  border: none;
+}
+
+.search-btn {
+  height: 1.4rem;
+  padding: 0 0.3rem;
+  border: none;
+  border-radius: 0.02rem;
+  cursor: pointer;
+  text-align: center;
+}
+
+/* Buttons Container */
+
+#cont-btns {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* Button Styles */
+
+.btn {
+  padding: 0.29rem 0.75rem;
+  margin: 0.31rem;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 0.25rem;
+  border: 1px solid grey;
+  min-width: 2rem;
+  background-color: rgb(231, 204, 48);
+  color: rgb(68, 67, 67);
+}
+
+.btn:hover {
+  box-shadow: 2px 4px 46px 3px rgba(0, 0, 0, 0.22);
+  transform: translateY(-1px);
+  transition: 0.7s;
+  color: rgb(43, 41, 41);
+  background-color: rgb(238, 205, 18);
+}
+
+/* Cards Container Styles */
+
+#cards-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.96rem;
+  padding: 4rem;
+  width: 70%;
+  margin: 0 auto;
+}
+
+/* Card Styles */
+
+.card {
+  text-align: center;
+  padding: 0.29rem;
+  border-radius: 0.012rem;
+}
+
+.image {
+  width: 9rem;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+.image:hover {
+  box-shadow: 2px 4px 46px 3px rgba(0, 0, 0, 0.22);
+  transform: scale(1.05);
+  transition: ease 0.7s;
+}
+
+.image img {
+  width: 100%;
+}
+
+/* Page Button Container Styles */
+
+#cont-btns-pages {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Page Button Style */
+
+.page-button {
+  padding: 0.3rem 0.5rem;
+  font-size: 1.2rem;
+  margin: 0 0.29rem;
+  border-radius: 50%;
+  border: 1px solid rgb(133, 130, 130);
+  min-width: 2.5rem;
+  cursor: pointer;
+}
+
+.page-button:hover {
+  transform: rotate(360deg);
+  transition: 0.7s;
+}

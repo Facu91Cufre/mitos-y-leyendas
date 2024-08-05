@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://kit.fontawesome.com/ad4f1a2f6e.js"
+      crossorigin="anonymous"
+    ></script>
+    <title>Mitos Y Leyendas</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="nav-center">
+          <div class="header-logo">
+            <img src="images/logo.png" alt="Mitos & Leyendas Logo" />
+          </div>
+          <div class="nav-tabs">
+            <ul>
+              <li>Home</li>
+              <li>Cartas</li>
+              <li>Mazos</li>
+            </ul>
+          </div>
+          <div class="nav-socials">
+            <ul>
+              <li>
+                <a target="_blank" href="https://www.facebook.com/groups/1933106693674696?locale=es_LA"
+                  ><i class="fa-brands fa-facebook"></i
+                ></a>
+              </li>
+              <li>
+                <a target="_blank" href="https://www.youtube.com/@mylargentina918/featured"
+                  ><i class="fa-brands fa-youtube"></i
+                ></a>
+              </li>
+              <li>
+                <a target="_blank" href="https://www.instagram.com/mylargentina/"
+                  ><i class="fa-brands fa-instagram"></i
+                ></a>
+              </li>
+            </ul>
+            <div></div>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <main>
+      <div class="cont-search">
+        <label for="search-input">Buscar:</label>
+        <input
+          type="text"
+          name="search-input"
+          id="search-input"
+          placeholder="Meskhenet"
+        />
+        <button class="search-btn">
+          <i class="fa-solid fa-magnifying-glass"></i>
+        </button>
+      </div>
+      <div id="cont-btns">
+        <div class="type-btns">
+          <h1>Tipo</h1>
+          <button class="btn" data-id="Todas">Todas</button>
+          <button class="btn" data-id="Aliado">Aliado</button>
+          <button class="btn" data-id="Talismán">Talismán</button>
+          <button class="btn" data-id="Arma">Arma</button>
+          <button class="btn" data-id="Tótem">Tótem</button>
+        </div>
+        <div class="race-btns">
+          <h1>Raza</h1>
+          <button class="btn" data-id="Todas">Todas</button>
+          <button class="btn" data-id="Eterno">Eterno</button>
+          <button class="btn" data-id="Faraón">Faraón</button>
+          <button class="btn" data-id="Sacerdote">Sacerdote</button>
+        </div>
+        <div class="rarity-btns">
+          <h1>Rareza</h1>
+          <button class="btn" data-id="Todas">Todas</button>
+          <button class="btn" data-id="Real">Real</button>
+          <button class="btn" data-id="Cortesano">Cortesano</button>
+          <button class="btn" data-id="Vasallo">Vasallo</button>
+        </div>
+      </div>
+      <div id="cards-container"></div>
+      <div id="cont-btns-pages"></div>
+    </main>
+    <footer></footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
