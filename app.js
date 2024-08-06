@@ -4,6 +4,8 @@ const pageBtns = document.getElementById("cont-btns-pages");
 const searchBtn = document.querySelector(".search-btn");
 const searchInput = document.getElementById("search-input");
 const nuevoDiv = document.querySelector(".nuevo-div");
+const barIcon = document.getElementById("bar-icon");
+const navLinks = document.querySelector(".nav-links");
 
 let cards;
 let filteredCards = [];
@@ -91,5 +93,9 @@ searchBtn.addEventListener("click", () => {
     generatePage(filteredCards);
   }
 });
+
+barIcon.addEventListener("click", () => {
+  navLinks.classList.toggle("show-links");
+})
 
 window.addEventListener("DOMContentLoaded", fetchCards);

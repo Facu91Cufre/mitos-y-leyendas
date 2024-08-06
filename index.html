@@ -14,36 +14,15 @@
     <header>
       <nav>
         <div class="nav-center">
-          <div class="header-logo">
-            <img src="images/logo.png" alt="Mitos & Leyendas Logo" />
+          <div class="nav-header">
+            <img class="header-logo" src="images/logo.png" alt="Mitos & Leyendas Logo" />
+            <button id="bar-icon"><i class="fa-solid fa-bars"></i></button>
           </div>
-          <div class="nav-tabs">
-            <ul>
-              <li>Home</li>
-              <li>Cartas</li>
-              <li>Mazos</li>
-            </ul>
-          </div>
-          <div class="nav-socials">
-            <ul>
-              <li>
-                <a target="_blank" href="https://www.facebook.com/groups/1933106693674696?locale=es_LA"
-                  ><i class="fa-brands fa-facebook"></i
-                ></a>
-              </li>
-              <li>
-                <a target="_blank" href="https://www.youtube.com/@mylargentina918/featured"
-                  ><i class="fa-brands fa-youtube"></i
-                ></a>
-              </li>
-              <li>
-                <a target="_blank" href="https://www.instagram.com/mylargentina/"
-                  ><i class="fa-brands fa-instagram"></i
-                ></a>
-              </li>
-            </ul>
-            <div></div>
-          </div>
+          <ul class="nav-links links">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Cartas</a></li>
+            <li><a href="#">Mazos</a></li>
+          </ul>
         </div>
       </nav>
     </header>
@@ -69,25 +48,35 @@
           <button class="btn" data-id="Arma">Arma</button>
           <button class="btn" data-id="Tótem">Tótem</button>
         </div>
-        <div class="race-btns">
-          <h1>Raza</h1>
-          <button class="btn" data-id="Todas">Todas</button>
-          <button class="btn" data-id="Eterno">Eterno</button>
-          <button class="btn" data-id="Faraón">Faraón</button>
-          <button class="btn" data-id="Sacerdote">Sacerdote</button>
-        </div>
-        <div class="rarity-btns">
-          <h1>Rareza</h1>
-          <button class="btn" data-id="Todas">Todas</button>
-          <button class="btn" data-id="Real">Real</button>
-          <button class="btn" data-id="Cortesano">Cortesano</button>
-          <button class="btn" data-id="Vasallo">Vasallo</button>
-        </div>
       </div>
       <div id="cards-container"></div>
       <div id="cont-btns-pages"></div>
     </main>
-    <footer></footer>
+    <footer>
+      <div class="nav-socials">
+        <ul>
+          <li>
+            <a
+              target="_blank"
+              href="https://www.facebook.com/groups/1933106693674696?locale=es_LA"
+              ><i class="fa-brands fa-facebook"></i
+            ></a>
+          </li>
+          <li>
+            <a
+              target="_blank"
+              href="https://www.youtube.com/@mylargentina918/featured"
+              ><i class="fa-brands fa-youtube"></i
+            ></a>
+          </li>
+          <li>
+            <a target="_blank" href="https://www.instagram.com/mylargentina/"
+              ><i class="fa-brands fa-instagram"></i
+            ></a>
+          </li>
+        </ul>
+      </div>
+    </footer>
 
     <script src="app.js"></script>
   </body>
