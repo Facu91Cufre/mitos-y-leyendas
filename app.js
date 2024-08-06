@@ -17,6 +17,8 @@ let filteredCards = [];
 let currentPage = 1;
 const itemsPerPage = 20;
 
+// Fetch Cards
+
 const fetchCards = async () => {
   try {
     const response = await fetch("cards.json");
@@ -31,6 +33,8 @@ const fetchCards = async () => {
     console.log("Fetch error: ", error);
   }
 };
+
+// Show Cards Function
 
 const showCards = (set, page) => {
   cardsContainer.innerHTML = "";
@@ -51,6 +55,8 @@ const showCards = (set, page) => {
   });
 };
 
+// Generate Pages Function
+
 const generatePage = (set) => {
   pageBtns.innerHTML = "";
   let totalPages = Math.ceil(set.length / itemsPerPage);
@@ -66,6 +72,8 @@ const generatePage = (set) => {
   }
 };
 
+// Open Modal Function
+
 const openModal = (item) => {
   modalImageContainer.innerHTML = "";
   const image = item.querySelector("img");
@@ -77,10 +85,14 @@ const openModal = (item) => {
   modalOverlay.style.display = "block";
 };
 
+// Find Card Function
+
 const findCard = (name) => {
   searchInput.value = "";
   return cards.find((card) => card.name.toLowerCase() === name.toLowerCase());
 };
+
+// Filter Cards by Type
 
 filterBtns.addEventListener("click", (e) => {
   cardsContainer.innerHTML = "";
@@ -95,6 +107,8 @@ filterBtns.addEventListener("click", (e) => {
   showCards(filteredCards, currentPage);
   generatePage(filteredCards);
 });
+
+// Search Button from Input
 
 searchBtn.addEventListener("click", () => {
   const searchTerm = searchInput.value;
@@ -118,6 +132,8 @@ searchBtn.addEventListener("click", () => {
     generatePage(filteredCards);
   }
 });
+
+// Mobile Header Icon
 
 barIcon.addEventListener("click", () => {
   navLinks.classList.toggle("show-links");

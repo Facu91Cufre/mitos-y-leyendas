@@ -20,6 +20,9 @@ body {
   color: #011c27;
 }
 
+li {
+  list-style: none;
+}
 /* Header */
 
 header {
@@ -217,17 +220,17 @@ main {
   display: none;
   justify-content: center;
   align-items: center;
-  z-index: 1; 
+  z-index: 1;
 }
 #modal-container {
   position: fixed;
-  top: 50%; 
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   display: flex;
   justify-content: center;
   width: 25rem;
-  padding: .5rem;
+  padding: 0.5rem;
 }
 .modal-btn {
   position: absolute;
@@ -267,6 +270,21 @@ main {
 
 /* Footer Styles */
 
+footer {
+  width: 80%;
+  padding: 1rem;
+  background-color: rgba(216, 201, 155, 1);
+  margin: 0 auto;
+}
+.cont-footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+footer p {
+  font-size: 1rem;
+}
+
 /* Socials Styles*/
 
 .nav-socials ul {
@@ -275,8 +293,8 @@ main {
 .nav-socials ul i {
   cursor: pointer;
   font-size: 1.1rem;
+  margin: 1rem;
 }
 .nav-socials ul i:hover {
-  transform: scale(1.1);
-  transition: 0.9s;
+  color:rgba(0, 0, 0, 0.7);
 }
