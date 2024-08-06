@@ -1,3 +1,4 @@
+const body = document.querySelector("body");
 const filterBtns = document.getElementById("cont-btns");
 const cardsContainer = document.getElementById("cards-container");
 const pageBtns = document.getElementById("cont-btns-pages");
@@ -6,6 +7,10 @@ const searchInput = document.getElementById("search-input");
 const nuevoDiv = document.querySelector(".nuevo-div");
 const barIcon = document.getElementById("bar-icon");
 const navLinks = document.querySelector(".nav-links");
+const modalOverlay = document.getElementById("modal-overlay");
+const modalContainer = document.getElementById("modal-container");
+const modalImageContainer = document.querySelector(".modal-image-container");
+const modalBtn = document.querySelector(".modal-btn");
 
 let cards;
 let filteredCards = [];
@@ -28,7 +33,7 @@ const fetchCards = async () => {
 };
 
 const showCards = (set, page) => {
-    cardsContainer.innerHTML = "";
+  cardsContainer.innerHTML = "";
   let start = (page - 1) * itemsPerPage;
   let end = start + itemsPerPage;
   const slicedSet = set.slice(start, end);
@@ -37,6 +42,12 @@ const showCards = (set, page) => {
     card.innerHTML = `<img class="image" src="${item.image}">`;
     card.classList.add("image");
     cardsContainer.appendChild(card);
+    card.addEventListener("click", () => {
+      openModal(card);
+    });
+    modalBtn.addEventListener("click", () => {
+      modalOverlay.style.display = "none";
+    });
   });
 };
 
@@ -53,6 +64,17 @@ const generatePage = (set) => {
     });
     pageBtns.appendChild(btn);
   }
+};
+
+const openModal = (item) => {
+  modalImageContainer.innerHTML = "";
+  const image = item.querySelector("img");
+  const modalCard = document.createElement("img");
+  modalCard.classList.add("modal-img");
+  modalCard.classList.remove("image");
+  modalCard.src = image.src;
+  modalImageContainer.appendChild(modalCard);
+  modalOverlay.style.display = "block";
 };
 
 const findCard = (name) => {
@@ -84,6 +106,9 @@ searchBtn.addEventListener("click", () => {
       const cardDiv = document.createElement("div");
       cardDiv.innerHTML = `<img class="image" src="${result.image}">`;
       cardsContainer.appendChild(cardDiv);
+      cardDiv.addEventListener("click", () => {
+        openModal(cardDiv);
+      });
     } else {
       alert("Carta no encontrada");
     }
@@ -96,6 +121,6 @@ searchBtn.addEventListener("click", () => {
 
 barIcon.addEventListener("click", () => {
   navLinks.classList.toggle("show-links");
-})
+});
 
 window.addEventListener("DOMContentLoaded", fetchCards);
