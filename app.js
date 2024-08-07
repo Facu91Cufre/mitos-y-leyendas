@@ -1,5 +1,6 @@
 const body = document.querySelector("body");
-const filterBtns = document.getElementById("cont-btns");
+const filter = document.getElementById("cont-btns");
+const filterBtns = filter.querySelectorAll(".btn");
 const cardsContainer = document.getElementById("cards-container");
 const pageBtns = document.getElementById("cont-btns-pages");
 const searchBtn = document.querySelector(".search-btn");
@@ -11,7 +12,7 @@ const modalOverlay = document.getElementById("modal-overlay");
 const modalContainer = document.getElementById("modal-container");
 const modalImageContainer = document.querySelector(".modal-image-container");
 const modalBtn = document.querySelector(".modal-btn");
-
+console.log(filterBtns);
 let cards;
 let filteredCards = [];
 let currentPage = 1;
@@ -94,19 +95,21 @@ const findCard = (name) => {
 
 // Filter Cards by Type
 
-filterBtns.addEventListener("click", (e) => {
-  cardsContainer.innerHTML = "";
-  currentPage = 1;
-  const category = e.target.dataset.id;
-  filteredCards = cards.filter((card) => {
-    if (category === "Todas") {
-      return true;
-    }
-    return category === card.type;
+filterBtns.forEach((button) => {
+  button.addEventListener("click", (e) => {
+    cardsContainer.innerHTML = "";
+    currentPage = 1;
+    const category = e.target.dataset.id;
+    filteredCards = cards.filter((card) => {
+      if (category === "Todas") {
+        return true;
+      }
+      return category === card.type;
+    });
+    showCards(filteredCards, currentPage);
+    generatePage(filteredCards);
   });
-  showCards(filteredCards, currentPage);
-  generatePage(filteredCards);
-});
+})
 
 // Search Button from Input
 
@@ -139,4 +142,15 @@ barIcon.addEventListener("click", () => {
   navLinks.classList.toggle("show-links");
 });
 
+document.addEventListener("keydown", (e) => {
+  const lastPage = Number(pageBtns.lastChild.innerText);
+  if (e.key === "ArrowRight" && currentPage < lastPage) {
+    currentPage++;
+    showCards(filteredCards, currentPage);
+  }
+  if (e.key === "ArrowLeft" && currentPage > 1) {
+    currentPage--;
+    showCards(filteredCards, currentPage);
+  }
+});
 window.addEventListener("DOMContentLoaded", fetchCards);

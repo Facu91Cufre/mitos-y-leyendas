@@ -2450,7 +2450,7 @@
         "strength": null,
         "ability": "En respuesta a que bajes un Aliado, si Corona Faraonica está en tu Reserva y si tienes uno o más Aliados de raza Faraon en juego, puedes botar la carta superior de tu Mazo Castillo para que ese Aliado pueda ser declarado atacante este turno. Carta Única.",
         "rarity": null,
-        "image": "/images/DDR-223.png"
+        "image": "/images/DDR-223.jpg"
     },
     {
         "id": 224,
@@ -2472,7 +2472,7 @@
         "strength": null,
         "ability": "Mientras Libro de los Muertos esté en tu Reserva, si tienes uno o más Aliados de raza Eterno en juego, en respuesta a que uno o más de tus Aliados sea destruido por una carta o Habilidad oponente, son barajados. Carta Única.",
         "rarity": null,
-        "image": "/images/DDR-225.png"
+        "image": "/images/DDR-225.jpg"
     },
     {
         "id": 226,
@@ -2593,7 +2593,7 @@
         "strength": null,
         "ability": "En tu Fase de Vigilia, si tienes dos o más Aliados de raza Sacerdote en juego, puedes barajar una carta de tu Mano para robar una carta, máximo 3 veces por turno. Carta Única.",
         "rarity": null,
-        "image": "/images/DDR-236.png"
+        "image": "/images/DDR-236.jpg"
     },
     {
         "id": 237,
