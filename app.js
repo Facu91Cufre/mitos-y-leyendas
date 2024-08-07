@@ -109,7 +109,7 @@ filterBtns.forEach((button) => {
     showCards(filteredCards, currentPage);
     generatePage(filteredCards);
   });
-})
+});
 
 // Search Button from Input
 
@@ -144,13 +144,24 @@ barIcon.addEventListener("click", () => {
 
 document.addEventListener("keydown", (e) => {
   const lastPage = Number(pageBtns.lastChild.innerText);
-  if (e.key === "ArrowRight" && currentPage < lastPage) {
-    currentPage++;
-    showCards(filteredCards, currentPage);
-  }
-  if (e.key === "ArrowLeft" && currentPage > 1) {
-    currentPage--;
-    showCards(filteredCards, currentPage);
+  switch (e.key) {
+    case "ArrowLeft":
+      if (currentPage > 1) {
+        currentPage--;
+        showCards(filteredCards, currentPage);
+      }
+      break;
+    case "ArrowRight":
+      if (currentPage < lastPage) {
+        currentPage++;
+        showCards(filteredCards, currentPage);
+      }
+      break;
+    case "Escape":
+      modalOverlay.style.display = "none";
+    default:
+      break;
   }
 });
+
 window.addEventListener("DOMContentLoaded", fetchCards);

@@ -234,8 +234,8 @@ main {
 .modal-btn {
   position: absolute;
   top: -.7rem;
-  right: -.7rem;
-  width: 1rem;
+  right: -2rem;
+  width: 2rem;
   color: red;
   cursor: pointer;
 }
