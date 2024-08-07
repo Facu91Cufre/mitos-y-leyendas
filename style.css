@@ -233,9 +233,9 @@ main {
 }
 .modal-btn {
   position: absolute;
-  top: 0;
-  right: 0;
-  width: 1.1rem;
+  top: -.7rem;
+  right: -.7rem;
+  width: 1rem;
   color: red;
   cursor: pointer;
 }
@@ -255,11 +255,11 @@ main {
 
 .page-button {
   padding: 0.3rem 0.5rem;
-  font-size: 1.2rem;
-  margin: 0 0.29rem;
+  font-size: .8rem;
+  margin: 0 0.09rem;
   border-radius: 50%;
   border: 1px solid rgb(133, 130, 130);
-  min-width: 2.5rem;
+  min-width: 1.9rem;
   cursor: pointer;
 }
 .page-button:hover {
