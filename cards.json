@@ -8,7 +8,7 @@
         "strength": 3,
         "ability": "Las abilityes oponentes que afecten a Amón cuestan 2 Oros adicionales. Mientras Amón esté en juego, en tu Fase de Vigilia, sólo una vez por turno, puedes pagar 4 Oros para buscar un Aliado de race Eterno de cost 5 o menos y ponerlo en juego sin pagar su cost. Carta Única.",
         "rarity": "Real",
-        "image": "/images/DDR-001.png"
+        "image": "/images/ra/DDR-001.png"
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
         "strength": 4,
         "ability": "Ptah no puede ser declarado atacante. Cuando entra en juego, tu oponente elige 6 cartas de tu Cementerio y las barajas en tu Mazo Castillo.",
         "rarity": "Real",
-        "image": "/images/DDR-002.png"
+        "image": "/images/ra/DDR-002.png"
     },
     {
         "id": 3,
@@ -30,7 +30,7 @@
         "strength": 6,
         "ability": "Osiris no puede ser declarado atacante. Mientras Osiris esté en juego, tu oponente no podrá descartar cartas de tu Mano.",
         "rarity": "Real",
-        "image": "/images/DDR-003.png"
+        "image": "/images/ra/DDR-003.png"
     },
     {
         "id": 4,
@@ -41,7 +41,7 @@
         "strength": 3,
         "ability": "Cuando Horus entra en juego, puedes jugar un Talismán de tu mano de cost 3 o menos sin pagar su cost.",
         "rarity": "Real",
-        "image": "/images/DDR-004.png"
+        "image": "/images/ra/DDR-004.png"
     },
     {
         "id": 5,
@@ -52,7 +52,7 @@
         "strength": 4,
         "ability": "Mientras Apophis esté en juego, todos los demás Aliados en juego pierden su ability. Cada vez que tu oponente juegue una carta que no sea un Oro, debe botar 3 cartas de su Mazo Castillo. Carta Única.",
         "rarity": "Real",
-        "image": "/images/DDR-005.png"
+        "image": "/images/ra/DDR-005.png"
     },
     {
         "id": 6,
@@ -63,7 +63,7 @@
         "strength": 3,
         "ability": "Seth es Imbloqueable. Si tu oponente juega una ability que afecte a Seth, debe botar 4 cartas de su Mazo Castillo. En respuesta a que tu oponente bote cartas de su Mazo Castillo, puedes destruir uno de tus Aliados para desterrar esas cartas.",
         "rarity": "Real",
-        "image": "/images/DDR-006.png"
+        "image": "/images/ra/DDR-006.png"
     },
     {
         "id": 7,
@@ -74,7 +74,7 @@
         "strength": 4,
         "ability": "Mientras Ra esté en juego, en tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para que tu oponente bote 5 cartas de su Mazo Castillo. En respuesta a que Ra sea destruido o desterrado, puedes descartar una carta para prevenirlo. Carta Única.",
         "rarity": "Real",
-        "image": "/images/DDR-007.png"
+        "image": "/images/ra/DDR-007.png"
     },
     {
         "id": 8,
@@ -85,7 +85,7 @@
         "strength": 1,
         "ability": "Puedes destruir a Anubis para elegir un Aliado oponente. Este Aliado pierde su ability y es destruido.",
         "rarity": "Real",
-        "image": "/images/DDR-008.png"
+        "image": "/images/ra/DDR-008.png"
     },
     {
         "id": 9,
@@ -96,7 +96,7 @@
         "strength": 3,
         "ability": "Bastet puede atacar cuando entra en juego. Mientras Bastet esté en juego, tus demás Aliados de race Eterno ganan 1 a la strength y pueden atacar cuando entran en juego.",
         "rarity": "Real",
-        "image": "/images/DDR-009.png"
+        "image": "/images/ra/DDR-009.png"
     },
     {
         "id": 10,
@@ -107,7 +107,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes desterrar las 3 cartas superiores de tu Mazo Castillo para buscar 1 carta en tu Mazo Castillo y ponerla en tu Mano.",
         "rarity": "Real",
-        "image": "/images/DDR-010.png"
+        "image": "/images/ra/DDR-010.png"
     },
     {
         "id": 11,
@@ -118,7 +118,7 @@
         "strength": 2,
         "ability": "Geb puede atacar cuando entra en juego. Cada vez que haga daño al Mazo Castillo oponente, puedes nombrar una carta que no sea Oro, tu oponente debe mostrar su Mano y barajar todas las copias que tenga en su Mazo Castillo.",
         "rarity": "Real",
-        "image": "/images/DDR-011.png"
+        "image": "/images/ra/DDR-011.png"
     },
     {
         "id": 12,
@@ -129,7 +129,7 @@
         "strength": 2,
         "ability": "Si Nut está en tu Línea de Defensa o en tu Línea de Ataque, puedes barajarlo en tu Mazo Castillo para buscar un Aliado de race Eterno o Sacerdote y ponerlo en tu Mano.",
         "rarity": "Real",
-        "image": "/images/DDR-012.png"
+        "image": "/images/ra/DDR-012.png"
     },
     {
         "id": 13,
@@ -140,7 +140,7 @@
         "strength": 1,
         "ability": "Mientras Shu esté en juego, en respuesta a que juegues un Talismán, puedes pagar 2 Oros para que no pueda ser anulado.",
         "rarity": "Real",
-        "image": "/images/DDR-013.png"
+        "image": "/images/ra/DDR-013.png"
     },
     {
         "id": 14,
@@ -151,7 +151,7 @@
         "strength": 4,
         "ability": "Juega a Am-Heh en la Línea de Defensa oponente.Mientras Am-Heh esté en juego, tus demás Aliados pierden 2 a la strength.",
         "rarity": "Real",
-        "image": "/images/DDR-014.png"
+        "image": "/images/ra/DDR-014.png"
     },
     {
         "id": 15,
@@ -162,7 +162,7 @@
         "strength": 3,
         "ability": "Mientras Akenathon esté en juego, tus demás Aliados no pueden ser afectados por abilityes de cartas Oponentes. Carta Única.",
         "rarity": "Real",
-        "image": "/images/DDR-015.png"
+        "image": "/images/ra/DDR-015.png"
     },
     {
         "id": 16,
@@ -173,7 +173,7 @@
         "strength": 3,
         "ability": "Tutmosis III no puede ser declarado bloqueador. Mientras Tutmosis III esté en tu Línea de Ataque, no puede ser afectados por Talismanes oponentes.",
         "rarity": "Real",
-        "image": "/images/DDR-016.png"
+        "image": "/images/ra/DDR-016.png"
     },
     {
         "id": 17,
@@ -184,7 +184,7 @@
         "strength": 6,
         "ability": "Ramsés II no puede ser declarado bloqueador. En tu Fase de Vigilia, puedes descartar una carta para que Ramsés II sea Indestructible e Indesterrable hasta tu próxima Fase de Vigilia. En respuesta a que sea bloqueado, puedes elegir que haga daño al Mazo Castillo oponente como si no hubiera sido bloqueado. Carta Única.",
         "rarity": "Real",
-        "image": "/images/DDR-017.png"
+        "image": "/images/ra/DDR-017.png"
     },
     {
         "id": 18,
@@ -195,7 +195,7 @@
         "strength": 2,
         "ability": "Cuando Nefertiti salga de juego, tu oponente debe botar 4 cartas de su Mazo Castillo.",
         "rarity": "Real",
-        "image": "/images/DDR-018.png"
+        "image": "/images/ra/DDR-018.png"
     },
     {
         "id": 19,
@@ -206,7 +206,7 @@
         "strength": 4,
         "ability": "Mientras Amenofis II esté en juego, todos tus Aliados de race Faraon ganan 2 a la strength y son Imbloqueables. Si Amenofis II porta un Arma, todos tus Aliados de race Faraon en Línea de Ataque no pueden ser afectados por Talismanes oponentes.",
         "rarity": "Real",
-        "image": "/images/DDR-019.png"
+        "image": "/images/ra/DDR-019.png"
     },
     {
         "id": 20,
@@ -217,7 +217,7 @@
         "strength": 2,
         "ability": "Mientras Seti esté en juego, en tu Fase de Vigilia, puedes pagar 1 Oro para que tu oponente bote 1 carta de su Mazo Castillo, con un máximo de 4 Oros por turno.",
         "rarity": "Real",
-        "image": "/images/DDR-020.png"
+        "image": "/images/ra/DDR-020.png"
     },
     {
         "id": 21,
@@ -228,7 +228,7 @@
         "strength": 3,
         "ability": "Mientras Tutankamón esté en juego, puedes botar una carta de tu Mazo Castillo para que uno de tus Aliados gane 1 a la strength, puedes botar hasta un máximo de 6 cartas por turno.",
         "rarity": "Real",
-        "image": "/images/DDR-021.png"
+        "image": "/images/ra/DDR-021.png"
     },
     {
         "id": 22,
@@ -239,7 +239,7 @@
         "strength": 3,
         "ability": "Cuando Snofru entra en juego, puedes barajar hasta 3 Aliados de tu Cementerio en tu Mazo Castillo.",
         "rarity": "Real",
-        "image": "/images/DDR-022.png"
+        "image": "/images/ra/DDR-022.png"
     },
     {
         "id": 23,
@@ -250,7 +250,7 @@
         "strength": 2,
         "ability": "Cuando Kefrén entra en juego, nombra uno de tus Aliados. Ese Aliado no puede salir del juego mientras Kefrén esté en tu Línea de Defensa.",
         "rarity": "Real",
-        "image": "/images/DDR-023.png"
+        "image": "/images/ra/DDR-023.png"
     },
     {
         "id": 24,
@@ -261,7 +261,7 @@
         "strength": 2,
         "ability": "Mientras Keops esté en tu Línea de Ataque, el cost de tus Tótems se reduce en 1. Keops es Imbloqueable.",
         "rarity": "Real",
-        "image": "/images/DDR-024.png"
+        "image": "/images/ra/DDR-024.png"
     },
     {
         "id": 25,
@@ -272,7 +272,7 @@
         "strength": 2,
         "ability": "Cuando Micerinos entra en juego, busca 1 Tótem en el Mazo Castillo oponente y destiérralo.",
         "rarity": "Real",
-        "image": "/images/DDR-025.png"
+        "image": "/images/ra/DDR-025.png"
     },
     {
         "id": 26,
@@ -283,7 +283,7 @@
         "strength": 3,
         "ability": "Djoser no tiene límite de Armas. Si Djoser porta un Arma, gana 2 a la strength. Las Armas jugadas en Djoser reducen en 1 su cost.",
         "rarity": "Real",
-        "image": "/images/DDR-026.png"
+        "image": "/images/ra/DDR-026.png"
     },
     {
         "id": 27,
@@ -294,7 +294,7 @@
         "strength": 1,
         "ability": "Narmer gana 1 a la strength por cada uno de tus Aliados en juego.",
         "rarity": "Real",
-        "image": "/images/DDR-027.png"
+        "image": "/images/ra/DDR-027.png"
     },
     {
         "id": 28,
@@ -305,7 +305,7 @@
         "strength": 2,
         "ability": "Cuando Imoteph entra en juego, nombra una carta. Esa carta y todas sus copias pierden su ability mientras Imoteph esté en juego. En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 2 Oros para buscar un Tótem en tu Mazo Castillo o en tu Cementerio y ponerlo en tu Mano. En respuesta a que Imoteph salga del juego por una ability oponente, puedes botar 3 cartas para prevenirlo. Carta Única.",
         "rarity": "Real",
-        "image": "/images/DDR-028.png"
+        "image": "/images/ra/DDR-028.png"
     },
     {
         "id": 29,
@@ -316,7 +316,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes descartar una carta para buscar una carta del mismo type en tu Mazo Castillo o Cementerio y ponerla en tu Mano.",
         "rarity": "Real",
-        "image": "/images/DDR-029.png"
+        "image": "/images/ra/DDR-029.png"
     },
     {
         "id": 30,
@@ -327,7 +327,7 @@
         "strength": 2,
         "ability": "Mientras Meskhenet esté en juego, en respuesta a que tu oponente juegue una carta que no sea Oro, puedes botar la carta superior de tu Mazo Castillo y si es del mismo type, la carta oponente es anulada.",
         "rarity": "Real",
-        "image": "/images/DDR-030.png"
+        "image": "/images/ra/DDR-030.png"
     },
     {
         "id": 31,
@@ -338,7 +338,7 @@
         "strength": 3,
         "ability": "Cuando Asheru entra en juego, elige un Totém en tu Línea de Apoyo, mientras Asheru esté en tu Línea de Defensa, este Tótem no puede salir del juego.",
         "rarity": "Real",
-        "image": "/images/DDR-031.png"
+        "image": "/images/ra/DDR-031.png"
     },
     {
         "id": 32,
@@ -349,7 +349,7 @@
         "strength": 4,
         "ability": "En la fase Final, puedes agrupar a Osorkhon el Grande. Si tienes dos o más Aliados de race Sacerdote en juego, Osorkhon el Grande es Imbloqueable.",
         "rarity": "Real",
-        "image": "/images/DDR-032.png"
+        "image": "/images/ra/DDR-032.png"
     },
     {
         "id": 33,
@@ -360,7 +360,7 @@
         "strength": 3,
         "ability": "Werin el poseído no puede ser afectado por abilityes de Aliados oponentes. En respuesta a que Werin el poseído sea destruido, puedes buscar un Talismán en tu Mazo Castillo y ponerlo en tu Mano.",
         "rarity": "Real",
-        "image": "/images/DDR-033.png"
+        "image": "/images/ra/DDR-033.png"
     },
     {
         "id": 34,
@@ -371,7 +371,7 @@
         "strength": 2,
         "ability": "Cuando Takelot entra en juego, nombra una carta para que ésta y todas sus copias pierdan su ability mientras Takelot esté en juego. En respuesta a que Takelot sea destruido o desterrado por una ability oponente, puedes pagar 2 Oros para prevenirlo.",
         "rarity": "Real",
-        "image": "/images/DDR-034.png"
+        "image": "/images/ra/DDR-034.png"
     },
     {
         "id": 35,
@@ -382,7 +382,7 @@
         "strength": 2,
         "ability": "Puedes destruir a Qer-Her para subir a la Mano un Aliado oponente. En tu Fase de Vigilia, si Qer-Her está en tu Cementerio, puedes pagar 3 Oros para ponerlo en juego sin pagar su cost.",
         "rarity": "Real",
-        "image": "/images/DDR-035.png"
+        "image": "/images/ra/DDR-035.png"
     },
     {
         "id": 36,
@@ -393,7 +393,7 @@
         "strength": 2,
         "ability": "Cuando Tuthu entra o salga del juego, tu oponente debe botar tantas cartas como strength tenga Tuthu",
         "rarity": "Real",
-        "image": "/images/DDR-036.png"
+        "image": "/images/ra/DDR-036.png"
     },
     {
         "id": 37,
@@ -404,7 +404,7 @@
         "strength": 2,
         "ability": "Cuando Kiya entra en juego, puedes mirar las cuatro cartas superiores de tu Mazo Castillo y devolverlas en el orden que quieras. En respuesta a la Fase Final, puedes desterrar a Kiya para robar 2 cartas.",
         "rarity": "Real",
-        "image": "/images/DDR-037.png"
+        "image": "/images/ra/DDR-037.png"
     },
     {
         "id": 38,
@@ -415,7 +415,7 @@
         "strength": 2,
         "ability": "Cuando Yunet entra en juego, nombra una carta, mientras Yunet esté en tu Línea de Defensa, esa carta no puede salir del juego.",
         "rarity": "Real",
-        "image": "/images/DDR-038.png"
+        "image": "/images/ra/DDR-038.png"
     },
     {
         "id": 39,
@@ -426,7 +426,7 @@
         "strength": 1,
         "ability": "Sólo puedes tener un Kawit en juego. Mientras Kawit esté en juego, las abilityes de cartas oponentes que afecten a tus Oros cuestan 3 oros adicionales.",
         "rarity": "Real",
-        "image": "/images/DDR-039.png"
+        "image": "/images/ra/DDR-039.png"
     },
     {
         "id": 40,
@@ -437,7 +437,7 @@
         "strength": 2,
         "ability": "Mientras Suma esté en juego, tus Aliados de race Sacerdote ganan 1 a la strength. En respuesta a declarar tu bloqueo, tus demás aliados de race Sacerdote ganan 2 a la strength.",
         "rarity": "Real",
-        "image": "/images/DDR-040.png"
+        "image": "/images/ra/DDR-040.png"
     },
     {
         "id": 41,
@@ -448,7 +448,7 @@
         "strength": null,
         "ability": "Atón no puede ser anulado. Busca una carta de oro en tu Mazo Castillo y ponla en tu Mano.",
         "rarity": "Real",
-        "image": "/images/DDR-041.png"
+        "image": "/images/ra/DDR-041.png"
     },
     {
         "id": 42,
@@ -459,7 +459,7 @@
         "strength": null,
         "ability": "Baraja una carta en juego que no sea Oro.",
         "rarity": "Real",
-        "image": "/images/DDR-042.png"
+        "image": "/images/ra/DDR-042.png"
     },
     {
         "id": 43,
@@ -470,7 +470,7 @@
         "strength": null,
         "ability": "En respuesta a que un Aliado sea destruido o desterrado, juega Momificación para prevenirlo, este aliado pierde su Habilidad por el resto del juego.",
         "rarity": "Real",
-        "image": "/images/DDR-043.png"
+        "image": "/images/ra/DDR-043.png"
     },
     {
         "id": 44,
@@ -481,7 +481,7 @@
         "strength": null,
         "ability": "En respuesta a un ataque oponente, puedes botar hasta 3 cartas de tu Mazo Castillo. Por cada carta que botes, tu oponente debe botar 2. Por este turno, tus Aliados no pueden ser declarados bloqueadores.",
         "rarity": "Real",
-        "image": "/images/DDR-044.png"
+        "image": "/images/ra/DDR-044.png"
     },
     {
         "id": 45,
@@ -492,7 +492,7 @@
         "strength": null,
         "ability": "Baraja tu Mano en tu Mazo Castillo y roba el mismo número de cartas.",
         "rarity": "Real",
-        "image": "/images/DDR-045.png"
+        "image": "/images/ra/DDR-045.png"
     },
     {
         "id": 46,
@@ -503,7 +503,7 @@
         "strength": null,
         "ability": "En respuesta a que un Aliado haga daño a un Mazo Castillo, puedes botar 3 cartas para que tu oponente bote tantas cartas de su Mazo Castillo como fuerza tenga ese Aliado.",
         "rarity": "Real",
-        "image": "/images/DDR-046.png"
+        "image": "/images/ra/DDR-046.png"
     },
     {
         "id": 47,
@@ -514,7 +514,7 @@
         "strength": null,
         "ability": "Destierra un Aliado en juego. Roba una carta.",
         "rarity": "Real",
-        "image": "/images/DDR-047.png"
+        "image": "/images/ra/DDR-047.png"
     },
     {
         "id": 48,
@@ -525,7 +525,7 @@
         "strength": null,
         "ability": "En respuesta a que tu oponente juegue o active una Habilidad que afecte una de sus cartas, juega Venganza para que tu oponente bote 6 cartas. Carta Única.",
         "rarity": "Real",
-        "image": "/images/DDR-048.png"
+        "image": "/images/ra/DDR-048.png"
     },
     {
         "id": 49,
@@ -536,7 +536,7 @@
         "strength": null,
         "ability": "Destruye todos los Aliados en juego. Tu oponente puede pagar 5 Oros para anular esta carta.",
         "rarity": "Real",
-        "image": "/images/DDR-049.png"
+        "image": "/images/ra/DDR-049.png"
     },
     {
         "id": 50,
@@ -547,7 +547,7 @@
         "strength": null,
         "ability": "Destruye uno de tus Aliados de raza Eterno para buscar una carta de Aliado en tu Mazo Castillo y ponerla en juego sin pagar su coste.",
         "rarity": "Real",
-        "image": "/images/DDR-050.png"
+        "image": "/images/ra/DDR-050.png"
     },
     {
         "id": 51,
@@ -558,7 +558,7 @@
         "strength": null,
         "ability": "En respuesta a que tu oponente juegue una carta que haga que uno de tus Aliados salga del juego, juega Gran Guardián para anular esa carta. Busca en el Mazo Castillo oponente todas las copias de esa carta y ponlas en el Cementerio.",
         "rarity": "Real",
-        "image": "/images/DDR-051.png"
+        "image": "/images/ra/DDR-051.png"
     },
     {
         "id": 52,
@@ -569,7 +569,7 @@
         "strength": null,
         "ability": "Cancela un ataque oponente y tu oponente bota tantas cartas como Aliados te hayan atacado.",
         "rarity": "Real",
-        "image": "/images/DDR-052.png"
+        "image": "/images/ra/DDR-052.png"
     },
     {
         "id": 53,
@@ -580,7 +580,7 @@
         "strength": null,
         "ability": "Jinetes de Fuego no puede ser anulado. Tu oponente bota tres cartas de su Mazo Castillo. Puedes jugar esta carta si está en tu Cementerio, si lo haces debe ser desterrado.",
         "rarity": "Real",
-        "image": "/images/DDR-053.png"
+        "image": "/images/ra/DDR-053.png"
     },
     {
         "id": 54,
@@ -591,7 +591,7 @@
         "strength": null,
         "ability": "Juega Denwen para que tus aliados no puedan salir del juego hasta la Fase Final.",
         "rarity": "Real",
-        "image": "/images/DDR-054.png"
+        "image": "/images/ra/DDR-054.png"
     },
     {
         "id": 55,
@@ -602,7 +602,7 @@
         "strength": null,
         "ability": "Baraja uno de tus Aliados para buscar en tu Mazo Castillo un aliado de igual coste y ponerlo en juego sin pagar su coste.",
         "rarity": "Real",
-        "image": "/images/DDR-055.png"
+        "image": "/images/ra/DDR-055.png"
     },
     {
         "id": 56,
@@ -613,7 +613,7 @@
         "strength": null,
         "ability": "Juega Ojos de Serpiente para que un Tótem oponente pierda su Habilidad por el resto del juego.",
         "rarity": "Real",
-        "image": "/images/DDR-056.png"
+        "image": "/images/ra/DDR-056.png"
     },
     {
         "id": 57,
@@ -624,7 +624,7 @@
         "strength": null,
         "ability": "En la Fase de Asignación de Daño, juega Purificar Escencias para reducir todo el daño a 0.",
         "rarity": "Real",
-        "image": "/images/DDR-057.png"
+        "image": "/images/ra/DDR-057.png"
     },
     {
         "id": 58,
@@ -635,7 +635,7 @@
         "strength": null,
         "ability": "Pon en juego un Aliado de tu Cementerio reduciendo su coste en 2.",
         "rarity": "Real",
-        "image": "/images/DDR-058.png"
+        "image": "/images/ra/DDR-058.png"
     },
     {
         "id": 59,
@@ -646,7 +646,7 @@
         "strength": null,
         "ability": "En respuesta a tu Declaración de Bloqueo, juega Demonio de piedra para que todos los Aliados oponentes declarados atacantes pierdan su Habilidad y 1 a la fuerza hasta la Fase Final.",
         "rarity": "Real",
-        "image": "/images/DDR-059.png"
+        "image": "/images/ra/DDR-059.png"
     },
     {
         "id": 60,
@@ -657,7 +657,7 @@
         "strength": null,
         "ability": "El portador de Hacha Sagrada gana 1 a la fuerza. Si el portador es de raza Faraon, gana 1 a la fuerza por cada otro Aliado que tengas en juego.",
         "rarity": "",
-        "image": "/images/DDR-060.png"
+        "image": "/images/ra/DDR-060.png"
     },
     {
         "id": 61,
@@ -668,7 +668,7 @@
         "strength": null,
         "ability": "El portador de Mandoble de Seth gana 2 a la fuerza. Si es portada por Seth, cada vez que sea declarado atacante, tu oponente debe botar 3 cartas.",
         "rarity": "Real",
-        "image": "/images/DDR-061.png"
+        "image": "/images/ra/DDR-061.png"
     },
     {
         "id": 62,
@@ -679,7 +679,7 @@
         "strength": null,
         "ability": "El portador de Sakraham gana 2 a la fuerza y es Imbloqueable. En respuesta a que el portador haga daño al Mazo Castillo oponente, puedes robar una carta.",
         "rarity": "Real",
-        "image": "/images/DDR-062.png"
+        "image": "/images/ra/DDR-062.png"
     },
     {
         "id": 63,
@@ -690,7 +690,7 @@
         "strength": null,
         "ability": "En respuesta a que el portador sea afectado por una Habilidad oponente, puedes desterrar a Lanza de Osiris para anular esa Habilidad y tu oponente debe botar 3 cartas.",
         "rarity": "Real",
-        "image": "/images/DDR-063.png"
+        "image": "/images/ra/DDR-063.png"
     },
     {
         "id": 64,
@@ -701,7 +701,7 @@
         "strength": null,
         "ability": "El portador de Carro Real gana 2 a la fuerza. Si el portador es un Aliado de raza Faraon, gana 2 a la fuerza y es Imbloqueable.",
         "rarity": "Real",
-        "image": "/images/DDR-064.png"
+        "image": "/images/ra/DDR-064.png"
     },
     {
         "id": 65,
@@ -712,7 +712,7 @@
         "strength": null,
         "ability": "El portador gana 2 a la fuerza. En respuesta a que el portador de Espada Diamante sea bloqueado, tu oponente bota tantas cartas como fuerza tenga este Aliado.",
         "rarity": "Real",
-        "image": "/images/DDR-065.png"
+        "image": "/images/ra/DDR-065.png"
     },
     {
         "id": 66,
@@ -723,7 +723,7 @@
         "strength": null,
         "ability": "El portador de Garras de Bronce gana 3 a la fuerza cuando bloquea. Si el portador es de raza Sacerdote, además es Indestructible desde la Fase de Batalla Mitológica hasta la Fase Final.",
         "rarity": "Real",
-        "image": "/images/DDR-066.png"
+        "image": "/images/ra/DDR-066.png"
     },
     {
         "id": 67,
@@ -734,7 +734,7 @@
         "strength": null,
         "ability": "Cuando Guiza entra en juego, todos los Aliados pierden su Habilidad y son barajados. Mientras esté en juego, no se pueden jugar Aliados. En su Fase de Vigilia, cualquier jugador puede pagar 3 Oros para que uno de sus Tótem se considere un Aliado con fuerza igual a su coste hasta la Fase Final. Carta Única.",
         "rarity": "Real",
-        "image": "/images/DDR-067.png"
+        "image": "/images/ra/DDR-067.png"
     },
     {
         "id": 68,
@@ -745,7 +745,7 @@
         "strength": null,
         "ability": "Mientras Abu Simbel esté en juego en tu Linea de Apoyo, los Aliados en juego no pueden ser destruidos o barajados por Habilidades de Aliados oponentes.",
         "rarity": "Real",
-        "image": "/images/DDR-068.png"
+        "image": "/images/ra/DDR-068.png"
     },
     {
         "id": 69,
@@ -756,7 +756,7 @@
         "strength": null,
         "ability": "Cuando Amarna entra en juego, nombra un Aliado en tu Línea de Defensa. Mientras Amarna esté en juego, este Aliado no puede ser decladado atacante y no puede ser afectado por Habilidades oponentes. Sólo puedes tener un Amarna en juego.",
         "rarity": "Real",
-        "image": "/images/DDR-069.png"
+        "image": "/images/ra/DDR-069.png"
     },
     {
         "id": 70,
@@ -767,7 +767,7 @@
         "strength": null,
         "ability": "En respuesta a declarar tu bloqueo, sólo una vez por turno, puedes pagar 2 Oros para poner una carta de Aliado de tu Cementerio en tu Línea de Defensa sin pagar su cote, ese Aliado entra en juego sin su Habilidad y en la Fase Final debe ser desterrado. ",
         "rarity": "Real",
-        "image": "/images/DDR-070.png"
+        "image": "/images/ra/DDR-070.png"
     },
     {
         "id": 71,
@@ -778,7 +778,7 @@
         "strength": null,
         "ability": "Mientras Nubia esté en juego, el límite máximo de cartas en la Mano de los jugadores se reduce en 2. Sólo puedes tener un Nubia en juego.",
         "rarity": "Real",
-        "image": "/images/DDR-071.png"
+        "image": "/images/ra/DDR-071.png"
     },
     {
         "id": 72,
@@ -789,7 +789,7 @@
         "strength": null,
         "ability": "Mientras Karnak esté en tu Línea de Apoyo, los Aliados en juego que no puedan ser declarados atacantes, no pueden ser afectados por Habilidades de cartas oponentes.",
         "rarity": "Real",
-        "image": "/images/DDR-072.png"
+        "image": "/images/ra/DDR-072.png"
     },
     {
         "id": 73,
@@ -800,7 +800,7 @@
         "strength": null,
         "ability": "Mientras Luxor esté en juego, tus demás Tótem no pueden ser afectados por Talismanes oponentes. Sólo puedes tener un Luxor en juego.",
         "rarity": "Real",
-        "image": "/images/DDR-073.png"
+        "image": "/images/ra/DDR-073.png"
     },
     {
         "id": 74,
@@ -811,7 +811,7 @@
         "strength": 2,
         "ability": "En respuesta a que Sobek sea declarado bloqueador, tu oponente debe destruir un Aliado declarado atacante.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-074.png"
+        "image": "/images/ra/DDR-074.png"
     },
     {
         "id": 75,
@@ -822,7 +822,7 @@
         "strength": 2,
         "ability": "En respuesta a la declaración de ataque oponente puedes agrupar a Neftis. Si es el único Aliado declarado bloqueador duplica su fuerza.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-075.png"
+        "image": "/images/ra/DDR-075.png"
     },
     {
         "id": 76,
@@ -833,7 +833,7 @@
         "strength": 2,
         "ability": "Cuando Montu entra en juego, puedes tomar un Oro de la reserva oponente y ponerlo en su Zona de Oro Pagado.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-076.png"
+        "image": "/images/ra/DDR-076.png"
     },
     {
         "id": 77,
@@ -844,7 +844,7 @@
         "strength": 3,
         "ability": "Puede atacar el turno que entra en juego, si hace daño al Mazo Castillo este turno, tu oponente debe botar 2 cartas.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-077.png"
+        "image": "/images/ra/DDR-077.png"
     },
     {
         "id": 78,
@@ -855,7 +855,7 @@
         "strength": 1,
         "ability": "En tu Fase de Vigilia, puedes destruir a Kepreth. En respuesta a que Kepreth sea destruido, puedes nombras 2 cartas para que tu oponente no pueda jugarlas en el próximo turno. Esta carta no afecta Oros.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-078.png"
+        "image": "/images/ra/DDR-078.png"
     },
     {
         "id": 79,
@@ -866,7 +866,7 @@
         "strength": 1,
         "ability": "Cuando Hathor entra en juego, puedes tomar un Aliado oponente de coste 2 y ponerlo en tu Línea de Defensa. Este Aliado debe ser declarado atacante. Si en la Fase Final no fue destruido, vuelve a la Línea de Ataque oponente.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-079.png"
+        "image": "/images/ra/DDR-079.png"
     },
     {
         "id": 80,
@@ -877,7 +877,7 @@
         "strength": 2,
         "ability": "En respuesta a que uno de tus Aliados de raza Eterno sea afectado por una Habilidad oponente, puedes desterrar a Knum para anular esa Habilidad.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-080.png"
+        "image": "/images/ra/DDR-080.png"
     },
     {
         "id": 81,
@@ -888,7 +888,7 @@
         "strength": 1,
         "ability": "En tu Fase de Vigilia puedes desterrar a Toth para que un Aliado de raza Eterno no pueda ser afectado por Talismanes por el resto del juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-081.png"
+        "image": "/images/ra/DDR-081.png"
     },
     {
         "id": 82,
@@ -899,7 +899,7 @@
         "strength": 2,
         "ability": "Si Neith porta un Arma, es Imbloqueable.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-082.png"
+        "image": "/images/ra/DDR-082.png"
     },
     {
         "id": 83,
@@ -910,7 +910,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, puedes destruir a Nejbet para que un Aliado de raza Eterno sea Indestructible hasta la Fase Final.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-083.png"
+        "image": "/images/ra/DDR-083.png"
     },
     {
         "id": 84,
@@ -921,7 +921,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia puedes destruir a Sacmis para que tu oponente bote 2 cartas de su Mazo Castillo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-084.png"
+        "image": "/images/ra/DDR-084.png"
     },
     {
         "id": 85,
@@ -932,7 +932,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes tomar una carta de Aliado de raza Faraon o Eterno de tu Cementerio y barajarlo con tu Mazo Castillo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-085.png"
+        "image": "/images/ra/DDR-085.png"
     },
     {
         "id": 86,
@@ -943,7 +943,7 @@
         "strength": 2,
         "ability": "Cuando entra en juego puedes tomar un Aliado de tu Zona de Destierro de coste 3 o menos y ponerlo en tu Mano.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-086.png"
+        "image": "/images/ra/DDR-086.png"
     },
     {
         "id": 87,
@@ -954,7 +954,7 @@
         "strength": 2,
         "ability": "Si Tamis es declarado atacante, gana 2 a la fuerza. Si hace daño al Mazo Castillo oponente, tú recibes el mismo daño.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-087.png"
+        "image": "/images/ra/DDR-087.png"
     },
     {
         "id": 88,
@@ -965,7 +965,7 @@
         "strength": 1,
         "ability": "Los aliados bloqueados por Nefertari pierden su Habilidad hasta la Fase Final.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-088.png"
+        "image": "/images/ra/DDR-088.png"
     },
     {
         "id": 89,
@@ -976,7 +976,7 @@
         "strength": 2,
         "ability": "Cuando Sesotris entra en juego, tus Aliados ganan 2 a la fuerza hasta la Fase Final. Si Sesotris sale del juego, puedes buscar en tu Mazo Castillo una carta Oro o Tótem y ponerla en tu Mano.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-089.png"
+        "image": "/images/ra/DDR-089.png"
     },
     {
         "id": 90,
@@ -987,7 +987,7 @@
         "strength": 2,
         "ability": "Cuando Sesotris III entra en juego, baraja un Aliado oponente. Tu oponente puede descartar 2 cartas de su mano o botar 3 de su Mazo Castillo para anular esta carta.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-090.png"
+        "image": "/images/ra/DDR-090.png"
     },
     {
         "id": 91,
@@ -998,7 +998,7 @@
         "strength": 1,
         "ability": "En su Fase de Vigilia, cualquier jugador puede pagar 2 Oros para barajar a Hateshesput. Mientras Hatesheshput esté en juego, los Aliados en juego no pueden ser afectados por Habilidades.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-091.png"
+        "image": "/images/ra/DDR-091.png"
     },
     {
         "id": 92,
@@ -1009,7 +1009,7 @@
         "strength": 2,
         "ability": "Cuando Mentuhopet entra en juego, puedes pagar 2 Oros para buscar una carta de Aliado de coste 2 o menos en tu Mazo Castillo y ponerlo en juego sin pagar su coste.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-092.png"
+        "image": "/images/ra/DDR-092.png"
     },
     {
         "id": 93,
@@ -1020,7 +1020,7 @@
         "strength": 3,
         "ability": "En tu Fase de Vigilia, debes destruir uno de tus Aliados. Si Horemheb hace daño al Mazo Castillo oponente, éste debe destruir una de sus cartas que no sea Oro.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-093.png"
+        "image": "/images/ra/DDR-093.png"
     },
     {
         "id": 94,
@@ -1031,7 +1031,7 @@
         "strength": 3,
         "ability": "Mientras Escorpión esté en juego, tus Aliados pueden ser declarados atacantes el turno que entran en juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-094.png"
+        "image": "/images/ra/DDR-094.png"
     },
     {
         "id": 95,
@@ -1042,7 +1042,7 @@
         "strength": 2,
         "ability": "Mientras Ahmosis el de Fuego esté en tu Línea de Defensa, tus Aliados ganan 1 a la fuerza. En respuesta a que sea afectado por una Habilidad oponente, puedes pagar 2 Oros para anular esa Habilidad y subir esta carta a tu Mano.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-095.png"
+        "image": "/images/ra/DDR-095.png"
     },
     {
         "id": 96,
@@ -1053,7 +1053,7 @@
         "strength": 1,
         "ability": "En respuesta a que uno de tus Aliados sea destruido por una Habilidad oponente, puedes subir a Virrey Setau a tu Mano para prevenirlo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-096.png"
+        "image": "/images/ra/DDR-096.png"
     },
     {
         "id": 97,
@@ -1064,7 +1064,7 @@
         "strength": 3,
         "ability": "El turno que Marenptah entra en juego, tus Aliados declarados atacantes pueden ser agrupados en la Fase Final.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-097.png"
+        "image": "/images/ra/DDR-097.png"
     },
     {
         "id": 98,
@@ -1075,7 +1075,7 @@
         "strength": 3,
         "ability": "Cuando Smedes entra en juego, puedes destruir uno de tus Aliados de fuerza 4 o más para que Smedes gane 3 a la fuerza permanentemente.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-098.png"
+        "image": "/images/ra/DDR-098.png"
     },
     {
         "id": 99,
@@ -1086,7 +1086,7 @@
         "strength": 1,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 2 Oros para buscar en tu Mazo Castillo una carta de Aliado de coste 3 o menos y ponerla en tu Mano.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-099.png"
+        "image": "/images/ra/DDR-099.png"
     },
     {
         "id": 100,
@@ -1097,7 +1097,7 @@
         "strength": 0,
         "ability": "Shebaka tiene fuerza igual al número de cartas en tu Mano.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-100.png"
+        "image": "/images/ra/DDR-100.png"
     },
     {
         "id": 101,
@@ -1108,7 +1108,7 @@
         "strength": 1,
         "ability": "Cuando Dagi entra en juego, nombra un Aliado en juego. Mientras Dagi esté en tu Línea de Defensa, el aliado nombrado es Indestructible.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-101.png"
+        "image": "/images/ra/DDR-101.png"
     },
     {
         "id": 102,
@@ -1119,7 +1119,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 2 Oros y subir uno de tus Aliados a tu Mano para destruir un Tótem oponente.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-102.png"
+        "image": "/images/ra/DDR-102.png"
     },
     {
         "id": 103,
@@ -1130,7 +1130,7 @@
         "strength": 2,
         "ability": "Mientras Umm esté en juego, tus demás Aliados de raza Sacerdote no pueden ser barajados.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-103.png"
+        "image": "/images/ra/DDR-103.png"
     },
     {
         "id": 104,
@@ -1141,7 +1141,7 @@
         "strength": 2,
         "ability": "Si Zaliki bloquea y es destruido, puedes buscar un Aliado en tu Cementerio y ponerlo en tu Mano.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-104.png"
+        "image": "/images/ra/DDR-104.png"
     },
     {
         "id": 105,
@@ -1152,7 +1152,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, puedes pagar 3 Oros para que un Aliado oponente no pueda ser declarado atacante el próximo turno.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-105.png"
+        "image": "/images/ra/DDR-105.png"
     },
     {
         "id": 106,
@@ -1163,7 +1163,7 @@
         "strength": 2,
         "ability": "Cuando Ramla entra en juego, si tienes dos o más Aliados de raza Sacerdote, puedes mostrar las tres primeras cartas de tu Mazo Castillo. Si hay una o más cartas de Tótem entre esas cartas, puedes jugar uno de ellos sin pagar su coste. Las otras cartas son desterradas. Si no hay Tótem las cartas son barajadas.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-106.png"
+        "image": "/images/ra/DDR-106.png"
     },
     {
         "id": 107,
@@ -1174,7 +1174,7 @@
         "strength": 3,
         "ability": "Si tienes a Seth en juego, Acero gana 2 a la fuerza por cada Aliado oponente de fuerza 3 o más.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-107.png"
+        "image": "/images/ra/DDR-107.png"
     },
     {
         "id": 108,
@@ -1185,7 +1185,7 @@
         "strength": 2,
         "ability": "Cuando Penumbra entra en juego, puedes subir un Aliado de fuerza 3 o menos a la Mano de tu oponente.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-108.png"
+        "image": "/images/ra/DDR-108.png"
     },
     {
         "id": 109,
@@ -1196,7 +1196,7 @@
         "strength": 2,
         "ability": "Cuando Pili entra en juego, puedes tomar una carta de Talismán de tu Cementerio y ponerla en tu Mano.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-109.png"
+        "image": "/images/ra/DDR-109.png"
     },
     {
         "id": 110,
@@ -1207,7 +1207,7 @@
         "strength": 1,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes descartar dos cartas para que tu oponente descarte una.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-110.png"
+        "image": "/images/ra/DDR-110.png"
     },
     {
         "id": 111,
@@ -1218,7 +1218,7 @@
         "strength": 4,
         "ability": "Qaa no puede ser declarado atacante. Qaa puede bloquear a más de un Aliado hasta agotar su fuerza.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-111.png"
+        "image": "/images/ra/DDR-111.png"
     },
     {
         "id": 112,
@@ -1229,7 +1229,7 @@
         "strength": 3,
         "ability": "Uni es Imbloqueable. Uni puede bloquear Aliados Imbloqueables",
         "rarity": "Cortesano",
-        "image": "/images/DDR-112.png"
+        "image": "/images/ra/DDR-112.png"
     },
     {
         "id": 113,
@@ -1240,7 +1240,7 @@
         "strength": 3,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para que tu oponente bote 2 cartas. Si lo haces, Yii no puede ser declarado atacante.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-113.png"
+        "image": "/images/ra/DDR-113.png"
     },
     {
         "id": 114,
@@ -1251,7 +1251,7 @@
         "strength": null,
         "ability": "Anula una carta que destruya o destierre uno de tus Aliados.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-114.png"
+        "image": "/images/ra/DDR-114.png"
     },
     {
         "id": 115,
@@ -1262,7 +1262,7 @@
         "strength": null,
         "ability": "En tu Fase de Vigilia, destruye uno de tus Oros sin Habilidad que esté en tu Reserva para buscar un Aliado de raza Eterno en tu Cementerio y ponerlo en juego sin pagar su coste.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-115.png"
+        "image": "/images/ra/DDR-115.png"
     },
     {
         "id": 116,
@@ -1273,7 +1273,7 @@
         "strength": null,
         "ability": "Si tienes en juego dos o más Aliados de raza Eterno, tu oponente debe mostrar su Mano y descartar una carta.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-116.png"
+        "image": "/images/ra/DDR-116.png"
     },
     {
         "id": 117,
@@ -1284,7 +1284,7 @@
         "strength": null,
         "ability": "Mira las cuatro primeras cartas de tu Mazo Castillo y pon una de esas cartas en tu Mano, luego baraja tu Mazo Castillo",
         "rarity": "Cortesano",
-        "image": "/images/DDR-117.png"
+        "image": "/images/ra/DDR-117.png"
     },
     {
         "id": 118,
@@ -1295,7 +1295,7 @@
         "strength": null,
         "ability": "Hijos de Anubis no puede ser anulado. En tu Fase de Vigilia, elige 3 cartas de Aliado o Tótem de tu Cementerio y barájalas en tu Mazo Castillo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-118.png"
+        "image": "/images/ra/DDR-118.png"
     },
     {
         "id": 119,
@@ -1306,7 +1306,7 @@
         "strength": null,
         "ability": "Cancela un ataque oponente. Puedes buscar una carta de Arma en tu Mazo Castillo y ponerla en juego sin pagar su coste.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-119.png"
+        "image": "/images/ra/DDR-119.png"
     },
     {
         "id":120,
@@ -1317,7 +1317,7 @@
         "strength": null,
         "ability": "Baraja uno de tus Aliados de raza Eterno para barajar 2 Aliados oponentes en su Mazo Castillo. Tu oponente puede anular esta habilidad pagando 3 Oros.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-120.png"
+        "image": "/images/ra/DDR-120.png"
     },
     {
         "id": 121,
@@ -1328,7 +1328,7 @@
         "strength": null,
         "ability": "Elige uno de tus Aliados y nombra un tipo de carta. Por el resto del juego, ese Aliado se considera de ese tipo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-121.png"
+        "image": "/images/ra/DDR-121.png"
     },
     {
         "id": 122,
@@ -1339,7 +1339,7 @@
         "strength": null,
         "ability": "Si tu oponente tiene en juego dos o más Tótem, debe botar 3 cartas de su Mazo Castillo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-122.png"
+        "image": "/images/ra/DDR-122.png"
     },
     {
         "id": 123,
@@ -1350,7 +1350,7 @@
         "strength": null,
         "ability": "Bota la carta superior de tu Mazo Castillo y destruye un Aliado oponente que tenga un coste igual o inferior que esa carta. Luego, tu oponente bota la carta superior de su Mazo Castillo y destruye uno de tus Aliados que tenga un coste igual o inferior que esa carta.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-123.png"
+        "image": "/images/ra/DDR-123.png"
     },
     {
         "id": 124,
@@ -1361,7 +1361,7 @@
         "strength": null,
         "ability": "Elige un Oro de Reserva y ponlo en tu Línea de Defensa, este Oro pierde su Habilidad hasta la Fase Final y se considera un Aliado con fuerza igual al número de Oros que tengas en tu Reserva. Al finalizar tu turno, si permanece en juego, ponlo en tu Reserva de Oro.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-124.png"
+        "image": "/images/ra/DDR-124.png"
     },
     {
         "id": 125,
@@ -1372,7 +1372,7 @@
         "strength": null,
         "ability": "Destruye uno de tus Aliados para Anular una carta oponente que no sea Oro que tenga un coste igual o inferion al coste del Aliado destruido.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-125.png"
+        "image": "/images/ra/DDR-125.png"
     },
     {
         "id": 126,
@@ -1383,7 +1383,7 @@
         "strength": null,
         "ability": "Anula una carta que descarte cartas de tu Mano.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-126.png"
+        "image": "/images/ra/DDR-126.png"
     },
     {
         "id": 127,
@@ -1394,7 +1394,7 @@
         "strength": null,
         "ability": "Ambos jugadores pueden descartar una carta de su Mano a la vez. El jugador que descarte la carta con mayor coste, puede desterrar un Aliado en juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-127.png"
+        "image": "/images/ra/DDR-127.png"
     },
     {
         "id": 128,
@@ -1405,7 +1405,7 @@
         "strength": null,
         "ability": "En la Fase de Asignación de Daño, juega Barro Sanador y destruye uno de tus Aliados para reducir todo el daño a 0.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-128.png"
+        "image": "/images/ra/DDR-128.png"
     },
     {
         "id": 129,
@@ -1416,7 +1416,7 @@
         "strength": null,
         "ability": "Tu oponente bota dos cartas por cada Oro que tenga en juego, este daño se reduce en dos por cada Oro que tu tengas en juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-129.png"
+        "image": "/images/ra/DDR-129.png"
     },
     {
         "id": 130,
@@ -1427,7 +1427,7 @@
         "strength": null,
         "ability": "Tu oponente no puede usar sus cartas de Oro durante su siguiente Fase de Vigilia.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-130.png"
+        "image": "/images/ra/DDR-130.png"
     },
     {
         "id": 131,
@@ -1438,7 +1438,7 @@
         "strength": null,
         "ability": "Busca una carta de Oro en tu Mazo Castillo y ponla en juego. Roba una carta.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-131.png"
+        "image": "/images/ra/DDR-131.png"
     },
     {
         "id": 132,
@@ -1449,7 +1449,7 @@
         "strength": null,
         "ability": "Tu oponente debe botar 12 artas de su Mazo Cstillo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-132.png"
+        "image": "/images/ra/DDR-132.png"
     },
     {
         "id": 133,
@@ -1460,7 +1460,7 @@
         "strength": null,
         "ability": "Baraja 12 cartas de tu Cementerio en tu Mazo Castillo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-133.png"
+        "image": "/images/ra/DDR-133.png"
     },
     {
         "id": 134,
@@ -1471,7 +1471,7 @@
         "strength": null,
         "ability": "En tu Fase de Vigilia, puedes desterrar Daga de Bastet para buscar una carta de Aliado de raza Sacerdote de coste 4 o menos en tu Mazo Castillo o en tu Cementerio y ponerlo en tu Mano.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-134.png"
+        "image": "/images/ra/DDR-134.png"
     },
     {
         "id": 135,
@@ -1482,7 +1482,7 @@
         "strength": null,
         "ability": "El portador de Espada Miliciana gana 3 a la fuerza cuando ataca. Si tienes dos o más Aliados de raza Faraon en juego, puedes jugar Espada Miliciana desde tu Cementerio.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-135.png"
+        "image": "/images/ra/DDR-135.png"
     },
     {
         "id": 136,
@@ -1493,7 +1493,7 @@
         "strength": null,
         "ability": "El portador de Escudo Miliciano gana 3 a la fuerza cuando bloquea. Si tienes dos o más Aliados de raza Faraon en juego, puedes jugar Escudo Miliciano desde tu Cementerio.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-136.png"
+        "image": "/images/ra/DDR-136.png"
     },
     {
         "id": 137,
@@ -1504,7 +1504,7 @@
         "strength": null,
         "ability": "El portador de Dezzi'ah gana 2 a la fuerza. En respuesta a que su portador haga daño, puedes buscar una copia de esta carta en tu Mazo Castillo y ponerla en juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-137.png"
+        "image": "/images/ra/DDR-137.png"
     },
     {
         "id": 138,
@@ -1515,7 +1515,7 @@
         "strength": null,
         "ability": "El portador de Vengativa gana 1 a la fuerza. El portador gana 1 a la fuerza por cada Aliado oponente en juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-138.png"
+        "image": "/images/ra/DDR-138.png"
     },
     {
         "id": 139,
@@ -1526,7 +1526,7 @@
         "strength": null,
         "ability": "En respuesta a la Asignación de Daño destierra Espada Nubia para reducir el daño a cero.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-139.png"
+        "image": "/images/ra/DDR-139.png"
     },
     {
         "id": 140,
@@ -1537,7 +1537,7 @@
         "strength": null,
         "ability": "Mientras Tebas esté en juego, los Aliados de fuerza 3 o más no pueden ser declarados atacantes.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-140.png"
+        "image": "/images/ra/DDR-140.png"
     },
     {
         "id": 141,
@@ -1548,7 +1548,7 @@
         "strength": null,
         "ability": "Mientras Beni Hassam esté en juego no se puede declarar ataque ni puedes hacer que tu oponente bote cartas de su Mazo Castillo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-141.png"
+        "image": "/images/ra/DDR-141.png"
     },
     {
         "id": 142,
@@ -1559,7 +1559,7 @@
         "strength": null,
         "ability": "Mientras Valle de los Reyes esté en juego, en tu Fase de Vigilia, sólo una vez por turno, destruye una de tus cartas en juego que no sea Oro para barajar tantas cartas de tu cementerio en tu Mazo Castillo como coste tenga la carta destruida.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-142.png"
+        "image": "/images/ra/DDR-142.png"
     },
     {
         "id": 143,
@@ -1570,7 +1570,7 @@
         "strength": null,
         "ability": "En respuesta a que un Aliado que no puede ser declarado atacante sea destruido o desterrado, puedes destruir a Deir-el-Bahari para prevenirlo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-143.png"
+        "image": "/images/ra/DDR-143.png"
     },
     {
         "id": 144,
@@ -1581,7 +1581,7 @@
         "strength": null,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para que tu oponente descarte una carta de su Mano.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-144.png"
+        "image": "/images/ra/DDR-144.png"
     },
     {
         "id": 145,
@@ -1592,7 +1592,7 @@
         "strength": null,
         "ability": "Mientras Colosos de Menmón esté en juego, en respuesta a finalizar tu turno, puedes descartar 2 cartas para agrupar tus Oros.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-145.png"
+        "image": "/images/ra/DDR-145.png"
     },
     {
         "id": 146,
@@ -1603,7 +1603,7 @@
         "strength": null,
         "ability": "En tu Fase de Vigilia, puedes pagar 2 Oros para que un Arma o Tótem en juego pierda su habilidad hasta la Fase Final.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-146.png"
+        "image": "/images/ra/DDR-146.png"
     },
     {
         "id": 147,
@@ -1614,7 +1614,7 @@
         "strength": 2,
         "ability": "Si tienes en juego dos o más Aliados de raza Eterno, puedes barajar a Wepwawet para buscar un Aliado en tu Cementerio y ponerlo en tu Mano.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-147.png"
+        "image": "/images/ra/DDR-147.png"
     },
     {
         "id": 148,
@@ -1625,7 +1625,7 @@
         "strength": 1,
         "ability": "En tu Fase de Vigilia puedes destruir a Tefnut para destruir un Aliado oponente.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-148.png"
+        "image": "/images/ra/DDR-148.png"
     },
     {
         "id": 149,
@@ -1636,7 +1636,7 @@
         "strength": 3,
         "ability": "Mientras Selkis esté en tu Línea de Defensa, los Aliados en juego no pueden aumentar su fuerza. En su Fase de Vigilia, tu oponente puede pagar 2 Oros para poner a Selkis en tu Línea de Ataque.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-149.png"
+        "image": "/images/ra/DDR-149.png"
     },
     {
         "id": 150,
@@ -1647,7 +1647,7 @@
         "strength": 2,
         "ability": "Cuanto Satis entra en juego, tu oponente debe botar 2 cartas de su Mazo Castillo",
         "rarity": "Vasallo",
-        "image": "/images/DDR-150.png"
+        "image": "/images/ra/DDR-150.png"
     },
     {
         "id": 151,
@@ -1658,7 +1658,7 @@
         "strength": 2,
         "ability": "Aken puede atacar el turno en que entra en juego.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-151.png"
+        "image": "/images/ra/DDR-151.png"
     },
     {
         "id": 152,
@@ -1669,7 +1669,7 @@
         "strength": 2,
         "ability": "Cuando Khonsu es declarado bloqueador, gana 2 a la fuerza",
         "rarity": "Vasallo",
-        "image": "/images/DDR-152.png"
+        "image": "/images/ra/DDR-152.png"
     },
     {
         "id": 153,
@@ -1680,7 +1680,7 @@
         "strength": 1,
         "ability": "En tu Fase de Vigilia, puedes desterrar a Hike para que un Aliado oponente deba ser declarado atacante el próximo turno.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-153.png"
+        "image": "/images/ra/DDR-153.png"
     },
     {
         "id": 154,
@@ -1691,7 +1691,7 @@
         "strength": 4,
         "ability": "Si Ket y Kauket es declarado atacante, en tu próximo turno no puede ser agrupado.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-154.png"
+        "image": "/images/ra/DDR-154.png"
     },
     {
         "id": 155,
@@ -1702,7 +1702,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, puedes destruir a Hapi para buscar una carta de Oro en tu Mazo Castillo y ponerla en tu Mano.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-155.png"
+        "image": "/images/ra/DDR-155.png"
     },
     {
         "id": 156,
@@ -1713,7 +1713,7 @@
         "strength": 2,
         "ability": "Mientras Renenutet esté en juego, tus demás Aliados de raza Eterno ganan 1 a la fuerza.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-156.png"
+        "image": "/images/ra/DDR-156.png"
     },
     {
         "id": 157,
@@ -1724,7 +1724,7 @@
         "strength": 5,
         "ability": "Heqet no puede ser declarado atacante. Si Heqet es declarado bloqueador, en la Fase Final debes subirlo a tu Mano.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-157.png"
+        "image": "/images/ra/DDR-157.png"
     },
     {
         "id": 158,
@@ -1735,7 +1735,7 @@
         "strength": 3,
         "ability": "Si Mahu es declarado atacante, en la Fase Final debe ser Desterrado.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-158.png"
+        "image": "/images/ra/DDR-158.png"
     },
     {
         "id": 159,
@@ -1746,7 +1746,7 @@
         "strength": 3,
         "ability": "En respuesta a que tu oponente descarte cartas de tu Mano, puedes barajar a Amán para robar dos cartas.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-159.png"
+        "image": "/images/ra/DDR-159.png"
     },
     {
         "id": 160,
@@ -1757,7 +1757,7 @@
         "strength": 3,
         "ability": null,
         "rarity": "Vasallo",
-        "image": "/images/DDR-160.png"
+        "image": "/images/ra/DDR-160.png"
     },
     {
         "id": 161,
@@ -1768,7 +1768,7 @@
         "strength": 3,
         "ability": "Para jugar a Montuhopet II, debes devolver a tu Mano uno de tus Aliados de raza Faraon.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-161.png"
+        "image": "/images/ra/DDR-161.png"
     },
     {
         "id": 162,
@@ -1779,7 +1779,7 @@
         "strength": 4,
         "ability": "Si Sehetepibre es declarado atacante, no puedes declarar otros Aliados atacantes. En respuesta a la Asignación de Daño, puedes destruir a Sehetepibre para que tu oponente bote tantas cartas de su Mazo Castillo como fuerza tenga este Aliado.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-162.png"
+        "image": "/images/ra/DDR-162.png"
     },
     {
         "id": 163,
@@ -1790,7 +1790,7 @@
         "strength": 2,
         "ability": "Cuando Salitis el Usurpador entra en juego, baraja todos tus demás Aliados de raza Faraon. Mientras Salitis esté en juego, los Aliados de raza Faraon y Sacerdote pierden 1 a la fuerza.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-163.png"
+        "image": "/images/ra/DDR-163.png"
     },
     {
         "id": 164,
@@ -1812,7 +1812,7 @@
         "strength": 3,
         "ability": "Medjay es Imbloqueable. Si uno de tus Aliados de raza Faraon es destruido, debes destruir a Medjay.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-165.png"
+        "image": "/images/ra/DDR-165.png"
     },
     {
         "id": 166,
@@ -1823,7 +1823,7 @@
         "strength": 1,
         "ability": "Si Guerreros Egipcios es declarado atacante o bloqueador, sólo una vez por turno, puedes botar la carta superior de tu Mazo Castillo para que gane 2 a la fuerza hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-166.png"
+        "image": "/images/ra/DDR-166.png"
     },
     {
         "id": 167,
@@ -1834,7 +1834,7 @@
         "strength": 1,
         "ability": "Cuando Visir entra en juego, puedes barajar uno de tus Aliados de raza Faraon para robar 2 cartas.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-167.png"
+        "image": "/images/ra/DDR-167.png"
     },
     {
         "id": 168,
@@ -1845,7 +1845,7 @@
         "strength": 1,
         "ability": "Para jugar a Radjedef debes destruir uno de tus Aliados. Radjedef gana tanta fuerza como fuerza tenga el Aliado destruido, permanentemente.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-168.png"
+        "image": "/images/ra/DDR-168.png"
     },
     {
         "id": 169,
@@ -1856,7 +1856,7 @@
         "strength": 1,
         "ability": "En respuesta a que Sinuhé el Viajero salga del juego, puedes buscar una carta de Oro en tu Mazo Castillo y ponerla en tu Mano.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-169.png"
+        "image": "/images/ra/DDR-169.png"
     },
     {
         "id": 170,
@@ -1867,7 +1867,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, mira la primera carta de tu Mazo Castillo. Si es un Aliado de raza Faraon, puedes pagar 3 Oros para ponerlo en juego sin pagar su coste. Si es de otro tipo, la carta debe ser barajada.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-170.png"
+        "image": "/images/ra/DDR-170.png"
     },
     {
         "id": 171,
@@ -1878,7 +1878,7 @@
         "strength": 1,
         "ability": "Mientras Kah el Protector esté en juego, no puedes jugar Aliados de raza Sacerdote. En respuesta a que tu oponente juegue un Aliado de raza Sacerdote, puedes pagar el coste de ese Aliado para anularlo.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-171.png"
+        "image": "/images/ra/DDR-171.png"
     },
     {
         "id": 172,
@@ -1889,7 +1889,7 @@
         "strength": 2,
         "ability": "Cuando Surero entra en juego, mira las 6 primeras cartas de tu Mazo Castillo. Puedes jugar un Aliado de raza Faraon que esté entre esas cartas sin pagar su coste. Luego debes barajar tu Mazo Castillo.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-172.png"
+        "image": "/images/ra/DDR-172.png"
     },
     {
         "id": 173,
@@ -1900,7 +1900,7 @@
         "strength": 1,
         "ability": "Cuando Astrónomo entra en juego, elige uno de los Tótem en tu Línea de Apoyo. Mientras este Tótem y Astrónomo estén en juego, tu oponente juega con su mano descubierta.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-173.png"
+        "image": "/images/ra/DDR-173.png"
     },
     {
         "id": 174,
@@ -1911,7 +1911,7 @@
         "strength": 2,
         "ability": "En respuesta a que Dogir salga del juego, puedes buscar un Aliado de raza Eterno en tu Mazo Castillo y ponerlo en tu Mano.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-174.png"
+        "image": "/images/ra/DDR-174.png"
     },
     {
         "id": 175,
@@ -1922,7 +1922,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, puedes destruir a Femi para que uno de tus Tótem o Arma en juego no pueda ser afectado por habilidades oponentes hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-175.png"
+        "image": "/images/ra/DDR-175.png"
     },
     {
         "id": 176,
@@ -1933,7 +1933,7 @@
         "strength": 3,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para activar la Habilidad de uno de tus Tótem sin pagar su coste.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-176.png"
+        "image": "/images/ra/DDR-176.png"
     },
     {
         "id": 177,
@@ -1944,7 +1944,7 @@
         "strength": 1,
         "ability": "En respuesta a que uno de tus Aliados de raza Eterno o Sacerdote sea destruido o barajado, puedes desterrar a Ipy para prevenirlo.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-177.png"
+        "image": "/images/ra/DDR-177.png"
     },
     {
         "id": 178,
@@ -1955,7 +1955,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes ver la carta superior de tu Mazo Castillo.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-178.png"
+        "image": "/images/ra/DDR-178.png"
     },
     {
         "id": 179,
@@ -1966,7 +1966,7 @@
         "strength": 3,
         "ability": "Mientras Traductor de Palacio esté en tu Línea de Defensa, en tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para tomar un Aliado oponente en Línea de Ataque y ponerlo en tu Línea de Defensa hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-179.png"
+        "image": "/images/ra/DDR-179.png"
     },
     {
         "id": 180,
@@ -1977,7 +1977,7 @@
         "strength": 2,
         "ability": "Mientras Escribano esté en juego, cada vez que juegues un Aliado de raza Sacerdote puedes robar una carta.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-180.png"
+        "image": "/images/ra/DDR-180.png"
     },
     {
         "id": 181,
@@ -1988,7 +1988,7 @@
         "strength": 2,
         "ability": "En Batalla Mitológica, puedes desterrar a Ipi-ha-ishutet para que tus Aliados declarados bloqueadores  ganen 2 a la fuerza hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-181.png"
+        "image": "/images/ra/DDR-181.png"
     },
     {
         "id": 182,
@@ -1999,7 +1999,7 @@
         "strength": 1,
         "ability": "Cuando Jarha entra en juego, puedes subir a tu Mano uno de tus Aliados en Línea de Defensa de raza Eterno o Sacerdote.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-182.png"
+        "image": "/images/ra/DDR-182.png"
     },
     {
         "id": 183,
@@ -2010,7 +2010,7 @@
         "strength": 3,
         "ability": "Cuando Iuput entra en juego, puedes tomar hasta tres Aliados de raza Sacerdote de tu Cementerio y barajarlos en tu Mazo Castillo.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-183.png"
+        "image": "/images/ra/DDR-183.png"
     },
     {
         "id": 184,
@@ -2021,7 +2021,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, puedes destruir a Bennu para tomar un Aliado de raza Sacerdote de coste 3 o menos de tu Cementerio y ponerlo en juego sin pagar su coste.",
         "rarity": "Vasalloa",
-        "image": "/images/DDR-184.png"
+        "image": "/images/ra/DDR-184.png"
     },
     {
         "id": 185,
@@ -2032,7 +2032,7 @@
         "strength": 3,
         "ability": "Cuando Asceta del Nilo entra el juego, destierra un Tótem en juego.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-185.png"
+        "image": "/images/ra/DDR-185.png"
     },
     {
         "id": 186,
@@ -2043,7 +2043,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, si tienes 3 o más Aliados de raza Sacerdote en juego, puedes pagar 3 Oros para subir un Aliado en juego a la Mano.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-186.png"
+        "image": "/images/ra/DDR-186.png"
     },
     {
         "id": 187,
@@ -2054,7 +2054,7 @@
         "strength": 3,
         "ability": "En respuesta a la declaración de ataque oponente, puedes subir a Vástago de Anubis a tu Mano para subir a la Mano un Aliado declarado atacante.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-187.png"
+        "image": "/images/ra/DDR-187.png"
     },
     {
         "id": 188,
@@ -2065,7 +2065,7 @@
         "strength": null,
         "ability": "En tu Fase de Vigilia, juega El Perdón de Ra para que Ra no pueda ser afectado por Habilidades de cartas oponentes hasta tu próxima Fase de Vigilia.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-188.png"
+        "image": "/images/ra/DDR-188.png"
     },
     {
         "id": 189,
@@ -2076,7 +2076,7 @@
         "strength": null,
         "ability": "En Guerra de Talismanes, juega Dardos de Montu y bota 2 cartas para que tu oponente bote 4 cartas de su Mazo Castillo.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-189.png"
+        "image": "/images/ra/DDR-189.png"
     },
     {
         "id": 190,
@@ -2087,7 +2087,7 @@
         "strength": null,
         "ability": "Juega Abrir la Boca para que un Aliado oponente en Línea de Ataque no pueda ser agrupado por el resto del juego.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-190.png"
+        "image": "/images/ra/DDR-190.png"
     },
     {
         "id": 191,
@@ -2098,7 +2098,7 @@
         "strength": null,
         "ability": "En respuesta a que Seth sea declarado atacante, juega Trueno de Seth para que tu oponente bote 3 cartas.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-191.png"
+        "image": "/images/ra/DDR-191.png"
     },
     {
         "id": 192,
@@ -2109,7 +2109,7 @@
         "strength": null,
         "ability": "En respuesta a un ataque oponente, juega Nueblas de Anubis para tomar de tu Cementerio un Aliado de fuerza 3 o menos y pónlo en tu Línea de Defensa, sin pagar su coste. Este Aliado puede ser declarado bllqueador en la Fase Final debe ser destruido.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-192.png"
+        "image": "/images/ra/DDR-192.png"
     },
     {
         "id": 193,
@@ -2120,7 +2120,7 @@
         "strength": null,
         "ability": "En tu Fase de Vigilia, juega Duelo en el Desierto para que todos tus Aliados de raza Faraon sean Imbloqueables hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-193.png"
+        "image": "/images/ra/DDR-193.png"
     },
     {
         "id": 194,
@@ -2131,7 +2131,7 @@
         "strength": null,
         "ability": "En tu Fase de Vigilia, juega Cacería de Hipopótamo para que todos tus Aliados de raza Eterno sean Indestructibles hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-194.png"
+        "image": "/images/ra/DDR-194.png"
     },
     {
         "id": 195,
@@ -2142,7 +2142,7 @@
         "strength": null,
         "ability": "Juega Badu-Badu para que uno de tus Aliados gane 4 a la fuerza. En la Fase Final destruye todos tus Aliados en juego.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-195.png"
+        "image": "/images/ra/DDR-195.png"
     },
     {
         "id": 196,
@@ -2153,7 +2153,7 @@
         "strength": null,
         "ability": "Destruye un Aliado de raza Sacerdote en juego.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-196.png"
+        "image": "/images/ra/DDR-196.png"
     },
     {
         "id": 197,
@@ -2164,7 +2164,7 @@
         "strength": null,
         "ability": "Juega Hambre de Apophis para que todos los Aliados en juego pierdan su Habilidad y tengan fuerza 0 hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-197.png"
+        "image": "/images/ra/DDR-197.png"
     },
     {
         "id": 198,
@@ -2175,7 +2175,7 @@
         "strength": null,
         "ability": "Un Aliado en juego gana 2 a la fuerza y no puede ser declarado atacante por el resto del juego.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-198.png"
+        "image": "/images/ra/DDR-198.png"
     },
     {
         "id": 199,
@@ -2186,7 +2186,7 @@
         "strength": null,
         "ability": "Nombra un tipo de carta y muestra la carta superior de tu Mazo Castillo, si es de ese tipo, puedes ver la Mano de tu oponente. La carta mostrada debe ser barajada.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-199.png"
+        "image": "/images/ra/DDR-199.png"
     },
     {
         "id": 200,
@@ -2197,7 +2197,7 @@
         "strength": null,
         "ability": "En respuesta a un ataque oponente, debes descartar una carta por cada Aliado atacante para cancelar ese ataque.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-200.png"
+        "image": "/images/ra/DDR-200.png"
     },
     {
         "id": 201,
@@ -2208,7 +2208,7 @@
         "strength": null,
         "ability": "Este turno no se puede declarar bloqueo.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-201.png"
+        "image": "/images/ra/DDR-201.png"
     },
     {
         "id": 202,
@@ -2219,7 +2219,7 @@
         "strength": null,
         "ability": "Todos tus Aliados declarados bloqueadores son Indestructibles hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-202.png"
+        "image": "/images/ra/DDR-202.png"
     },
     {
         "id": 203,
@@ -2230,7 +2230,7 @@
         "strength": null,
         "ability": "Por cada Aliado de raza Sacerdote que tengas en tu Cementerio, tu oponente debe botar 1 carta de su Mazo Castillo.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-203.png"
+        "image": "/images/ra/DDR-203.png"
     },
     {
         "id": 204,
@@ -2241,7 +2241,7 @@
         "strength": null,
         "ability": "Uno de tus Aliados es Imbloqueable y un Aliado oponente no puede ser declarado bloqueador por este turno.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-204.png"
+        "image": "/images/ra/DDR-204.png"
     },
     {
         "id": 205,
@@ -2252,7 +2252,7 @@
         "strength": null,
         "ability": "Uno de tus Aliados no recibe daño en Batalla Mitológica.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-205.png"
+        "image": "/images/ra/DDR-205.png"
     },
     {
         "id": 206,
@@ -2263,7 +2263,7 @@
         "strength": null,
         "ability": "En respuesta a que cualquier jugador declare ataque, juega No más Juegos para que los jugadores se salten la Guerra de Talismanes.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-206.png"
+        "image": "/images/ra/DDR-206.png"
     },
     {
         "id": 207,
@@ -2274,7 +2274,7 @@
         "strength": null,
         "ability": "Si el portador de Arco de Satis es declarado bloqueador, tu oponente debe botar 2 cartas de su Mazo Castillo.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-207.png"
+        "image": "/images/ra/DDR-207.png"
     },
     {
         "id": 208,
@@ -2285,7 +2285,7 @@
         "strength": null,
         "ability": "El portador de Daga de Seth gana 2 a la fuerza. Si el portador es de raza Eterno, en tu Fase de Vigilia, puedes descartar una carta para que sea Imbloqueable hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-208.png"
+        "image": "/images/ra/DDR-208.png"
     },
     {
         "id": 209,
@@ -2296,7 +2296,7 @@
         "strength": null,
         "ability": "En respuesta a que el portador de Honda Miliciana sea declarado atacante, tu oponente debe botar 2 cartas.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-209.png"
+        "image": "/images/ra/DDR-209.png"
     },
     {
         "id": 210,
@@ -2307,7 +2307,7 @@
         "strength": null,
         "ability": "Destierra Hacha de Trabajo para que un Aliado declarado bloqueador no reciba daño en Fase de Asignación de Daño.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-210.png"
+        "image": "/images/ra/DDR-210.png"
     },
     {
         "id": 211,
@@ -2318,7 +2318,7 @@
         "strength": null,
         "ability": "El portador de Espada de Guardián gana 2 a la fuerza. Si el portador es declarado bloqueador, gana 2 a la fuerza hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-211.png"
+        "image": "/images/ra/DDR-211.png"
     },
     {
         "id": 212,
@@ -2329,7 +2329,7 @@
         "strength": null,
         "ability": "Destierra Jabalina Milesiana para que tu oponente bote tantas cartas como Armas haya en juego.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-212.png"
+        "image": "/images/ra/DDR-212.png"
     },
     {
         "id": 213,
@@ -2340,7 +2340,7 @@
         "strength": null,
         "ability": "En tu fae de Vigilia, sólo una vez por turno, puedes buscar un Arma en tu Mazo Castillo y ponerla en tu Mano.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-213.png"
+        "image": "/images/ra/DDR-213.png"
     },
     {
         "id": 214,
@@ -2351,7 +2351,7 @@
         "strength": null,
         "ability": "En respuesta a que uno de tus Aliados de raza Sacerdote en Línea de Defensa sea destruido, puedes destruir a Debob para prevenirlo.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-214.png"
+        "image": "/images/ra/DDR-214.png"
     },
     {
         "id": 215,
@@ -2362,7 +2362,7 @@
         "strength": null,
         "ability": "En respuesta a finalizar tu turno, si todos tus Aliados están en Línea de Defensa, puedes pagar 3 Oros para buscar un Aliado de raza Sacerdote en tu Mazo Castillo y ponerlo en tu Mano.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-215.png"
+        "image": "/images/ra/DDR-215.png"
     },
     {
         "id": 216,
@@ -2373,7 +2373,7 @@
         "strength": null,
         "ability": "Mientras Templo Sombrío esté en juego, en tu Fase de Vigilia, puedes pagar 2 Oros para que puedas jugar con tu Cementerio hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-216.png"
+        "image": "/images/ra/DDR-216.png"
     },
     {
         "id": 217,
@@ -2384,7 +2384,7 @@
         "strength": null,
         "ability": "En respuesta a un ataque oponente, puedes pagar 3 Oros para que Esfinge de Guiza se considere un Aliado bloqueador de fuerza igual a su coste, no puedes jugar esta Habilidad si tienes Aliados en juego. En la Fase Final, si permanece en juego, vuelve a la Línea de Apoyo.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-217.png"
+        "image": "/images/ra/DDR-217.png"
     },
     {
         "id": 218,
@@ -2395,7 +2395,7 @@
         "strength": null,
         "ability": "En Batalla Mitológica, puedes descartar una carta para que un Aliado oponente vuelva a la Línea de Defensa.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-218.png"
+        "image": "/images/ra/DDR-218.png"
     },
     {
         "id": 219,
@@ -2406,7 +2406,7 @@
         "strength": null,
         "ability": "Mientras Mastabas esté en juego, los Aliados Imbloqueables en Línea de Ataque tienen fuerza 0.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-219.png"
+        "image": "/images/ra/DDR-219.png"
     },
     {
         "id": 220,
@@ -2417,7 +2417,7 @@
         "strength": null,
         "ability": "En respuesta a un ataque oponente, puedes desterrar a Saqqara para cancelarlo.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-220.png"
+        "image": "/images/ra/DDR-220.png"
     },
     {
         "id": 221,
@@ -2428,7 +2428,7 @@
         "strength": null,
         "ability": null,
         "rarity": null,
-        "image": "/images/DDR-221.png"
+        "image": "/images/ra/DDR-221.png"
     },
     {
         "id": 222,
@@ -2439,7 +2439,7 @@
         "strength": null,
         "ability": null,
         "rarity": null,
-        "image": "/images/DDR-222.png"
+        "image": "/images/ra/DDR-222.png"
     },
     {
         "id": 223,
@@ -2450,7 +2450,7 @@
         "strength": null,
         "ability": "En respuesta a que bajes un Aliado, si Corona Faraonica está en tu Reserva y si tienes uno o más Aliados de raza Faraon en juego, puedes botar la carta superior de tu Mazo Castillo para que ese Aliado pueda ser declarado atacante este turno. Carta Única.",
         "rarity": null,
-        "image": "/images/DDR-223.jpg"
+        "image": "/images/ra/DDR-223.jpg"
     },
     {
         "id": 224,
@@ -2461,7 +2461,7 @@
         "strength": null,
         "ability": null,
         "rarity": null,
-        "image": "/images/DDR-224.png"
+        "image": "/images/ra/DDR-224.png"
     },
     {
         "id": 225,
@@ -2472,7 +2472,7 @@
         "strength": null,
         "ability": "Mientras Libro de los Muertos esté en tu Reserva, si tienes uno o más Aliados de raza Eterno en juego, en respuesta a que uno o más de tus Aliados sea destruido por una carta o Habilidad oponente, son barajados. Carta Única.",
         "rarity": null,
-        "image": "/images/DDR-225.jpg"
+        "image": "/images/ra/DDR-225.jpg"
     },
     {
         "id": 226,
@@ -2483,7 +2483,7 @@
         "strength": null,
         "ability": null,
         "rarity": null,
-        "image": "/images/DDR-226.png"
+        "image": "/images/ra/DDR-226.png"
     },
     {
         "id": 227,
@@ -2494,7 +2494,7 @@
         "strength": null,
         "ability": null,
         "rarity": null,
-        "image": "/images/DDR-227.png"
+        "image": "/images/ra/DDR-227.png"
     },
     {
         "id": 228,
@@ -2505,7 +2505,7 @@
         "strength": null,
         "ability": null,
         "rarity": null,
-        "image": "/images/DDR-228.png"
+        "image": "/images/ra/DDR-228.png"
     },
     {
         "id": 229,
@@ -2516,7 +2516,7 @@
         "strength": null,
         "ability": null,
         "rarity": null,
-        "image": "/images/DDR-229.png"
+        "image": "/images/ra/DDR-229.png"
     },
     {
         "id": 230,
@@ -2527,7 +2527,7 @@
         "strength": null,
         "ability": null,
         "rarity": null,
-        "image": "/images/DDR-230.png"
+        "image": "/images/ra/DDR-230.png"
     },
     {
         "id": 231,
@@ -2538,7 +2538,7 @@
         "strength": null,
         "ability": null,
         "rarity": null,
-        "image": "/images/DDR-231.png"
+        "image": "/images/ra/DDR-231.png"
     },
     {
         "id": 232,
@@ -2549,7 +2549,7 @@
         "strength": null,
         "ability": null,
         "rarity": null,
-        "image": "/images/DDR-232.png"
+        "image": "/images/ra/DDR-232.png"
     },
     {
         "id": 233,
@@ -2560,7 +2560,7 @@
         "strength": null,
         "ability": null,
         "rarity": null,
-        "image": "/images/DDR-233.png"
+        "image": "/images/ra/DDR-233.png"
     },
     {
         "id": 234,
@@ -2571,7 +2571,7 @@
         "strength": null,
         "ability": null,
         "rarity": null,
-        "image": "/images/DDR-234.png"
+        "image": "/images/ra/DDR-234.png"
     },
     {
         "id": 235,
@@ -2582,7 +2582,7 @@
         "strength": null,
         "ability": null,
         "rarity": null,
-        "image": "/images/DDR-235.png"
+        "image": "/images/ra/DDR-235.png"
     },
     {
         "id": 236,
@@ -2593,7 +2593,7 @@
         "strength": null,
         "ability": "En tu Fase de Vigilia, si tienes dos o más Aliados de raza Sacerdote en juego, puedes barajar una carta de tu Mano para robar una carta, máximo 3 veces por turno. Carta Única.",
         "rarity": null,
-        "image": "/images/DDR-236.jpg"
+        "image": "/images/ra/DDR-236.jpg"
     },
     {
         "id": 237,
@@ -2604,7 +2604,7 @@
         "strength": 3,
         "ability": "Única. Cuando Cleopatra VII entra en juego, nombra una raza, los Aliados de esa raza pierden su habilidad mientras Cleopatra VII esté en juego.",
         "rarity": "Real",
-        "image": "/images/DDR-237.png"
+        "image": "/images/ra/DDR-237.png"
     },
     {
         "id": 238,
@@ -2615,7 +2615,7 @@
         "strength": 2,
         "ability": "Paga 4 Oros para prevenir que una de tus cartas en juego sea afectado por una habilidad oponente",
         "rarity": "Real",
-        "image": "/images/DDR-238.png"
+        "image": "/images/ra/DDR-238.png"
     },
     {
         "id": 239,
@@ -2626,7 +2626,7 @@
         "strength": 6,
         "ability": "Puede atacar el turno en que entra en juego. En la Fase Final debes subir Cleomenes de Naukratis a tu Mano.",
         "rarity": "Real",
-        "image": "/images/DDR-239.png"
+        "image": "/images/ra/DDR-239.png"
     },
     {
         "id": 240,
@@ -2637,7 +2637,7 @@
         "strength": 3,
         "ability": "Única. Tus demás Aliados de raza Héroe ganan 1 a la fuerza. No se pueden jugar Talismanes.",
         "rarity": "Real",
-        "image": "/images/DDR-240.png"
+        "image": "/images/ra/DDR-240.png"
     },
     {
         "id": 241,
@@ -2648,7 +2648,7 @@
         "strength": 3,
         "ability": "Indestructible. No puede ser anulado.",
         "rarity": "Real",
-        "image": "/images/DDR-241.png"
+        "image": "/images/ra/DDR-241.png"
     },
     {
         "id": 242,
@@ -2659,7 +2659,7 @@
         "strength": 2,
         "ability": "Única. En tu Fase de Vigilia, sólo una vez por turno, puedes desterrar tantas cartas de tu Cementerio como coste tenga una carta en juego para desterrarla.",
         "rarity": "Real",
-        "image": "/images/DDR-242.png"
+        "image": "/images/ra/DDR-242.png"
     },
     {
         "id": 243,
@@ -2670,7 +2670,7 @@
         "strength": 3,
         "ability": "Imbloqueable. Puede atacar el turno que entra en juego. En la Fase Final debes subir Darío el Grande a tu Mano.",
         "rarity": "Real",
-        "image": "/images/DDR-243.png"
+        "image": "/images/ra/DDR-243.png"
     },
     {
         "id": 244,
@@ -2681,7 +2681,7 @@
         "strength": 2,
         "ability": "Indestructible. Cuando Haquika entra en juego, puedes elegir un Aliado oponente y ponerlo en tu Línea de Defensa. Si Haquika sale del juego, el Aliado vuelve a la Línea de Defensa oponente.",
         "rarity": "Real",
-        "image": "/images/DDR-244.png"
+        "image": "/images/ra/DDR-244.png"
     },
     {
         "id": 245,
@@ -2692,7 +2692,7 @@
         "strength": 3,
         "ability": "Oseye no puede ser anulado. Puede atacar el turno que entra en juego. Puedes pagar el coste de Oseye para prevenir que sea destruido o desterrado y subirlo a tu Mano.",
         "rarity": "Real",
-        "image": "/images/DDR-245.png"
+        "image": "/images/ra/DDR-245.png"
     },
     {
         "id": 246,
@@ -2703,7 +2703,7 @@
         "strength": 3,
         "ability": "Los demás Aliados en juego no pueden ser afectados por Talismanes y no pueden perder sus habilidades.",
         "rarity": "Real",
-        "image": "/images/DDR-246.png"
+        "image": "/images/ra/DDR-246.png"
     },
     {
         "id": 247,
@@ -2714,7 +2714,7 @@
         "strength": 5,
         "ability": "Talismanes oponentes que afecten a Demoledor de Amón cuestan 2 Oros adicionales. En respuesta a que Demoledor de Amón sea declarado atacante, puedes elegir un aliado oponente en Línea de Defensa para que bloquee a Demoledor de Amón, hasta la Fae Final ese Aliado pierde su habilidad y pierde 1 a la fuerza.",
         "rarity": "Real",
-        "image": "/images/DDR-247.png"
+        "image": "/images/ra/DDR-247.png"
     },
     {
         "id": 248,
@@ -2725,7 +2725,7 @@
         "strength": 2,
         "ability": "Los Tótem no pueden ser afectados por habilidades de cartas oponentes.",
         "rarity": "Real",
-        "image": "/images/DDR-248.png"
+        "image": "/images/ra/DDR-248.png"
     },
     {
         "id": 249,
@@ -2736,7 +2736,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes buscar un Arma en tu Mazo Castillo o Cementerio y ponerla en un Aliado que esté en tu Línea de Defensa sin pagar su coste.",
         "rarity": "Real",
-        "image": "/images/DDR-249.png"
+        "image": "/images/ra/DDR-249.png"
     },
     {
         "id": 250,
@@ -2747,7 +2747,7 @@
         "strength": 2,
         "ability": "En respuesta a que tu oponente juegue una habilidad que afete a uno de tus Aliados, puedes dirigir esa habilidad a Zazamoukh. En tu Fase de Vigilia, si Zazamoukh está en tu Cementerio, puedes pagar 3 Oros para ponerlo en juego sin pagar su coste.",
         "rarity": "Real",
-        "image": "/images/DDR-250.png"
+        "image": "/images/ra/DDR-250.png"
     },
     {
         "id": 251,
@@ -2758,7 +2758,7 @@
         "strength": 2,
         "ability": "Única. En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros para copiar la habilidad de un Aliado en juego hasta la Fase Final.",
         "rarity": "Real",
-        "image": "/images/DDR-251.png"
+        "image": "/images/ra/DDR-251.png"
     },
     {
         "id": 252,
@@ -2769,7 +2769,7 @@
         "strength": 2,
         "ability": "No se pueden barajar cartas del Cementerio en el Mazo Castillo.",
         "rarity": "Real",
-        "image": "/images/DDR-252.png"
+        "image": "/images/ra/DDR-252.png"
     },
     {
         "id": 253,
@@ -2780,7 +2780,7 @@
         "strength": 2,
         "ability": "Sólo una vez por turno, puedes pagar 1 Oro para agrupar uno de tus Oros.",
         "rarity": "Real",
-        "image": "/images/DDR-253.png"
+        "image": "/images/ra/DDR-253.png"
     },
     {
         "id": 254,
@@ -2791,7 +2791,7 @@
         "strength": 1,
         "ability": "Indestructible. Indesterrable. Sólo puedes tener un Baal-Zaphon en juego. En su Fase de Vigilia, sólo una vez por turno, cada jugador puede barajar 3 cartas de su Cementerio en su Mazo Castillo.",
         "rarity": "Real",
-        "image": "/images/DDR-254.png"
+        "image": "/images/ra/DDR-254.png"
     },
     {
         "id": 255,
@@ -2802,7 +2802,7 @@
         "strength": 2,
         "ability": "Los Aliados en Línea de Defensa son Indestructibles.",
         "rarity": "Real",
-        "image": "/images/DDR-255.png"
+        "image": "/images/ra/DDR-255.png"
     },
     {
         "id": 256,
@@ -2813,7 +2813,7 @@
         "strength": 4,
         "ability": "Reshep puede atacar cuando entra en juego. Mientras Reshep esté en juego, todos los Aliados que puedan atacar deben hacerlo.",
         "rarity": "Real",
-        "image": "/images/DDR-256.png"
+        "image": "/images/ra/DDR-256.png"
     },
     {
         "id": 257,
@@ -2824,7 +2824,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes mirar las 3 cartas inferiores de tu Mazo Castillo y devolverlas en el orden que quieras. Sólo puedes robar de la parte inferior de tu Mazo Castillo.",
         "rarity": "Real",
-        "image": "/images/DDR-257.png"
+        "image": "/images/ra/DDR-257.png"
     },
     {
         "id": 258,
@@ -2835,7 +2835,7 @@
         "strength": null,
         "ability": "Envía todas las cartas desde tu Zona de Destierro hacia tu Cementerio.",
         "rarity": "Real",
-        "image": "/images/DDR-258.png"
+        "image": "/images/ra/DDR-258.png"
     },
     {
         "id": 259,
@@ -2846,7 +2846,7 @@
         "strength": null,
         "ability": "Tu oponente destierra las tres cartas superiores de su Mazo Castillo. Luego, destierra Festín Impío.",
         "rarity": "Real",
-        "image": "/images/DDR-259.png"
+        "image": "/images/ra/DDR-259.png"
     },
     {
         "id": 260,
@@ -2857,7 +2857,7 @@
         "strength": null,
         "ability": "Única. Aullido de Furia no puede ser anulado. Tus Aliados pierden su raza, su habilidad y ganan 3 a la fuerza hasta la Fase Final.",
         "rarity": "Real",
-        "image": "/images/DDR-260.png"
+        "image": "/images/ra/DDR-260.png"
     },
     {
         "id": 261,
@@ -2868,7 +2868,7 @@
         "strength": null,
         "ability": "Única. Anula una carta que anule una de tus cartas.",
         "rarity": "Real",
-        "image": "/images/DDR-261.png"
+        "image": "/images/ra/DDR-261.png"
     },
     {
         "id": 262,
@@ -2879,7 +2879,7 @@
         "strength": null,
         "ability": "Única. Todos los jugadores eligen una carta de cada tipo que tengan en juego, todas las demás cartas pierden su habilidad y son barajadas. Cada jugador roba o descarta cartas de su Mano hasta tener 8 cartas.",
         "rarity": "Real",
-        "image": "/images/DDR-262.png"
+        "image": "/images/ra/DDR-262.png"
     },
     {
         "id": 263,
@@ -2890,7 +2890,7 @@
         "strength": null,
         "ability": "No se puede buscar cartas en cualquier Mazo Castillo por el resto del juego.",
         "rarity": "Real",
-        "image": "/images/DDR-263.png"
+        "image": "/images/ra/DDR-263.png"
     },
     {
         "id": 264,
@@ -2901,7 +2901,7 @@
         "strength": null,
         "ability": "Prevén que una de tus cartas salga del juego.",
         "rarity": "Real",
-        "image": "/images/DDR-264.png"
+        "image": "/images/ra/DDR-264.png"
     },
     {
         "id": 265,
@@ -2912,7 +2912,7 @@
         "strength": null,
         "ability": "Una carta en juego y todas sus copias pierden su habilidad hasta la Fase Final.",
         "rarity": "Real",
-        "image": "/images/DDR-265.png"
+        "image": "/images/ra/DDR-265.png"
     },
     {
         "id": 266,
@@ -2923,7 +2923,7 @@
         "strength": null,
         "ability": "Cancela todos los efectos permanentes hasta la Fase Final.",
         "rarity": "Real",
-        "image": "/images/DDR-266.png"
+        "image": "/images/ra/DDR-266.png"
     },
     {
         "id": 267,
@@ -2934,7 +2934,7 @@
         "strength": null,
         "ability": "Mira la mano de tu oponente para elegir una carta que no sea Oro, ésta y todas sus copias no pueden ser jugadas en el próximo turno.",
         "rarity": "Real",
-        "image": "/images/DDR-267.png"
+        "image": "/images/ra/DDR-267.png"
     },
     {
         "id": 268,
@@ -2945,7 +2945,7 @@
         "strength": null,
         "ability": "Única. Sólo se puede robar en la Fase Final.",
         "rarity": "Real",
-        "image": "/images/DDR-268.png"
+        "image": "/images/ra/DDR-268.png"
     },
     {
         "id": 269,
@@ -2956,7 +2956,7 @@
         "strength": null,
         "ability": "Única. En su Fase de Vigilia, sólo una vez por turno, cada jugador puede desterrar uno de sus Aliados en juego para robar tantas cartas como fuerza tenga ese Aliado.",
         "rarity": "Real",
-        "image": "/images/DDR-269.png"
+        "image": "/images/ra/DDR-269.png"
     },
     {
         "id": 270,
@@ -2967,7 +2967,7 @@
         "strength": null,
         "ability": "Las Armas no pueden ser anuladas ni afectadas por habilidades oponentes",
         "rarity": "Real",
-        "image": "/images/DDR-270.png"
+        "image": "/images/ra/DDR-270.png"
     },
     {
         "id": 271,
@@ -2978,7 +2978,7 @@
         "strength": null,
         "ability": "Única. El Daño Directo se reduce en 2.",
         "rarity": "Real",
-        "image": "/images/DDR-271.png"
+        "image": "/images/ra/DDR-271.png"
     },
     {
         "id": 272,
@@ -2989,7 +2989,7 @@
         "strength": null,
         "ability": "Única. El Daño Directo aumenta en 1.",
         "rarity": "Real",
-        "image": "/images/DDR-272.png"
+        "image": "/images/ra/DDR-272.png"
     },
     {
         "id": 273,
@@ -3000,7 +3000,7 @@
         "strength": null,
         "ability": "El portador de Mandoble de Horus no puede recibir modificadores de fuerza. El daño de combate hecho por el portador de Mandoble de Horus al Mazo Castillo oponente debe ser desterrado.",
         "rarity": "Real",
-        "image": "/images/DDR-273.png"
+        "image": "/images/ra/DDR-273.png"
     },
     {
         "id": 274,
@@ -3011,7 +3011,7 @@
         "strength": null,
         "ability": "El portador de Sedienta pierde su habilidad y no puede recibir modificadores de fuerza.",
         "rarity": "Real",
-        "image": "/images/DDR-274.png"
+        "image": "/images/ra/DDR-274.png"
     },
     {
         "id": 275,
@@ -3022,7 +3022,7 @@
         "strength": null,
         "ability": "El portador de Yelmo Alejandrino no puede ser afectado por habilidades oponentes.",
         "rarity": "Real",
-        "image": "/images/DDR-275.png"
+        "image": "/images/ra/DDR-275.png"
     },
     {
         "id": 276,
@@ -3033,7 +3033,7 @@
         "strength": null,
         "ability": "En respuesta a que el portador de Hacha Guardiana sea bloqueado, puedes elegir que haga daño al Mazo Castillo oponente como si no hubiera sido bloqueado.",
         "rarity": "Real",
-        "image": "/images/DDR-276.png"
+        "image": "/images/ra/DDR-276.png"
     },
     {
         "id": 277,
@@ -3044,7 +3044,7 @@
         "strength": null,
         "ability": "El portador de Escudo de Tormenta gana 2 a la fuerza. En respuesta a que el portador salga del juego, barájalo en tu Mazo Castillo.",
         "rarity": "Real",
-        "image": "/images/DDR-277.png"
+        "image": "/images/ra/DDR-277.png"
     },
     {
         "id": 278,
@@ -3055,7 +3055,7 @@
         "strength": null,
         "ability": "En respuesta a que tu oponente juegue una carta, si Ojo Udyat está en tu Reserva de Oro, puedes desterrarlo para buscar una carta de Tótem o de Orbe en tu Mazo Castillo y ponerlo en juego sin pagar su coste.",
         "rarity": "Real",
-        "image": "/images/DDR-278.png"
+        "image": "/images/ra/DDR-278.png"
     },
     {
         "id": 279,
@@ -3066,7 +3066,7 @@
         "strength": null,
         "ability": "En tu Fase de Vigilia, si Biblioteca Eterna está en tu Reserva de Oro, puedes desterrarla para robar 2 cartas.",
         "rarity": "Real",
-        "image": "/images/DDR-279.png"
+        "image": "/images/ra/DDR-279.png"
     },
     {
         "id": 280,
@@ -3077,7 +3077,7 @@
         "strength": null,
         "ability": "En respuesta a botar cartas de tu Mazo Castillo por una habilidad oponente, puedes destruir a Tocador para que tu oponente bote el mismo número de cartas.",
         "rarity": "Real",
-        "image": "/images/DDR-280.png"
+        "image": "/images/ra/DDR-280.png"
     },
     {
         "id": 281,
@@ -3088,7 +3088,7 @@
         "strength": 1,
         "ability": "Si Amyrteos sale del juego, puedes buscar un Oro en tu Mazo Castillo y ponerlo en juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-281.png"
+        "image": "/images/ra/DDR-281.png"
     },
     {
         "id": 282,
@@ -3099,7 +3099,7 @@
         "strength": 2,
         "ability": "Guerrero Etíope puede atacar el turno que entra en juego, si lo hace gana 2 a la fuerza y debe ser destruido en la Fase Final.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-282.png"
+        "image": "/images/ra/DDR-282.png"
     },
     {
         "id": 283,
@@ -3110,7 +3110,7 @@
         "strength": 2,
         "ability": "Cuando Capitán de Guardia entra en juego, puedes elegir un Aliado para que pierda su habilidad hasta la Fase Final.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-283.png"
+        "image": "/images/ra/DDR-283.png"
     },
     {
         "id": 284,
@@ -3121,7 +3121,7 @@
         "strength": 2,
         "ability": "Cuando entra en juego, puedes botar 2 cartas para barajar 3.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-284.png"
+        "image": "/images/ra/DDR-284.png"
     },
     {
         "id": 285,
@@ -3132,7 +3132,7 @@
         "strength": 2,
         "ability": "Cambyses gana 2 a la fuerza por cada Arma en juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-285.png"
+        "image": "/images/ra/DDR-285.png"
     },
     {
         "id": 286,
@@ -3143,7 +3143,7 @@
         "strength": 3,
         "ability": "En tu Fase de Vigilia, puedes pagar 1 Oro para que Euergeter I sea Imbloqueable hasta la Fase Final.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-286.png"
+        "image": "/images/ra/DDR-286.png"
     },
     {
         "id": 287,
@@ -3154,7 +3154,7 @@
         "strength": 2,
         "ability": "Puedes destruir a Philometor para subir a la Mano uno de tus Aliados",
         "rarity": "Cortesano",
-        "image": "/images/DDR-287.png"
+        "image": "/images/ra/DDR-287.png"
     },
     {
         "id": 288,
@@ -3165,7 +3165,7 @@
         "strength": 2,
         "ability": "Cuando Airlea entra en juego, puedes barajar hasta 4 cartas de Tótem de tu Cementerio en tu Mazo Castillo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-288.png"
+        "image": "/images/ra/DDR-288.png"
     },
     {
         "id": 289,
@@ -3176,7 +3176,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, puedes desterrar a Aldara para buscar 2 Talismanes en el Mazo Castillo oponente y desterrarlo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-289.png"
+        "image": "/images/ra/DDR-289.png"
     },
     {
         "id": 290,
@@ -3187,7 +3187,7 @@
         "strength": 2,
         "ability": "Mientras Absalon esté en tu Línea de Defensa, en respuesta a que juegues un Talismán que no sea de anulación o en resuesta, barájalo en tu Mazo Castillo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-290.png"
+        "image": "/images/ra/DDR-290.png"
     },
     {
         "id": 291,
@@ -3198,7 +3198,7 @@
         "strength": 2,
         "ability": "Cuando Chanoch entra en juego, destruye un Arma oponente.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-291.png"
+        "image": "/images/ra/DDR-291.png"
     },
     {
         "id": 292,
@@ -3209,7 +3209,7 @@
         "strength": 2,
         "ability": "En respuesta a que Ayu sea declarado atacante, tu oponente debe botar 1 carta de su Mazo Castillo por cada Tótem que tengas en juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-292.png"
+        "image": "/images/ra/DDR-292.png"
     },
     {
         "id": 293,
@@ -3220,7 +3220,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes nombrar una carta oponente en juego y pagar 3 Oros para que tu oponente bote tantas cartas como coste tenga la carta nombrada.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-293.png"
+        "image": "/images/ra/DDR-293.png"
     },
     {
         "id": 294,
@@ -3231,7 +3231,7 @@
         "strength": 2,
         "ability": "En respuesta a que Adolfo sea bloqueado, gana 2 a la fuerza y no puede ser afectado por Talismanes hasta la Fase Final.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-294.png"
+        "image": "/images/ra/DDR-294.png"
     },
     {
         "id": 295,
@@ -3242,7 +3242,7 @@
         "strength": 2,
         "ability": "El turno en que Qetesh entra en juego, los Aliados en juego no pueden ser afectados por habilidades de cartas oponentes.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-295.png"
+        "image": "/images/ra/DDR-295.png"
     },
     {
         "id": 296,
@@ -3253,7 +3253,7 @@
         "strength": 3,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes pagar 3 Oros y descartar una carta al azar de tu Mano para que barajes tantas cartas como coste tenga esa carta.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-296.png"
+        "image": "/images/ra/DDR-296.png"
     },
     {
         "id": 297,
@@ -3264,7 +3264,7 @@
         "strength": 2,
         "ability": "Cuando Nefertum salga del juego, cancela una habilidad que afecte a una de tus cartas en juego, por el resto del juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-297.png"
+        "image": "/images/ra/DDR-297.png"
     },
     {
         "id": 298,
@@ -3275,7 +3275,7 @@
         "strength": 1,
         "ability": "Cuando Serapis entra en juego, mira la Mano de tu oponente y elige una carta para que deba ponerla en la parte superior de su Mazo Castillo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-298.png"
+        "image": "/images/ra/DDR-298.png"
     },
     {
         "id": 299,
@@ -3286,7 +3286,7 @@
         "strength": 2,
         "ability": "Cuando Aesma Daeva entra en juego, elige un Oro en juego para que éste pierda su habilidad mientras Aesma Daeva esté en juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-299.png"
+        "image": "/images/ra/DDR-299.png"
     },
     {
         "id": 300,
@@ -3297,7 +3297,7 @@
         "strength": 2,
         "ability": "En respuesta a un ataque oponente, puedes barajar a Asto Vidatu para cancelarlo, tu oponente destruye uno de sus Aliados que haya atacado.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-300.png"
+        "image": "/images/ra/DDR-300.png"
     },
     {
         "id": 301,
@@ -3308,7 +3308,7 @@
         "strength": 2,
         "ability": "Cuando Rashnu salga del juego, destruye un Arma o Tótem.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-301.png"
+        "image": "/images/ra/DDR-301.png"
     },
     {
         "id": 302,
@@ -3319,7 +3319,7 @@
         "strength": null,
         "ability": "Sólo puedes jugar Anillo de Rashnu en la Fase de Asignación de Daño. Un Aliado en juego no puede ser agrupado por el resto del juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-302.png"
+        "image": "/images/ra/DDR-302.png"
     },
     {
         "id": 303,
@@ -3330,7 +3330,7 @@
         "strength": null,
         "ability": "Un Aliado duplica su fuerza hasta la Fase Final.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-303.png"
+        "image": "/images/ra/DDR-303.png"
     },
     {
         "id": 304,
@@ -3341,7 +3341,7 @@
         "strength": null,
         "ability": "Todos los Aliados declarados atacantes pierden su habilidad hasta la Fase Final.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-304.png"
+        "image": "/images/ra/DDR-304.png"
     },
     {
         "id": 305,
@@ -3352,7 +3352,7 @@
         "strength": null,
         "ability": "Mira las 5 primeras cartas del Mazo Castillo oponente y devuélvelas en el orden que quieras.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-305.png"
+        "image": "/images/ra/DDR-305.png"
     },
     {
         "id": 306,
@@ -3363,7 +3363,7 @@
         "strength": null,
         "ability": "Elige un Oro en juego, éste y todas sus copias pierden su habilidad por el resto del juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-306.png"
+        "image": "/images/ra/DDR-306.png"
     },
     {
         "id": 307,
@@ -3374,7 +3374,7 @@
         "strength": null,
         "ability": "En respuesta a que un Aliado entre en juego, su propietario debe pagar 2 Oros, si no lo hace debe devolver ese Aliado a su Mano.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-307.png"
+        "image": "/images/ra/DDR-307.png"
     },
     {
         "id": 308,
@@ -3385,7 +3385,7 @@
         "strength": null,
         "ability": "Cancela la habilidad de un Tótem o Arma que esté afectando a una de tus cartas en juego, por el resto del juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-308.png"
+        "image": "/images/ra/DDR-308.png"
     },
     {
         "id": 309,
@@ -3396,7 +3396,7 @@
         "strength": null,
         "ability": "Sólo se puede jugar en la Declaración de Bloqueo. Puedes tomar un Arma en juego y considerarla un Aliado bloqueador de fuerza igual a su coste, es Indestructible ",
         "rarity": "Cortesano",
-        "image": "/images/DDR-309.png"
+        "image": "/images/ra/DDR-309.png"
     },
     {
         "id": 310,
@@ -3407,7 +3407,7 @@
         "strength": null,
         "ability": "Uno de tus Aliados gana 3 a la fuerza y es Indestructible por el resto del juego.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-310.png"
+        "image": "/images/ra/DDR-310.png"
     },
     {
         "id": 311,
@@ -3418,7 +3418,7 @@
         "strength": null,
         "ability": "Cancela la habilidad de una carta en juego que no sea Oro hasta la Fase Final a menos que tu oponente bote 3 cartas.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-311.png"
+        "image": "/images/ra/DDR-311.png"
     },
     {
         "id": 312,
@@ -3429,7 +3429,7 @@
         "strength": null,
         "ability": "En respuesta a la declaración de ataque oponente, puedes tomar el Aliado de mayor fuerza oponente y barajarlo en el Mazo Castillo oponente.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-312.png"
+        "image": "/images/ra/DDR-312.png"
     },
     {
         "id": 313,
@@ -3440,7 +3440,7 @@
         "strength": null,
         "ability": "Puedes destruir Templo de Amón para buscar una carta en tu Mazo Castillo y ponerla en tu Mano.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-313.png"
+        "image": "/images/ra/DDR-313.png"
     },
     {
         "id": 314,
@@ -3451,7 +3451,7 @@
         "strength": null,
         "ability": "En tu Fase Final, si no declaraste ataque, destruye uno de tus Aliados de mayor fuerza. En tu Fase de Vigilia, puedes pagar 2 Oros para que un Aliado oponente deba ser declarado bloqueador este turno.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-314.png"
+        "image": "/images/ra/DDR-314.png"
     },
     {
         "id": 315,
@@ -3462,7 +3462,7 @@
         "strength": null,
         "ability": "Sólo puedes tener un Santuario de Hapi en juego. El coste de las Armas se reduce en 1.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-315.png"
+        "image": "/images/ra/DDR-315.png"
     },
     {
         "id": 316,
@@ -3473,7 +3473,7 @@
         "strength": null,
         "ability": "Sólo puedes tener una Pirámide Curvada en juego. En tu Fase de Vigilia, sólo una vez por turno, puedes mostrar una carta de tu Cementerio a tu oponente para ponerla en la parte inferior de tu Mazo Castillo.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-316.png"
+        "image": "/images/ra/DDR-316.png"
     },
     {
         "id": 317,
@@ -3484,7 +3484,7 @@
         "strength": null,
         "ability": "En vez de robar una carta, puedes desterrar 4 cartas de tu Cementerio para tomar una carta de tu Cementerio y ponerla en tu Mano.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-317.png"
+        "image": "/images/ra/DDR-317.png"
     },
     {
         "id": 318,
@@ -3495,7 +3495,7 @@
         "strength": null,
         "ability": "El portador es Imbloqueable. Cuando Lanza del Caos entra en juego, tu oponente debe botar 1 carta.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-318.png"
+        "image": "/images/ra/DDR-318.png"
     },
     {
         "id": 319,
@@ -3506,7 +3506,7 @@
         "strength": null,
         "ability": "Puedes subir Daba de Bote a tu Mano para prevenir que el portador sea destruido o desterrado.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-319.png"
+        "image": "/images/ra/DDR-319.png"
     },
     {
         "id": 320,
@@ -3517,7 +3517,7 @@
         "strength": null,
         "ability": "Cuando Arco persa entra en juego, puedes robar una carta. En respuesta a que el portador haga daño al Mazo Castillo, sube a la Mano oponente uno de sus Aliados.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-320.png"
+        "image": "/images/ra/DDR-320.png"
     },
     {
         "id": 321,
@@ -3528,7 +3528,7 @@
         "strength": null,
         "ability": "El portador no puede ser agrupado a menos que tenga fuerza superior a 5. El aliado que bloquee al portador tiene fuerza 1.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-321.png"
+        "image": "/images/ra/DDR-321.png"
     },
     {
         "id": 322,
@@ -3539,7 +3539,7 @@
         "strength": null,
         "ability": "En tu Fase de Vigilia, puedes pagar 2 Oros para que el portador tenga la habilidad de una carta en juego que no sea Oro hasta la Fase Final.",
         "rarity": "Cortesano",
-        "image": "/images/DDR-322.png"
+        "image": "/images/ra/DDR-322.png"
     },
     {
         "id": 323,
@@ -3550,7 +3550,7 @@
         "strength": 1,
         "ability": "Puedes pagar 1 Oro para cambiar la fuerza de Taharqa por su coste hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-323.png"
+        "image": "/images/ra/DDR-323.png"
     },
     {
         "id": 324,
@@ -3561,7 +3561,7 @@
         "strength": 2,
         "ability": "Tus Armas son Indestructibles e Indesterrables.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-324.png"
+        "image": "/images/ra/DDR-324.png"
     },
     {
         "id": 325,
@@ -3572,7 +3572,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes destruir uno de tus Aliados para que uno de tus Aliados sea Imbloqueable hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-325.png"
+        "image": "/images/ra/DDR-325.png"
     },
     {
         "id": 326,
@@ -3583,7 +3583,7 @@
         "strength": 2,
         "ability": "Cuando entra en juego, tus Aliados ganan 1 a la fuerza hasta la Fase Final. Si es destruido, súbelo a tu Mano.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-326.png"
+        "image": "/images/ra/DDR-326.png"
     },
     {
         "id": 327,
@@ -3594,7 +3594,7 @@
         "strength": 2,
         "ability": "Si Lathyros sale del juego puedes elegir un Aliado para que pierda su habilidad hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-327.png"
+        "image": "/images/ra/DDR-327.png"
     },
     {
         "id": 328,
@@ -3605,7 +3605,7 @@
         "strength": 1,
         "ability": "Cuando entra en juego cambia su fuerza por la de un Aliado en juego por el resto del juego.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-328.png"
+        "image": "/images/ra/DDR-328.png"
     },
     {
         "id": 329,
@@ -3616,7 +3616,7 @@
         "strength": 5,
         "ability": "Para declarar a Neos Dionisios atacante o bloqueador debes pagar 2 Oros.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-329.png"
+        "image": "/images/ra/DDR-329.png"
     },
     {
         "id": 330,
@@ -3627,7 +3627,7 @@
         "strength": 4,
         "ability": "Olabisi no puede ser declarado atacante. En respuesta a la Fase de Asignación de Daño, destruye Olabisi para barajar 4 cartas.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-330.png"
+        "image": "/images/ra/DDR-330.png"
     },
     {
         "id": 331,
@@ -3638,7 +3638,7 @@
         "strength": 2,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno y si tienes 6 o más Oros en juego, puedes barajar 2 cartas.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-331.png"
+        "image": "/images/ra/DDR-331.png"
     },
     {
         "id": 332,
@@ -3649,7 +3649,7 @@
         "strength": 2,
         "ability": "Cuando entra en juego, puedes buscar una copia de Las Zesiro en tu Mazo Castillo y ponerla en tu Mano. En respuesta a un ataque oponente, puedes testerrar a Las Zesiro para cancelarlo.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-332.png"
+        "image": "/images/ra/DDR-332.png"
     },
     {
         "id": 333,
@@ -3660,7 +3660,7 @@
         "strength": 3,
         "ability": "En tu Fase de Vigilia, sólo una vez por turno, puedes barajar una carta de tu Mano para robar 1 carta.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-333.png"
+        "image": "/images/ra/DDR-333.png"
     },
     {
         "id": 334,
@@ -3671,7 +3671,7 @@
         "strength": 3,
         "ability": "No puede ser anulado. En respuesta a que sea declarado atacante, puedes pagar 3 Oros para que gane 1 a la fuerza hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-334.png"
+        "image": "/images/ra/DDR-334.png"
     },
     {
         "id": 335,
@@ -3682,7 +3682,7 @@
         "strength": 1,
         "ability": "Si Neema es declarado bloqueador, gana 1 a la fuerza por cada Oro que tengas en juego.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-335.png"
+        "image": "/images/ra/DDR-335.png"
     },
     {
         "id": 336,
@@ -3693,7 +3693,7 @@
         "strength": 1,
         "ability": "Si Chike de la Sombra está en tu Cementerio puedes pagar 1 Oro y ponerlo en juego sin pagar su coste.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-336.png"
+        "image": "/images/ra/DDR-336.png"
     },
     {
         "id": 337,
@@ -3704,7 +3704,7 @@
         "strength": 1,
         "ability": "As el Halcón gana 2 a la fuerza cuando bloquea.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-337.png"
+        "image": "/images/ra/DDR-337.png"
     },
     {
         "id": 338,
@@ -3715,7 +3715,7 @@
         "strength": 1,
         "ability": "En respuesta a que uno de tus Aliados sea destruido, puedes destruir Patise y Pihor para destruir un Aliado oponente.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-338.png"
+        "image": "/images/ra/DDR-338.png"
     },
     {
         "id": 339,
@@ -3726,7 +3726,7 @@
         "strength": 3,
         "ability": "La carta que anule a Heret-Kau debe ser desterrada.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-339.png"
+        "image": "/images/ra/DDR-339.png"
     },
     {
         "id": 340,
@@ -3737,7 +3737,7 @@
         "strength": 1,
         "ability": "Cuando Ihy entra en juego, puedes buscar en el Mazo Castillo 3 cartas y ponerlas en la parte superior.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-340.png"
+        "image": "/images/ra/DDR-340.png"
     },
     {
         "id": 341,
@@ -3748,7 +3748,7 @@
         "strength": 3,
         "ability": "Si Mehen es anulado o afectado por una habilidad en respuesta, tu oponente debe destruir uno de sus Aliados.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-341.png"
+        "image": "/images/ra/DDR-341.png"
     },
     {
         "id": 342,
@@ -3759,7 +3759,7 @@
         "strength": 5,
         "ability": "Ta-Bitjet sólo puede ser declarado atacante si tienes 6 o más Oros en juego.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-342.png"
+        "image": "/images/ra/DDR-342.png"
     },
     {
         "id": 343,
@@ -3770,7 +3770,7 @@
         "strength": 2,
         "ability": "En respuesta a que tu oponente bote cartas por Daño Directo, destruye Weneg Alma de Ra para que tu oponente bote 2 cartas.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-343.png"
+        "image": "/images/ra/DDR-343.png"
     },
     {
         "id": 344,
@@ -3781,7 +3781,7 @@
         "strength": null,
         "ability": "Tus Aliados de raza Sacerdote no pueden ser afectados por habilidades oponentes hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-344.png"
+        "image": "/images/ra/DDR-344.png"
     },
     {
         "id": 345,
@@ -3792,7 +3792,7 @@
         "strength": null,
         "ability": "Elige uno de tus Aliados en juego para que tu oponente bote tantas cartas como coste tenga.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-345.png"
+        "image": "/images/ra/DDR-345.png"
     },
     {
         "id": 346,
@@ -3803,7 +3803,7 @@
         "strength": null,
         "ability": "Bota 3 cartas de tu Mazo Castillo para que uno de tus Aliados gane 3 a la fuerza hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-346.png"
+        "image": "/images/ra/DDR-346.png"
     },
     {
         "id": 347,
@@ -3814,7 +3814,7 @@
         "strength": null,
         "ability": "Tus Aliados de raza Faraón pueden portar un Arma extra por el resto del juego.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-347.png"
+        "image": "/images/ra/DDR-347.png"
     },
     {
         "id": 348,
@@ -3825,7 +3825,7 @@
         "strength": null,
         "ability": "Baraja un Aliado de raza Eterno.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-348.png"
+        "image": "/images/ra/DDR-348.png"
     },
     {
         "id": 349,
@@ -3836,7 +3836,7 @@
         "strength": null,
         "ability": "Si hay un Tótem en juego tus Aliados ganan 1 a la fuerza hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-349.png"
+        "image": "/images/ra/DDR-349.png"
     },
     {
         "id": 350,
@@ -3847,7 +3847,7 @@
         "strength": null,
         "ability": "Si tienes dos cartas iguales en juego puedes buscar una copia en el Mazo Castillo y ponerla en juego sin pagar su coste.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-350.png"
+        "image": "/images/ra/DDR-350.png"
     },
     {
         "id": 351,
@@ -3858,7 +3858,7 @@
         "strength": null,
         "ability": "Si tu oponente juega una habilidad que afecte uno de tus Tótem en juego, cancela esta habilidad y pon el Tótem en tu Línea de Defensa y considéralo uno de tus Aliados de igual fuerza que su coste por el resto del juego.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-351.png"
+        "image": "/images/ra/DDR-351.png"
     },
     {
         "id": 352,
@@ -3869,7 +3869,7 @@
         "strength": null,
         "ability": "Cancela una habilidad que afecte uno de tus Aliados, debes barajar ese Aliado.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-352.png"
+        "image": "/images/ra/DDR-352.png"
     },
     {
         "id": 353,
@@ -3880,7 +3880,7 @@
         "strength": null,
         "ability": "Sólo puedes jugar Caricia Inmorta en la Fase de Declaración de bloqueo. Uno de tus Aliados bloqueadores no puede salir del juego hasta la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-353.png"
+        "image": "/images/ra/DDR-353.png"
     },
     {
         "id": 354,
@@ -3891,7 +3891,7 @@
         "strength": null,
         "ability": "En respuesta a que un Aliado active su habilidad, debe ser barajado.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-354.png"
+        "image": "/images/ra/DDR-354.png"
     },
     {
         "id": 355,
@@ -3902,7 +3902,7 @@
         "strength": null,
         "ability": "En tu Fase de Vigilia, puedes desterrar 3 cartas de Aliado en tu Cementerio para poner una carta de Aliado de tu Cementerio en tu Mano.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-355.png"
+        "image": "/images/ra/DDR-355.png"
     },
     {
         "id": 356,
@@ -3913,7 +3913,7 @@
         "strength": null,
         "ability": "En tu Fase de Vigilia, puedes destruir Templo de Ptolomeo y descartar tu Mano para robar 3 cartas.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-356.png"
+        "image": "/images/ra/DDR-356.png"
     },
     {
         "id": 357,
@@ -3924,7 +3924,7 @@
         "strength": null,
         "ability": "En tu Fase de Vigilia, puedes destruir Qsar Ibrim para poner una carta de tu Cementerio en tu Mano.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-357.png"
+        "image": "/images/ra/DDR-357.png"
     },
     {
         "id": 358,
@@ -3935,7 +3935,7 @@
         "strength": null,
         "ability": "Puedes destruir a Meidum para subir a tu Mano una de tus cartas que va a ser destruida.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-358.png"
+        "image": "/images/ra/DDR-358.png"
     },
     {
         "id": 359,
@@ -3946,7 +3946,7 @@
         "strength": null,
         "ability": "Siempre que juegues una carta de Aliado, puedes robar una carta.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-359.png"
+        "image": "/images/ra/DDR-359.png"
     },
     {
         "id": 360,
@@ -3957,7 +3957,7 @@
         "strength": null,
         "ability": "Cuando Bastón de Aker entra en juego, puedes descartar dos cartas de tu Mano para poner una carta de tu Cementerio en tu Mano. El portador gana 1 a la fuerza.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-360.png"
+        "image": "/images/ra/DDR-360.png"
     },
     {
         "id": 361,
@@ -3968,7 +3968,7 @@
         "strength": null,
         "ability": "El portador de Mandoble de Tifón gana 2 a la fuerza cuando ataca. Si el portador de Mandoble de Tifón ataca y no es destruido, barájalo en el Mazo Castillo en la Fase Final.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-361.png"
+        "image": "/images/ra/DDR-361.png"
     },
     {
         "id": 362,
@@ -3979,7 +3979,7 @@
         "strength": null,
         "ability": "El portador pierde su habilidad y gana 2 a la fuerza.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-362.png"
+        "image": "/images/ra/DDR-362.png"
     },
     {
         "id": 363,
@@ -3990,7 +3990,7 @@
         "strength": null,
         "ability": "El portador no puede ser barajado.",
         "rarity": "Vasallo",
-        "image": "/images/DDR-363.png"
+        "image": "/images/ra/DDR-363.png"
     },
     {
         "id": 364,
@@ -4001,6 +4001,6 @@
         "strength": null,
         "ability": "Cuando Cimitarra Persa entra en juego, puedes buscar una copia de esta carta y ponerla en juego sin pagar su coste. El Portador gana 2 a la fuerza,",
         "rarity": "Vasallo",
-        "image": "/images/DDR-364.png"
+        "image": "/images/ra/DDR-364.png"
     }
 ]

@@ -24,13 +24,43 @@
           </div>
           <ul class="nav-links links">
             <li><a href="/index.html">Home</a></li>
-            <li><a href="/decks.html">Cartas</a></li>
+            <li><a href="/app.js">Cartas</a></li>
             <li><a href="#">Mazos</a></li>
           </ul>
         </div>
       </nav>
     </header>
     <main>
+      <div class="cont-search">
+        <label for="search-input">Buscar:</label>
+        <input
+          type="text"
+          name="search-input"
+          id="search-input"
+          placeholder="Meskhenet"
+        />
+        <button class="search-btn">
+          <i class="fa-solid fa-magnifying-glass"></i>
+        </button>
+      </div>
+      <div id="cont-btns">
+        <div class="type-btns">
+          <h1>Tipo</h1>
+          <button class="btn" data-id="Todas">Todas</button>
+          <button class="btn" data-id="Aliado">Aliado</button>
+          <button class="btn" data-id="Talismán">Talismán</button>
+          <button class="btn" data-id="Arma">Arma</button>
+          <button class="btn" data-id="Tótem">Tótem</button>
+        </div>
+      </div>
+      <div id="cards-container"></div>
+      <div id="cont-btns-pages"></div>
+      <div id="modal-overlay">
+        <div id="modal-container">
+          <div class="modal-image-container"></div>
+          <button class="modal-btn"><i class="fa-solid fa-x"></i></button>
+        </div>
+      </div>
     </main>
     <footer>
       <div class="cont-footer">
@@ -61,6 +91,6 @@
       </div>
     </footer>
 
-    
+    <script src="app.js"></script>
   </body>
 </html>

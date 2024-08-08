@@ -22,7 +22,7 @@ const itemsPerPage = 20;
 
 const fetchCards = async () => {
   try {
-    const response = await fetch("cards.json");
+    const response = await fetch("espada.json");
     if (!response.ok) {
       throw new Error("HTTP error " + response.status);
     }
