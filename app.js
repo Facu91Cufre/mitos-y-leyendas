@@ -22,7 +22,7 @@ const itemsPerPage = 20;
 
 const fetchCards = async () => {
   try {
-    const response = await fetch("helenica.json");
+    const response = await fetch("daana.json");
     if (!response.ok) {
       throw new Error("HTTP error " + response.status);
     }
