@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="styles/style.css" />
+    <link rel="stylesheet" href="styles/cartas.css" />
     <script
       src="https://kit.fontawesome.com/ad4f1a2f6e.js"
       crossorigin="anonymous"
@@ -24,7 +25,7 @@
           </div>
           <ul class="nav-links links">
             <li><a href="/index.html">Home</a></li>
-            <li><a href="/app.js">Cartas</a></li>
+            <li><a href="/cartas.html">Cartas</a></li>
             <li><a href="#">Mazos</a></li>
           </ul>
         </div>
@@ -55,12 +56,6 @@
       </div>
       <div id="cards-container"></div>
       <div id="cont-btns-pages"></div>
-      <div id="modal-overlay">
-        <div id="modal-container">
-          <div class="modal-image-container"></div>
-          <button class="modal-btn"><i class="fa-solid fa-x"></i></button>
-        </div>
-      </div>
     </main>
     <footer>
       <div class="cont-footer">
@@ -91,6 +86,12 @@
       </div>
     </footer>
 
+    <div id="modal-overlay">
+      <div id="modal-container">
+        <div class="modal-image-container"></div>
+        <button class="modal-btn"><i class="fa-solid fa-x"></i></button>
+      </div>
+    </div>
     <script src="app.js"></script>
   </body>
 </html>

@@ -12,7 +12,7 @@ const modalOverlay = document.getElementById("modal-overlay");
 const modalContainer = document.getElementById("modal-container");
 const modalImageContainer = document.querySelector(".modal-image-container");
 const modalBtn = document.querySelector(".modal-btn");
-console.log(filterBtns);
+
 let cards;
 let filteredCards = [];
 let currentPage = 1;
@@ -22,7 +22,7 @@ const itemsPerPage = 20;
 
 const fetchCards = async () => {
   try {
-    const response = await fetch("daana.json");
+    const response = await fetch("json/daana.json");
     if (!response.ok) {
       throw new Error("HTTP error " + response.status);
     }
@@ -165,3 +165,5 @@ document.addEventListener("keydown", (e) => {
 });
 
 window.addEventListener("DOMContentLoaded", fetchCards);
+
+
