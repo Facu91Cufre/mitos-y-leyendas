@@ -12,11 +12,14 @@ const modalOverlay = document.getElementById("modal-overlay");
 const modalContainer = document.getElementById("modal-container");
 const modalImageContainer = document.querySelector(".modal-image-container");
 const modalBtn = document.querySelector(".modal-btn");
+const prevBtn = document.getElementById("prev-btn");
+const nextBtn = document.getElementById("next-btn");
 
 let cards;
 let filteredCards = [];
 let currentPage = 1;
 const itemsPerPage = 20;
+let totalPages = 0;
 
 // Fetch Cards
 
@@ -59,18 +62,22 @@ const showCards = (set, page) => {
 // Generate Pages Function
 
 const generatePage = (set) => {
-  pageBtns.innerHTML = "";
-  let totalPages = Math.ceil(set.length / itemsPerPage);
-  for (let i = 1; i <= totalPages; i++) {
-    const btn = document.createElement("button");
-    btn.classList.add("page-button");
-    btn.textContent = i;
-    btn.addEventListener("click", () => {
-      currentPage = i;
-      showCards(set, currentPage);
-    });
-    pageBtns.appendChild(btn);
-  }
+  totalPages = Math.ceil(set.length / itemsPerPage);
+  console.log(totalPages);
+  prevBtn.addEventListener("click", () => {
+    if (currentPage > 1) {
+      currentPage--;
+      console.log(currentPage);
+      showCards(filteredCards, currentPage);
+    }
+  });
+  nextBtn.addEventListener("click", () => {
+    if (currentPage < totalPages) {
+      currentPage++;
+      console.log(currentPage);
+      showCards(filteredCards, currentPage);
+    }
+  });
 };
 
 // Open Modal Function
@@ -117,7 +124,6 @@ searchBtn.addEventListener("click", () => {
   const searchTerm = searchInput.value;
   if (searchTerm) {
     const result = findCard(searchTerm);
-    pageBtns.innerHTML = "";
     cardsContainer.innerHTML = "";
     if (result) {
       const cardDiv = document.createElement("div");
@@ -143,7 +149,6 @@ barIcon.addEventListener("click", () => {
 });
 
 document.addEventListener("keydown", (e) => {
-  const lastPage = Number(pageBtns.lastChild.innerText);
   switch (e.key) {
     case "ArrowLeft":
       if (currentPage > 1) {
@@ -152,7 +157,7 @@ document.addEventListener("keydown", (e) => {
       }
       break;
     case "ArrowRight":
-      if (currentPage < lastPage) {
+      if (currentPage < totalPages) {
         currentPage++;
         showCards(filteredCards, currentPage);
       }
@@ -165,5 +170,3 @@ document.addEventListener("keydown", (e) => {
 });
 
 window.addEventListener("DOMContentLoaded", fetchCards);
-
-
