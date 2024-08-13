@@ -64,19 +64,7 @@ const showCards = (set, page) => {
 
 const generatePage = (set) => {
   totalPages = Math.ceil(set.length / itemsPerPage);
-  prevBtn.addEventListener("click", () => {
-    if (currentPage > 1) {
-      currentPage--;
-      showCards(filteredCards, currentPage);
-    }
-  });
-  nextBtn.addEventListener("click", () => {
-    if (currentPage < totalPages) {
-      currentPage++;
-      showCards(filteredCards, currentPage);
-    }
-  });
-};
+  };
 
 // Open Modal Function
 
@@ -137,6 +125,21 @@ searchBtn.addEventListener("click", () => {
     filteredCards = [...cards];
     showCards(filteredCards, currentPage);
     generatePage(filteredCards);
+  }
+});
+
+// Previous and Next Buttons
+
+prevBtn.addEventListener("click", () => {
+  if (currentPage > 1) {
+    currentPage--;
+    showCards(filteredCards, currentPage);
+  }
+});
+nextBtn.addEventListener("click", () => {
+  if (currentPage < totalPages) {
+    currentPage++;
+    showCards(filteredCards, currentPage);
   }
 });
 
