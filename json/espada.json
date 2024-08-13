@@ -127,7 +127,7 @@
         "race": "Caballero",
         "cost": 5,
         "strength": 3,
-        "ability": "En guerra de talismanes, puedes desterrar a Cornelius de York para destruir un Caballero oponente de igual o menor fuerza.",
+        "ability": "En guerra de Talismanes, puedes desterrar a Cornelius de York para destruir un Caballero oponente de igual o menor fuerza.",
         "rarity": "",
         "image": "/images/espada/ESP-012.png"
     },
@@ -442,7 +442,7 @@
     {
         "id": 41,
         "name": "Plaga",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -453,7 +453,7 @@
     {
         "id": 42,
         "name": "La Trancion de Lancelot",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -464,7 +464,7 @@
     {
         "id": 43,
         "name": "Desleal",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -475,7 +475,7 @@
     {
         "id": 44,
         "name": "Bola de Fuego",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -486,7 +486,7 @@
     {
         "id": 45,
         "name": "Transmutacion",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -497,7 +497,7 @@
     {
         "id": 46,
         "name": "Fe sin Limites",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -508,7 +508,7 @@
     {
         "id": 47,
         "name": "Dragon Dorado",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 0,
         "strength": null,
@@ -519,7 +519,7 @@
     {
         "id": 48,
         "name": "Cuna de Dragones",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -530,7 +530,7 @@
     {
         "id": 49,
         "name": "La Mirada de Mordred",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -541,7 +541,7 @@
     {
         "id": 50,
         "name": "Santo Grial",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -552,7 +552,7 @@
     {
         "id": 51,
         "name": "Una",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -563,7 +563,7 @@
     {
         "id": 52,
         "name": "Capa de Invisibilidad",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -574,7 +574,7 @@
     {
         "id": 53,
         "name": "Ataque Sorpresa",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -585,7 +585,7 @@
     {
         "id": 54,
         "name": "Aulladores Blancos",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -596,7 +596,7 @@
     {
         "id": 55,
         "name": "Ataque de Aliento",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -607,7 +607,7 @@
     {
         "id": 56,
         "name": "La Espada en la Piedra",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -618,7 +618,7 @@
     {
         "id": 57,
         "name": "Atraer la Tormenta",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -629,7 +629,7 @@
     {
         "id": 58,
         "name": "Barco",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -640,7 +640,7 @@
     {
         "id": 59,
         "name": "Caballo Lunar",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -1085,7 +1085,7 @@
         "race": "Dragon",
         "cost": 3,
         "strength": 2,
-        "ability": "En guerra de talismanes, puedes pagar 1 oro para que un Aliado oponente gane - 1 a la fuerza hasta el final del turno.",
+        "ability": "En guerra de Talismanes, puedes pagar 1 oro para que un Aliado oponente gane - 1 a la fuerza hasta el final del turno.",
         "rarity": "Cortesano",
         "image": "/images/espada/ESP-099.png"
     },
@@ -1246,7 +1246,7 @@
     {
         "id": 114,
         "name": "San Jorge y el Dragon",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -1257,7 +1257,7 @@
     {
         "id": 115,
         "name": "Cuatro Fuertes Vientos",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1268,7 +1268,7 @@
     {
         "id": 116,
         "name": "Misil Magico",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -1279,7 +1279,7 @@
     {
         "id": 117,
         "name": "Flecha Acida",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -1290,7 +1290,7 @@
     {
         "id": 118,
         "name": "Congelar",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -1301,7 +1301,7 @@
     {
         "id": 119,
         "name": "Nombrado Caballero",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -1312,7 +1312,7 @@
     {
         "id": 120,
         "name": "Estampida",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -1323,7 +1323,7 @@
     {
         "id": 121,
         "name": "Cuna de Gusanos",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1334,7 +1334,7 @@
     {
         "id": 122,
         "name": "Pergamino Magico",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -1345,7 +1345,7 @@
     {
         "id": 123,
         "name": "La Piedra de los Sueños",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -1356,7 +1356,7 @@
     {
         "id": 124,
         "name": "Justa",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 0,
         "strength": null,
@@ -1367,7 +1367,7 @@
     {
         "id": 125,
         "name": "El Juicio de Dios",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1378,7 +1378,7 @@
     {
         "id": 126,
         "name": "Incinerar",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 0,
         "strength": null,
@@ -1389,7 +1389,7 @@
     {
         "id": 127,
         "name": "Favor de la Corte",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -1400,7 +1400,7 @@
     {
         "id": 128,
         "name": "Knockers",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -1411,7 +1411,7 @@
     {
         "id": 129,
         "name": "Brownie",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1422,7 +1422,7 @@
     {
         "id": 130,
         "name": "Urisk",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 0,
         "strength": null,
@@ -1433,7 +1433,7 @@
     {
         "id": 131,
         "name": "Legado del Bosque",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -1444,7 +1444,7 @@
     {
         "id": 132,
         "name": "Producir Terremoto",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -2049,7 +2049,7 @@
     {
         "id": 187,
         "name": "Asesinos en la Corte",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -2060,7 +2060,7 @@
     {
         "id": 188,
         "name": "Camino a Avalon",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -2071,7 +2071,7 @@
     {
         "id": 189,
         "name": "Cantrip",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 0,
         "strength": null,
@@ -2082,7 +2082,7 @@
     {
         "id": 190,
         "name": "Nombrado Escudero",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -2093,7 +2093,7 @@
     {
         "id": 191,
         "name": "Grig",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -2103,8 +2103,8 @@
     },
     {
         "id": 192,
-        "name": "Talisman Celta",
-        "type": "Talisman",
+        "name": "Talismán Celta",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -2115,7 +2115,7 @@
     {
         "id": 193,
         "name": "Juglares",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 0,
         "strength": null,
@@ -2126,7 +2126,7 @@
     {
         "id": 194,
         "name": "Hechizo de Niebla",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -2137,7 +2137,7 @@
     {
         "id": 195,
         "name": "Yermo",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -2148,7 +2148,7 @@
     {
         "id": 196,
         "name": "Funeral Para Un Amigo",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -2159,7 +2159,7 @@
     {
         "id": 197,
         "name": "Dioses en la Sombra",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -2170,7 +2170,7 @@
     {
         "id": 198,
         "name": "El Juez",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -2181,7 +2181,7 @@
     {
         "id": 199,
         "name": "Ataque Dragon",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -2192,7 +2192,7 @@
     {
         "id": 200,
         "name": "Relatos de la Mesa Redonda",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -2203,7 +2203,7 @@
     {
         "id": 201,
         "name": "Leprechaun",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -2214,7 +2214,7 @@
     {
         "id": 202,
         "name": "Bugbear",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -2225,7 +2225,7 @@
     {
         "id": 203,
         "name": "Ser Incorporeo",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -2236,7 +2236,7 @@
     {
         "id": 204,
         "name": "Gwylion",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 0,
         "strength": null,
@@ -2247,7 +2247,7 @@
     {
         "id": 205,
         "name": "Vegetacion Animada",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -2258,7 +2258,7 @@
     {
         "id": 206,
         "name": "Alquimista",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -2665,7 +2665,7 @@
     {
         "id": 243,
         "name": "Arca de la Alianza",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -2698,7 +2698,7 @@
     {
         "id": 246,
         "name": "Siroco",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -2709,7 +2709,7 @@
     {
         "id": 247,
         "name": "Fantasmas del Desierto",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -2731,7 +2731,7 @@
     {
         "id": 249,
         "name": "Gitanos",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -2742,7 +2742,7 @@
     {
         "id": 250,
         "name": "La Llama Fria",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -2753,7 +2753,7 @@
     {
         "id": 251,
         "name": "Ma'rrat An - Numán",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 6,
         "strength": null,
@@ -3028,7 +3028,7 @@
     {
         "id": 276,
         "name": "Traficantes de Esclavos",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -3039,7 +3039,7 @@
     {
         "id": 277,
         "name": "Cruzada de los Niños",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -3050,7 +3050,7 @@
     {
         "id": 278,
         "name": "Joyero",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -3061,7 +3061,7 @@
     {
         "id": 279,
         "name": "Falso Tesoro",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -3248,7 +3248,7 @@
     {
         "id": 296,
         "name": "Gente Escorpion",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -3259,7 +3259,7 @@
     {
         "id": 297,
         "name": "Espejismo",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -3270,7 +3270,7 @@
     {
         "id": 298,
         "name": "Grito de Guerra",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -3281,7 +3281,7 @@
     {
         "id": 299,
         "name": "Ataque a Traición",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 6,
         "strength": null,
@@ -3292,7 +3292,7 @@
     {
         "id": 300,
         "name": "Cruzada de los Pobres",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
