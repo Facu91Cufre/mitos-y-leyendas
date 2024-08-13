@@ -2,6 +2,7 @@ const body = document.querySelector("body");
 const filter = document.getElementById("cont-btns");
 const filterBtns = filter.querySelectorAll(".btn");
 const cardsContainer = document.getElementById("cards-container");
+const editionContainer = document.querySelector(".edition-btns");
 const pageBtns = document.getElementById("cont-btns-pages");
 const searchBtn = document.querySelector(".search-btn");
 const searchInput = document.getElementById("search-input");
@@ -23,9 +24,9 @@ let totalPages = 0;
 
 // Fetch Cards
 
-const fetchCards = async () => {
+const fetchCards = async (fileName) => {
   try {
-    const response = await fetch("json/daana.json");
+    const response = await fetch(`json/${fileName}.json`);
     if (!response.ok) {
       throw new Error("HTTP error " + response.status);
     }
@@ -63,18 +64,15 @@ const showCards = (set, page) => {
 
 const generatePage = (set) => {
   totalPages = Math.ceil(set.length / itemsPerPage);
-  console.log(totalPages);
   prevBtn.addEventListener("click", () => {
     if (currentPage > 1) {
       currentPage--;
-      console.log(currentPage);
       showCards(filteredCards, currentPage);
     }
   });
   nextBtn.addEventListener("click", () => {
     if (currentPage < totalPages) {
       currentPage++;
-      console.log(currentPage);
       showCards(filteredCards, currentPage);
     }
   });
@@ -169,4 +167,9 @@ document.addEventListener("keydown", (e) => {
   }
 });
 
-window.addEventListener("DOMContentLoaded", fetchCards);
+editionContainer.addEventListener("click", (e) => {
+  const edition = e.target.dataset.id;
+  fetchCards(edition);
+});
+
+window.addEventListener("DOMContentLoaded", fetchCards("espada"));
