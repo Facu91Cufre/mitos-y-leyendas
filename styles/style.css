@@ -13,12 +13,12 @@ html {
 /* Body Styles */
 
 body {
-  background: url("/images/background-knight.jpg");
+  background: url("/images/greek-art.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   min-height: 100vh;
-  color: white;
+  color: rgba(45, 58, 58);
 }
 
 li {
