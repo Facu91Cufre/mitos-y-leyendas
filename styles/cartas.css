@@ -65,12 +65,12 @@
 
 #cards-container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  position: relative;
+  grid-template-columns: repeat(4, 1fr);
   gap: 0.96rem;
   padding: 4rem;
-  width: 100%;
   margin: 0 auto;
-  position: relative;
+  justify-content: center;
 }
 
 /* Card Styles */
@@ -81,7 +81,7 @@
   border-radius: 0.012rem;
 }
 .image {
-  width: 6rem;
+  width: 4.7rem;
   margin: 0 auto;
   cursor: pointer;
 }
@@ -151,4 +151,29 @@
 .page-button:hover {
   transform: rotate(360deg);
   transition: 0.7s;
+}
+
+
+/* Cards Container Media Queries */
+
+@media screen and (min-width: 600px) {
+  #cards-container{
+    grid-template-columns: repeat(5, 1fr);
+  }
+  .image {
+    width: 6.5rem;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .image {
+    width: 10rem;
+  }
+  #cards-container{
+    grid-template-columns: repeat(5, 1fr);
+  }
+  .modal-btn{
+    top: 0;
+    right: -5rem;
+  }
 }

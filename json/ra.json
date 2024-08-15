@@ -1801,7 +1801,7 @@
         "strength": 2,
         "ability": "En respuesta a botar cartas de tu Mazo Castillo por una Habilidad oponente, puedes destruir a Kamose para anular esa Habilidad.",
         "rarity": "Vasallo",
-        "image": "./images/DDR-164.png"
+        "image": "/images/ra/DDR-164.png"
     },
     {
         "id": 165,

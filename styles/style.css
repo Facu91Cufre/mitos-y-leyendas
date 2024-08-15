@@ -13,11 +13,12 @@ html {
 /* Body Styles */
 
 body {
-  background: url("/images/piramids.jpg");
+  background: url("/images/background-knight.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
   min-height: 100vh;
-  color: #011c27;
+  color: white;
 }
 
 li {
@@ -85,29 +86,6 @@ a {
   height: 8rem;
 }
 
-@media screen and (min-width: 800px) {
-  .nav-header {
-    display: flex;
-  }
-  .nav-center {
-    max-width: 1170px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1rem;
-  }
-  #bar-icon {
-    display: none;
-  }
-  .links {
-    display: flex;
-    height: auto;
-  }
-  .links li:hover {
-    transform: none;
-  }
-}
 /* Main Styles */
 
 main {
@@ -143,4 +121,30 @@ footer p {
 }
 .nav-socials ul i:hover {
   color:rgba(0, 0, 0, 0.7);
+}
+
+/* Header Media Queries */
+
+@media screen and (min-width: 800px) {
+  .nav-header {
+    display: flex;
+  }
+  .nav-center {
+    max-width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+  }
+  #bar-icon {
+    display: none;
+  }
+  .links {
+    display: flex;
+    height: auto;
+  }
+  .links li:hover {
+    transform: none;
+  }
 }
