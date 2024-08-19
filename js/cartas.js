@@ -21,6 +21,7 @@ let filteredCards = [];
 let currentPage = 1;
 const itemsPerPage = 20;
 let totalPages = 0;
+let currentIndex = 0;
 
 // Fetch Cards
 
@@ -50,12 +51,15 @@ const showCards = (set, page) => {
     const card = document.createElement("div");
     card.innerHTML = `<img class="image" src="${item.image}">`;
     card.classList.add("image");
+    card.dataset.id = item.id;
     cardsContainer.appendChild(card);
     card.addEventListener("click", () => {
       openModal(card);
+      currentIndex = card.dataset.id;
+      console.log(currentIndex);
     });
     modalBtn.addEventListener("click", () => {
-      modalOverlay.style.display = "none";
+      closeModal();
     });
   });
 };
@@ -64,19 +68,43 @@ const showCards = (set, page) => {
 
 const generatePage = (set) => {
   totalPages = Math.ceil(set.length / itemsPerPage);
-  };
+};
 
 // Open Modal Function
 
 const openModal = (item) => {
   modalImageContainer.innerHTML = "";
   const image = item.querySelector("img");
+  const arrowLeft = document.createElement("button");
+  arrowLeft.innerHTML = `<i class="fa-solid fa-arrow-left"></i>`;
+  arrowLeft.classList.add("arrow", "arrow-left");
+  const arrowRight = document.createElement("button");
+  arrowRight.innerHTML = `<i class="fa-solid fa-arrow-right"></i>`;
+  arrowRight.classList.add("arrow", "arrow-right");
   const modalCard = document.createElement("img");
   modalCard.classList.add("modal-img");
   modalCard.classList.remove("image");
   modalCard.src = image.src;
   modalImageContainer.appendChild(modalCard);
+  modalImageContainer.appendChild(arrowLeft);
+  modalImageContainer.appendChild(arrowRight);
   modalOverlay.style.display = "block";
+  arrowRight.addEventListener("click", () => {
+    if (currentIndex < filteredCards.length) {
+      currentIndex++;
+      updateImage(modalCard);
+    }
+  });
+  arrowLeft.addEventListener("click", () => {
+    if (currentIndex > 1) {
+      currentIndex--;
+      updateImage(modalCard);
+    }
+  });
+};
+
+const closeModal = () => {
+  modalOverlay.style.display = "none";
 };
 
 // Find Card Function
@@ -104,6 +132,11 @@ filterBtns.forEach((button) => {
   });
 });
 
+// Update Card Image
+
+const updateImage = (card) => {
+  card.src = filteredCards[currentIndex - 1].image;
+};
 // Search Button from Input
 
 searchBtn.addEventListener("click", () => {
