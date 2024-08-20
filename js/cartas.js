@@ -1,6 +1,5 @@
 const body = document.querySelector("body");
 const filter = document.getElementById("cont-btns");
-const filterBtns = filter.querySelectorAll(".btn");
 const cardsContainer = document.getElementById("cards-container");
 const editionContainer = document.querySelector(".edition-btns");
 const pageBtns = document.getElementById("cont-btns-pages");
@@ -17,6 +16,8 @@ const prevBtn = document.getElementById("prev-btn");
 const nextBtn = document.getElementById("next-btn");
 const costDropdown = document.getElementById("cost-dropdown");
 const strDropdown = document.getElementById("strength-dropdown");
+const editionDropdown = document.getElementById("edition-dropdown");
+const typeDropdown = document.getElementById("type-dropdown");
 
 let cards;
 let filteredCards = [];
@@ -76,15 +77,18 @@ const generatePage = (set) => {
 // Filter Cards Function
 
 const filterCards = () => {
+  const selectedType = typeDropdown.value;
   const selectedCost = costDropdown.value;
   const selectedStr = strDropdown.value;
-  console.log(selectedCost);
   const filteredArray = filteredCards.filter((item) => {
     return (
+      (selectedType == "" || item.type == selectedType) &&
       (selectedCost == "" || item.cost == selectedCost) &&
       (selectedStr == "" || item.strength == selectedStr)
     );
   });
+  console.log(filteredArray);
+  if (filteredArray.length == 0) return alert("No se encontraron cartas");
   showCards(filteredArray, currentPage);
 };
 
@@ -133,24 +137,6 @@ const findCard = (name) => {
   searchInput.value = "";
   return cards.find((card) => card.name.toLowerCase() === name.toLowerCase());
 };
-
-// Filter Cards by Type
-
-filterBtns.forEach((button) => {
-  button.addEventListener("click", (e) => {
-    cardsContainer.innerHTML = "";
-    currentPage = 1;
-    const category = e.target.dataset.id;
-    filteredCards = cards.filter((card) => {
-      if (category === "Todas") {
-        return true;
-      }
-      return category === card.type;
-    });
-    showCards(filteredCards, currentPage);
-    generatePage(filteredCards);
-  });
-});
 
 // Update Card Image
 
@@ -241,12 +227,15 @@ document.addEventListener("keydown", (e) => {
   }
 });
 
-editionContainer.addEventListener("click", (e) => {
-  const edition = e.target.dataset.id;
-  fetchCards(edition);
-});
-
 window.addEventListener("DOMContentLoaded", fetchCards("espada"));
 
+editionDropdown.addEventListener("change", (e) => {
+  const edition = e.target.value;
+  costDropdown.value = "";
+  typeDropdown.value = "";
+  strDropdown.value = "";
+  fetchCards(edition);
+});
 costDropdown.addEventListener("change", filterCards);
 strDropdown.addEventListener("change", filterCards);
+typeDropdown.addEventListener("change", filterCards);

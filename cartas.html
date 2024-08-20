@@ -32,25 +32,23 @@
       </nav>
     </header>
     <main>
-      <div id="cont-btns" class="cont-btns">
-        <div class="edition-btns">
-          <h1>Edición</h1>
-          <!-- <button class="btn" data-id="Todas">Todas</button> -->
-          <button class="btn" data-id="espada">Espada Sagrada</button>
-          <button class="btn" data-id="helenica">Helénica</button>
-          <button class="btn" data-id="ra">Ra</button>
-          <button class="btn" data-id="daana">Daana</button>
-        </div>
-        <div class="type-btns">
-          <h1>Tipo</h1>
-          <button class="btn" data-id="Todas">Todas</button>
-          <button class="btn" data-id="Aliado">Aliado</button>
-          <button class="btn" data-id="Talismán">Talismán</button>
-          <button class="btn" data-id="Arma">Arma</button>
-          <button class="btn" data-id="Tótem">Tótem</button>
-        </div>
-      </div>
       <div class="cont-dropdowns">
+        <label for="edition-dropdown">Edición</label>
+        <select name="edition" id="edition-dropdown">
+          <option selected disabled>Selecciona una Edición</option>
+          <option value="espada">Espada Sagrada</option>
+          <option value="helenica">Helénica</option>
+          <option value="ra">Dominios de Ra</option>
+          <option value="daana">Hijos de Daana</option>
+        </select>
+        <label for="type-dropdown">Tipo</label>
+        <select name="type" id="type-dropdown">
+          <option value="">Todas</option>
+          <option value="Aliado">Aliado</option>
+          <option value="Talismán">Talismán</option>
+          <option value="Arma">Arma</option>
+          <option value="Tótem">Tótem</option>
+        </select>
         <label for="cost-dropdown">Coste</label>
         <select name="cost" id="cost-dropdown">
           <option value="">Todas</option>
@@ -95,7 +93,7 @@
         </button>
       </div>
       <div id="cards-container"></div>
-      <div id="cont-btns-pages" >
+      <div id="cont-btns-pages">
         <button class="btn" id="prev-btn">Atrás</button>
         <button class="btn" id="next-btn">Siguiente</button>
       </div>
