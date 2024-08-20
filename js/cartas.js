@@ -22,6 +22,8 @@ let currentPage = 1;
 const itemsPerPage = 20;
 let totalPages = 0;
 let currentIndex = 0;
+let modalIsOpen = false;
+let modalCard;
 
 // Fetch Cards
 
@@ -55,8 +57,7 @@ const showCards = (set, page) => {
     cardsContainer.appendChild(card);
     card.addEventListener("click", () => {
       openModal(card);
-      currentIndex = card.dataset.id;
-      console.log(currentIndex);
+      currentIndex = filteredCards.findIndex((c) => c.image === item.image);
     });
     modalBtn.addEventListener("click", () => {
       closeModal();
@@ -73,6 +74,7 @@ const generatePage = (set) => {
 // Open Modal Function
 
 const openModal = (item) => {
+  modalIsOpen = true;
   modalImageContainer.innerHTML = "";
   const image = item.querySelector("img");
   const arrowLeft = document.createElement("button");
@@ -81,7 +83,7 @@ const openModal = (item) => {
   const arrowRight = document.createElement("button");
   arrowRight.innerHTML = `<i class="fa-solid fa-arrow-right"></i>`;
   arrowRight.classList.add("arrow", "arrow-right");
-  const modalCard = document.createElement("img");
+  modalCard = document.createElement("img");
   modalCard.classList.add("modal-img");
   modalCard.classList.remove("image");
   modalCard.src = image.src;
@@ -90,7 +92,7 @@ const openModal = (item) => {
   modalImageContainer.appendChild(arrowRight);
   modalOverlay.style.display = "block";
   arrowRight.addEventListener("click", () => {
-    if (currentIndex < filteredCards.length) {
+    if (currentIndex < filteredCards.length - 1) {
       currentIndex++;
       updateImage(modalCard);
     }
@@ -105,6 +107,7 @@ const openModal = (item) => {
 
 const closeModal = () => {
   modalOverlay.style.display = "none";
+  modalIsOpen = false;
 };
 
 // Find Card Function
@@ -117,6 +120,11 @@ const findCard = (name) => {
 // Filter Cards by Type
 
 filterBtns.forEach((button) => {
+  const rarityGrade = {
+    "Real": 1,
+    "Cortesano": 2,
+    "Vasallo": 3,
+  };
   button.addEventListener("click", (e) => {
     cardsContainer.innerHTML = "";
     currentPage = 1;
@@ -127,6 +135,9 @@ filterBtns.forEach((button) => {
       }
       return category === card.type;
     });
+    filteredCards.sort((a, b) => {
+      return rarityGrade[a.rarity] - rarityGrade[b.rarity];
+    });
     showCards(filteredCards, currentPage);
     generatePage(filteredCards);
   });
@@ -135,7 +146,7 @@ filterBtns.forEach((button) => {
 // Update Card Image
 
 const updateImage = (card) => {
-  card.src = filteredCards[currentIndex - 1].image;
+  card.src = filteredCards[currentIndex].image;
 };
 // Search Button from Input
 
@@ -183,23 +194,41 @@ barIcon.addEventListener("click", () => {
 });
 
 document.addEventListener("keydown", (e) => {
-  switch (e.key) {
-    case "ArrowLeft":
-      if (currentPage > 1) {
-        currentPage--;
-        showCards(filteredCards, currentPage);
-      }
-      break;
-    case "ArrowRight":
-      if (currentPage < totalPages) {
-        currentPage++;
-        showCards(filteredCards, currentPage);
-      }
-      break;
-    case "Escape":
-      modalOverlay.style.display = "none";
-    default:
-      break;
+  if (!modalIsOpen) {
+    switch (e.key) {
+      case "ArrowLeft":
+        if (currentPage > 1) {
+          currentPage--;
+          showCards(filteredCards, currentPage);
+        }
+        break;
+      case "ArrowRight":
+        if (currentPage < totalPages) {
+          currentPage++;
+          showCards(filteredCards, currentPage);
+        }
+        break;
+    }
+  } else {
+    switch (e.key) {
+      case "ArrowLeft":
+        if (currentIndex > 1) {
+          currentIndex--;
+          updateImage(modalCard);
+        }
+        break;
+      case "ArrowRight":
+        if (currentIndex < filteredCards.length - 1) {
+          currentIndex++;
+          updateImage(modalCard);
+        }
+        break;
+
+      case "Escape":
+        modalOverlay.style.display = "none";
+      default:
+        break;
+    }
   }
 });
 
