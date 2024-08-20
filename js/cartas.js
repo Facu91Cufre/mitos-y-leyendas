@@ -15,6 +15,8 @@ const modalImageContainer = document.querySelector(".modal-image-container");
 const modalBtn = document.querySelector(".modal-btn");
 const prevBtn = document.getElementById("prev-btn");
 const nextBtn = document.getElementById("next-btn");
+const costDropdown = document.getElementById("cost-dropdown");
+const strDropdown = document.getElementById("strength-dropdown");
 
 let cards;
 let filteredCards = [];
@@ -69,6 +71,21 @@ const showCards = (set, page) => {
 
 const generatePage = (set) => {
   totalPages = Math.ceil(set.length / itemsPerPage);
+};
+
+// Filter Cards Function
+
+const filterCards = () => {
+  const selectedCost = costDropdown.value;
+  const selectedStr = strDropdown.value;
+  console.log(selectedCost);
+  const filteredArray = filteredCards.filter((item) => {
+    return (
+      (selectedCost == "" || item.cost == selectedCost) &&
+      (selectedStr == "" || item.strength == selectedStr)
+    );
+  });
+  showCards(filteredArray, currentPage);
 };
 
 // Open Modal Function
@@ -230,3 +247,6 @@ editionContainer.addEventListener("click", (e) => {
 });
 
 window.addEventListener("DOMContentLoaded", fetchCards("espada"));
+
+costDropdown.addEventListener("change", filterCards);
+strDropdown.addEventListener("change", filterCards);
