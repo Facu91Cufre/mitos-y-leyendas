@@ -950,7 +950,7 @@
         "name": "Tamis",
         "type": "Aliado",
         "race": "Faraon",
-        "cost": 2,
+        "cost": 1,
         "strength": 2,
         "ability": "Si Tamis es declarado atacante, gana 2 a la fuerza. Si hace daño al Mazo Castillo oponente, tú recibes el mismo daño.",
         "rarity": "Cortesano",
