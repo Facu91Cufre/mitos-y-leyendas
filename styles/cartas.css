@@ -71,6 +71,27 @@
   width: 100%;
 }
 
+/* Button Styles */
+
+.btn {
+  padding: 0.29rem 0.75rem;
+  margin: 0.31rem;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 0.25rem;
+  border: 1px solid grey;
+  min-width: 6rem;
+  background-color: rgb(231, 204, 48);
+  color: rgb(68, 67, 67);
+}
+.btn:hover {
+  box-shadow: 2px 4px 46px 3px rgba(0, 0, 0, 0.22);
+  transform: translateY(-1px);
+  transition: 0.7s;
+  color: rgb(43, 41, 41);
+  background-color: rgb(238, 205, 18);
+}
+
 /* Modal Styles */
 
 #modal-overlay {
