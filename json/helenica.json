@@ -443,7 +443,7 @@
     {
         "id": 41,
         "name": "Expulsion de Titanes",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -454,7 +454,7 @@
     {
         "id": 42,
         "name": "Maldicion de Hera",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -465,7 +465,7 @@
     {
         "id": 43,
         "name": "Rayos",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 6,
         "strength": null,
@@ -476,7 +476,7 @@
     {
         "id": 44,
         "name": "Teleute",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -487,7 +487,7 @@
     {
         "id": 45,
         "name": "Arde Troya",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -498,7 +498,7 @@
     {
         "id": 46,
         "name": "Caballo de Troya",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -509,7 +509,7 @@
     {
         "id": 47,
         "name": "Ira Ignea",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -520,7 +520,7 @@
     {
         "id": 48,
         "name": "Invocar Luz",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 0,
         "strength": null,
@@ -531,7 +531,7 @@
     {
         "id": 49,
         "name": "Almas de Estigia",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -542,7 +542,7 @@
     {
         "id": 50,
         "name": "Olimpiadas",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -553,7 +553,7 @@
     {
         "id": 51,
         "name": "La Ira de Tifon",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -564,7 +564,7 @@
     {
         "id": 52,
         "name": "Vellocino de Oro",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -575,7 +575,7 @@
     {
         "id": 53,
         "name": "Urano",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -586,7 +586,7 @@
     {
         "id": 54,
         "name": "Alas de Icaro",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -597,7 +597,7 @@
     {
         "id": 55,
         "name": "Termofilas",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -608,7 +608,7 @@
     {
         "id": 56,
         "name": "Hogar de Demonios",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 6,
         "strength": null,
@@ -619,7 +619,7 @@
     {
         "id": 57,
         "name": "Doce Pruebas",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -630,7 +630,7 @@
     {
         "id": 58,
         "name": "Nacimiento de Pegaso",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -641,7 +641,7 @@
     {
         "id": 59,
         "name": "Misterio de la Esfinge",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -729,7 +729,7 @@
     {
         "id": 67,
         "name": "Monte Olimpo",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 6,
         "strength": null,
@@ -740,7 +740,7 @@
     {
         "id": 68,
         "name": "Tartaro",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -751,7 +751,7 @@
     {
         "id": 69,
         "name": "Campos Elisios",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -762,7 +762,7 @@
     {
         "id": 70,
         "name": "Atenas",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -773,7 +773,7 @@
     {
         "id": 71,
         "name": "Esparta",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -784,7 +784,7 @@
     {
         "id": 72,
         "name": "Arcadia",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 6,
         "strength": null,
@@ -795,7 +795,7 @@
     {
         "id": 73,
         "name": "Atlantida",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1246,7 +1246,7 @@
     {
         "id": 114,
         "name": "Furias",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -1257,7 +1257,7 @@
     {
         "id": 115,
         "name": "Pasion de Zeus",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1268,7 +1268,7 @@
     {
         "id": 116,
         "name": "Raza de Pigmeos",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -1279,7 +1279,7 @@
     {
         "id": 117,
         "name": "Antropofagos",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -1290,7 +1290,7 @@
     {
         "id": 118,
         "name": "Isla de las Sirenas",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -1301,7 +1301,7 @@
     {
         "id": 119,
         "name": "Iris",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1312,7 +1312,7 @@
     {
         "id": 120,
         "name": "Caliope",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -1323,7 +1323,7 @@
     {
         "id": 121,
         "name": "Refugiados",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -1334,7 +1334,7 @@
     {
         "id": 122,
         "name": "Medicina de Hipocrates",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -1345,7 +1345,7 @@
     {
         "id": 123,
         "name": "Veneno Sagrado",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -1356,7 +1356,7 @@
     {
         "id": 124,
         "name": "Entrenamiento Espartano",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -1367,7 +1367,7 @@
     {
         "id": 125,
         "name": "Red de Aracne",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1378,7 +1378,7 @@
     {
         "id": 126,
         "name": "Templo de Medusa",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -1389,7 +1389,7 @@
     {
         "id": 127,
         "name": "Fuego Griego",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -1400,7 +1400,7 @@
     {
         "id": 128,
         "name": "Proteus",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -1411,7 +1411,7 @@
     {
         "id": 129,
         "name": "Tormenta de Fuego",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1422,7 +1422,7 @@
     {
         "id": 130,
         "name": "Forja de Hefestos",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -1433,7 +1433,7 @@
     {
         "id": 131,
         "name": "Locura de Heracles",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -1444,7 +1444,7 @@
     {
         "id": 132,
         "name": "Cadenas de Andromeda",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1455,7 +1455,7 @@
     {
         "id": 133,
         "name": "Llamar al Fuego",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1532,7 +1532,7 @@
     {
         "id": 140,
         "name": "Totem de Fenix",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1543,7 +1543,7 @@
     {
         "id": 141,
         "name": "Templo de Apolo",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -1554,7 +1554,7 @@
     {
         "id": 142,
         "name": "Casa de Hestia",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -1565,7 +1565,7 @@
     {
         "id": 143,
         "name": "Partenon",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1576,7 +1576,7 @@
     {
         "id": 144,
         "name": "Alejandria",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1587,7 +1587,7 @@
     {
         "id": 145,
         "name": "Templo de la Cazadora",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -1598,7 +1598,7 @@
     {
         "id": 146,
         "name": "Templo de la Gran Hera",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -2060,7 +2060,7 @@
     {
         "id": 188,
         "name": "Flota Helenica",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -2071,7 +2071,7 @@
     {
         "id": 189,
         "name": "Nyx",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -2082,7 +2082,7 @@
     {
         "id": 190,
         "name": "Homunculus",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -2093,7 +2093,7 @@
     {
         "id": 191,
         "name": "Hipocampo",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -2104,7 +2104,7 @@
     {
         "id": 192,
         "name": "Hipalectrycon",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -2115,7 +2115,7 @@
     {
         "id": 193,
         "name": "Los Gorilai",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -2126,7 +2126,7 @@
     {
         "id": 194,
         "name": "Casta de Gigantes",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -2137,7 +2137,7 @@
     {
         "id": 195,
         "name": "Perros Tindalos",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -2148,7 +2148,7 @@
     {
         "id": 196,
         "name": "Aspidoquelon",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -2159,7 +2159,7 @@
     {
         "id": 197,
         "name": "Anakelades",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -2170,7 +2170,7 @@
     {
         "id": 198,
         "name": "Alkyon",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -2181,7 +2181,7 @@
     {
         "id": 199,
         "name": "Mercaderes Fenicios",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -2192,7 +2192,7 @@
     {
         "id": 200,
         "name": "Estirge",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -2203,7 +2203,7 @@
     {
         "id": 201,
         "name": "Serpiente de Bronce",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -2214,7 +2214,7 @@
     {
         "id": 202,
         "name": "Bestia del Caos",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -2225,7 +2225,7 @@
     {
         "id": 203,
         "name": "Cantobele",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 6,
         "strength": null,
@@ -2236,7 +2236,7 @@
     {
         "id": 204,
         "name": "Gente Insecto",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -2247,7 +2247,7 @@
     {
         "id": 205,
         "name": "Caballo de Pesadilla",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -2258,7 +2258,7 @@
     {
         "id": 206,
         "name": "Satiros Libres",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -2346,7 +2346,7 @@
     {
         "id": 214,
         "name": "Totem de Equidna",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -2357,7 +2357,7 @@
     {
         "id": 215,
         "name": "Templo de Gaia",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -2368,7 +2368,7 @@
     {
         "id": 216,
         "name": "Altar de Cronos",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -2379,7 +2379,7 @@
     {
         "id": 217,
         "name": "Altar de Ares",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -2390,7 +2390,7 @@
     {
         "id": 218,
         "name": "Templo Perdido",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 6,
         "strength": null,
@@ -2401,7 +2401,7 @@
     {
         "id": 219,
         "name": "Santuario de Poseidon",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -2412,7 +2412,7 @@
     {
         "id": 220,
         "name": "Santuario Familiar",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -3017,7 +3017,7 @@
     {
         "id": 275,
         "name": "Coliseo",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -3028,7 +3028,7 @@
     {
         "id": 276,
         "name": "Templo de Jupiter",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -3039,7 +3039,7 @@
     {
         "id": 277,
         "name": "Totem Etrusco",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -3050,7 +3050,7 @@
     {
         "id": 278,
         "name": "Catacumbas",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -3061,7 +3061,7 @@
     {
         "id": 279,
         "name": "Panteon",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -3072,7 +3072,7 @@
     {
         "id": 280,
         "name": "Termas",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -3083,7 +3083,7 @@
     {
         "id": 281,
         "name": "Murallas de Adriano",
-        "type": "Totem",
+        "type": "Tótem",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -3094,7 +3094,7 @@
     {
         "id": 282,
         "name": "Romulo y Remo",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 0,
         "strength": null,
@@ -3105,7 +3105,7 @@
     {
         "id": 283,
         "name": "Ambrosia",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -3116,7 +3116,7 @@
     {
         "id": 284,
         "name": "Ataque de Anibal",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -3127,7 +3127,7 @@
     {
         "id": 285,
         "name": "El Vesubio",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
@@ -3138,7 +3138,7 @@
     {
         "id": 286,
         "name": "Formacion de Tortuga",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -3149,7 +3149,7 @@
     {
         "id": 287,
         "name": "Los Caminos de Roma",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 5,
         "strength": null,
@@ -3160,7 +3160,7 @@
     {
         "id": 288,
         "name": "Conspiradores",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -3171,7 +3171,7 @@
     {
         "id": 289,
         "name": "Nombrado Emperador",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -3182,7 +3182,7 @@
     {
         "id": 290,
         "name": "Ataque Fulminante",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -3193,7 +3193,7 @@
     {
         "id": 291,
         "name": "Animales del Circo",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 4,
         "strength": null,
@@ -3204,7 +3204,7 @@
     {
         "id": 292,
         "name": "Tribus Germanas",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 6,
         "strength": null,
@@ -3215,7 +3215,7 @@
     {
         "id": 293,
         "name": "Hunos",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 3,
         "strength": null,
@@ -3226,7 +3226,7 @@
     {
         "id": 294,
         "name": "Celtas del Oeste",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 0,
         "strength": null,
@@ -3237,7 +3237,7 @@
     {
         "id": 295,
         "name": "Carrera de Carros",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 2,
         "strength": null,
@@ -3248,7 +3248,7 @@
     {
         "id": 296,
         "name": "Rebelion!",
-        "type": "Talisman",
+        "type": "Talismán",
         "race": null,
         "cost": 1,
         "strength": null,
