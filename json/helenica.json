@@ -1159,7 +1159,7 @@
         "id": 106,
         "name": "Quimera",
         "type": "Aliado",
-        "race": "t",
+        "race": "Titan",
         "cost": 4,
         "strength": 2,
         "ability": "Si Quimera hace daño al Mazo Castillo oponente, ese daño se duplica.",

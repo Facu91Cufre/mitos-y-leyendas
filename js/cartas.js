@@ -18,7 +18,9 @@ const costDropdown = document.getElementById("cost-dropdown");
 const strDropdown = document.getElementById("strength-dropdown");
 const editionDropdown = document.getElementById("edition-dropdown");
 const typeDropdown = document.getElementById("type-dropdown");
-
+const raceDropdown = document.getElementById("race-dropdown");
+const allOption = document.querySelector(".all-option");
+const raceContainer = document.querySelector(".cont-race");
 let cards;
 let filteredCards = [];
 let currentPage = 1;
@@ -31,6 +33,7 @@ let modalCard;
 // Fetch Cards
 
 const fetchCards = async (fileName) => {
+  currentPage = 1;
   try {
     const response = await fetch(`json/${fileName}.json`);
     if (!response.ok) {
@@ -74,22 +77,45 @@ const generatePage = (set) => {
   totalPages = Math.ceil(set.length / itemsPerPage);
 };
 
+// Race Dropdown Function
+
+const createRaceDropdown = (value) => {
+  raceDropdown.innerHTML = "";
+  raceDropdown.appendChild(allOption);
+  let array = [];
+  if (value === "Aliado") {
+    raceContainer.style.display = "block";
+    array = filteredCards.filter((i) => i.race).map((i) => i.race);
+  } else {
+    raceContainer.style.display = "none";
+  }
+  const set = new Set(array);
+  set.forEach((race) => {
+    const raceOption = document.createElement("option");
+    raceOption.innerHTML = race;
+    raceDropdown.appendChild(raceOption);
+  });
+};
+
 // Filter Cards Function
 
 const filterCards = () => {
+  currentPage = 1;
   const selectedType = typeDropdown.value;
   const selectedCost = costDropdown.value;
   const selectedStr = strDropdown.value;
-  const filteredArray = filteredCards.filter((item) => {
+  const selectedRace = raceDropdown.value;
+  filteredCards = cards.filter((item) => {
     return (
       (selectedType == "" || item.type == selectedType) &&
       (selectedCost == "" || item.cost == selectedCost) &&
-      (selectedStr == "" || item.strength == selectedStr)
+      (selectedStr == "" || item.strength == selectedStr) &&
+      (selectedRace == "" || item.race == selectedRace)
     );
   });
-  console.log(filteredArray);
-  if (filteredArray.length == 0) return alert("No se encontraron cartas");
-  showCards(filteredArray, currentPage);
+  if (filteredCards.length == 0) return alert("No se encontraron cartas");
+  showCards(filteredCards, currentPage);
+  generatePage(filteredCards);
 };
 
 // Open Modal Function
@@ -119,7 +145,7 @@ const openModal = (item) => {
     }
   });
   arrowLeft.addEventListener("click", () => {
-    if (currentIndex > 1) {
+    if (currentIndex > 0) {
       currentIndex--;
       updateImage(modalCard);
     }
@@ -234,8 +260,13 @@ editionDropdown.addEventListener("change", (e) => {
   costDropdown.value = "";
   typeDropdown.value = "";
   strDropdown.value = "";
+  raceDropdown.value = "";
   fetchCards(edition);
 });
 costDropdown.addEventListener("change", filterCards);
 strDropdown.addEventListener("change", filterCards);
-typeDropdown.addEventListener("change", filterCards);
+raceDropdown.addEventListener("change", filterCards);
+typeDropdown.addEventListener("change", () => {
+  filterCards;
+  createRaceDropdown(typeDropdown.value);
+});
