@@ -120,11 +120,6 @@ const findCard = (name) => {
 // Filter Cards by Type
 
 filterBtns.forEach((button) => {
-  const rarityGrade = {
-    "Real": 1,
-    "Cortesano": 2,
-    "Vasallo": 3,
-  };
   button.addEventListener("click", (e) => {
     cardsContainer.innerHTML = "";
     currentPage = 1;
@@ -134,9 +129,6 @@ filterBtns.forEach((button) => {
         return true;
       }
       return category === card.type;
-    });
-    filteredCards.sort((a, b) => {
-      return rarityGrade[a.rarity] - rarityGrade[b.rarity];
     });
     showCards(filteredCards, currentPage);
     generatePage(filteredCards);
