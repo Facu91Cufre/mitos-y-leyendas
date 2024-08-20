@@ -113,6 +113,7 @@ const filterCards = () => {
       (selectedRace == "" || item.race == selectedRace)
     );
   });
+  console.log(filteredCards);
   if (filteredCards.length == 0) return alert("No se encontraron cartas");
   showCards(filteredCards, currentPage);
   generatePage(filteredCards);
@@ -267,6 +268,6 @@ costDropdown.addEventListener("change", filterCards);
 strDropdown.addEventListener("change", filterCards);
 raceDropdown.addEventListener("change", filterCards);
 typeDropdown.addEventListener("change", () => {
-  filterCards;
+  filterCards();
   createRaceDropdown(typeDropdown.value);
 });
