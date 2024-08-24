@@ -33,59 +33,76 @@
     </header>
     <main>
       <div class="cont-dropdowns">
-        <label for="edition-dropdown">Edición</label>
-        <select name="edition" id="edition-dropdown">
-          <option selected disabled>Selecciona una Edición</option>
-          <option value="espada">Espada Sagrada</option>
-          <option value="helenica">Helénica</option>
-          <option value="ra">Dominios de Ra</option>
-          <option value="daana">Hijos de Daana</option>
-          <option value="promos">Promos</option>
-        </select>
-        <label for="type-dropdown">Tipo</label>
-        <select name="type" id="type-dropdown">
-          <option value="">Todas</option>
-          <option value="Aliado">Aliado</option>
-          <option value="Talismán">Talismán</option>
-          <option value="Arma">Arma</option>
-          <option value="Tótem">Tótem</option>
-        </select>
+        <div class="cont-edition">
+          <label class="dropdown-label" for="edition-dropdown">Edición</label>
+          <select name="edition" id="edition-dropdown">
+            <option selected disabled>Selecciona una Edición</option>
+            <option value="espada">Espada Sagrada</option>
+            <option value="helenica">Helénica</option>
+            <option value="ra">Dominios de Ra</option>
+            <option value="daana">Hijos de Daana</option>
+            <option value="promos">Promos</option>
+          </select>
+        </div>
+        <div class="cont-type">
+          <label class="dropdown-label" for="type-dropdown">Tipo</label>
+          <select name="type" id="type-dropdown">
+            <option value="">Todas</option>
+            <option value="Aliado">Aliado</option>
+            <option value="Talismán">Talismán</option>
+            <option value="Arma">Arma</option>
+            <option value="Tótem">Tótem</option>
+          </select>
+        </div>
         <div class="cont-race">
-          <label for="race-dropdown">Raza</label>
+          <label class="dropdown-label" for="race-dropdown">Raza</label>
           <select name="race" id="race-dropdown">
             <option value="" class="all-option">Todas</option>
           </select>
         </div>
-        <label for="cost-dropdown">Coste</label>
-        <select name="cost" id="cost-dropdown">
-          <option value="">Todas</option>
-          <option value="0">0</option>
-          <option value="1">1</option>
-          <option value="2">2</option>
-          <option value="3">3</option>
-          <option value="4">4</option>
-          <option value="5">5</option>
-          <option value="6">6</option>
-          <option value="7">7</option>
-          <option value="8">8</option>
-          <option value="9">9</option>
-          <option value="10">10</option>
-        </select>
-        <label for="strength-dropdown">Fuerza</label>
-        <select name="strength" id="strength-dropdown">
-          <option value="">Todas</option>
-          <option value="0">0</option>
-          <option value="1">1</option>
-          <option value="2">2</option>
-          <option value="3">3</option>
-          <option value="4">4</option>
-          <option value="5">5</option>
-          <option value="6">6</option>
-          <option value="7">7</option>
-          <option value="8">8</option>
-          <option value="9">9</option>
-          <option value="10">10</option>
-        </select>
+        <div class="cont-rarity">
+          <label class="dropdown-label" for="rarity-dropdown">Rareza</label>
+          <select name="rarity" id="rarity-dropdown">
+            <option value="">Todas</option>
+            <option value="Real">Real</option>
+            <option value="Cortesano">Cortesano</option>
+            <option value="Vasallo">Vasallo</option>
+          </select>
+        </div>
+        <div class="cont-cost">
+          <label class="dropdown-label" for="cost-dropdown">Coste</label>
+          <select name="cost" id="cost-dropdown">
+            <option value="">Todas</option>
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+          </select>
+        </div>
+        <div class="cont-strength">
+          <label class="dropdown-label" for="strength-dropdown">Fuerza</label>
+          <select name="strength" id="strength-dropdown">
+            <option value="">Todas</option>
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+          </select>
+        </div>
       </div>
       <div class="cont-search">
         <label for="search-input">Buscar:</label>

@@ -32,7 +32,19 @@
 /* Dropdown Styles */
 
 .cont-dropdowns {
-  display: flex;
+  display: block;
+}
+.cont-dropdowns div {
+  margin-top: 2rem;
+  text-align: center;
+}
+.dropdown-label {
+  font-size: 1.5rem;
+  display: block;
+}
+select {
+  min-width: 10rem;
+  margin-left: 1.2rem;
 }
 .cont-race {
   display: none;
@@ -192,4 +204,14 @@
   #modal-container {
     width: 25rem;
   }
+}
+
+/* Dropdowns Media Queries */
+
+@media screen and (min-width: 900px) {
+.cont-dropdowns{
+  display: flex;
+  justify-content: center;
+  margin: 3rem;
+}
 }

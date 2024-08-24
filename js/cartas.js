@@ -19,6 +19,7 @@ const strDropdown = document.getElementById("strength-dropdown");
 const editionDropdown = document.getElementById("edition-dropdown");
 const typeDropdown = document.getElementById("type-dropdown");
 const raceDropdown = document.getElementById("race-dropdown");
+const rarityDropdown = document.getElementById("rarity-dropdown");
 const allOption = document.querySelector(".all-option");
 const raceContainer = document.querySelector(".cont-race");
 let cards;
@@ -105,12 +106,14 @@ const filterCards = () => {
   const selectedCost = costDropdown.value;
   const selectedStr = strDropdown.value;
   const selectedRace = raceDropdown.value;
+  const selectedRarity = rarityDropdown.value;
   filteredCards = cards.filter((item) => {
     return (
       (selectedType == "" || item.type == selectedType) &&
       (selectedCost == "" || item.cost == selectedCost) &&
       (selectedStr == "" || item.strength == selectedStr) &&
-      (selectedRace == "" || item.race == selectedRace)
+      (selectedRace == "" || item.race == selectedRace) &&
+      (selectedRarity == "" || item.rarity == selectedRarity)
     );
   });
   console.log(filteredCards);
@@ -234,7 +237,7 @@ document.addEventListener("keydown", (e) => {
   } else {
     switch (e.key) {
       case "ArrowLeft":
-        if (currentIndex > 1) {
+        if (currentIndex >= 1) {
           currentIndex--;
           updateImage(modalCard);
         }
@@ -271,3 +274,4 @@ typeDropdown.addEventListener("change", () => {
   filterCards();
   createRaceDropdown(typeDropdown.value);
 });
+rarityDropdown.addEventListener("change", filterCards);
