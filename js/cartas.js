@@ -26,7 +26,7 @@ let cards;
 let filteredCards = [];
 let currentPage = 1;
 const itemsPerPage = 20;
-let totalPages = 0;
+let totalPages = 1;
 let currentIndex = 0;
 let modalIsOpen = false;
 let modalCard;
@@ -44,6 +44,7 @@ const fetchCards = async (fileName) => {
     filteredCards = [...cards];
     showCards(filteredCards, currentPage);
     generatePage(filteredCards);
+    nextBtn.style.visibility = "visible";
   } catch (error) {
     console.log("Fetch error: ", error);
   }
@@ -76,14 +77,15 @@ const showCards = (set, page) => {
   totalPages == currentPage
     ? (nextBtn.style.visibility = "hidden")
     : (nextBtn.style.visibility = "visible");
-  console.log(currentPage);
-  console.log(totalPages);
 };
 
 // Generate Pages Function
 
 const generatePage = (set) => {
   totalPages = Math.ceil(set.length / itemsPerPage);
+  totalPages === 1
+    ? (nextBtn.style.visibility = "hidden")
+    : (nextBtn.style.visibility = "visible");
 };
 
 // Race Dropdown Function
