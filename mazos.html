@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="styles/style.css" />
+    <link rel="stylesheet" href="styles/cartas.css" />
     <script
       src="https://kit.fontawesome.com/ad4f1a2f6e.js"
       crossorigin="anonymous"
@@ -23,17 +24,15 @@
             <button id="bar-icon"><i class="fa-solid fa-bars"></i></button>
           </div>
           <ul class="nav-links links">
-            <li class="links-container">
-              <a href="/index.html">Home</a>
-              <div class="underline"></div>
-            </li>
-            <li class="links-container"><a href="/cartas.html">Cartas</a></li>
-            <li class="links-container"><a href="/mazos.html">Mazos</a></li>
+            <li><a href="/index.html">Home</a></li>
+            <li><a href="/cartas.html">Cartas</a></li>
+            <li><a href="#">Mazos</a></li>
           </ul>
         </div>
       </nav>
     </header>
-    <main></main>
+    <main>
+    </main>
     <footer>
       <div class="cont-footer">
         <p>Mitos y Leyendas Argentina, 2024.</p>
@@ -62,6 +61,13 @@
         </div>
       </div>
     </footer>
+
+    <div id="modal-overlay">
+      <div id="modal-container">
+        <div class="modal-image-container"></div>
+        <button class="modal-btn"><i class="fa-solid fa-x"></i></button>
+      </div>
+    </div>
 
     <script src="js/home.js"></script>
   </body>

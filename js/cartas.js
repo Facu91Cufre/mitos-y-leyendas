@@ -227,7 +227,7 @@ nextBtn.addEventListener("click", () => {
 barIcon.addEventListener("click", () => {
   navLinks.classList.toggle("show-links");
 });
-
+// Event Listeners
 document.addEventListener("keydown", (e) => {
   if (!modalIsOpen) {
     switch (e.key) {
@@ -266,9 +266,6 @@ document.addEventListener("keydown", (e) => {
     }
   }
 });
-
-window.addEventListener("DOMContentLoaded", fetchCards("espada"));
-
 editionDropdown.addEventListener("change", (e) => {
   const edition = e.target.value;
   costDropdown.value = "";
@@ -280,8 +277,9 @@ editionDropdown.addEventListener("change", (e) => {
 costDropdown.addEventListener("change", filterCards);
 strDropdown.addEventListener("change", filterCards);
 raceDropdown.addEventListener("change", filterCards);
+rarityDropdown.addEventListener("change", filterCards);
 typeDropdown.addEventListener("change", () => {
   filterCards();
   createRaceDropdown(typeDropdown.value);
 });
-rarityDropdown.addEventListener("change", filterCards);
+window.addEventListener("DOMContentLoaded", fetchCards("espada"));

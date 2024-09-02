@@ -43,7 +43,7 @@ a {
   text-decoration: none;
 }
 
-/*  Header Logo */
+/* Header Logo Styles */
 
 .header-logo {
   width: 7rem;
@@ -57,7 +57,6 @@ a {
   border: none;
   background-color: transparent;
 }
-
 .nav-links {
   list-style: none;
   gap: 1rem;
@@ -73,15 +72,20 @@ a {
 .links li {
   padding: 0 0.5rem;
   border-radius: 0.1rem;
-  letter-spacing: 0.5rem;
-}
-.links li:hover {
-  transform: translate(0.5rem);
-  transition: 0.8s;
+  letter-spacing: .5rem;
+  text-align: center;
 }
 .show-links {
   height: 8rem;
 }
+
+/* Underline Styles */
+
+/* .underline{
+  background-color: black;
+  height: .1rem;
+  margin: 0 auto;
+} */
 
 /* Main Styles */
 
@@ -140,8 +144,5 @@ footer p {
   .links {
     display: flex;
     height: auto;
-  }
-  .links li:hover {
-    transform: none;
   }
 }
