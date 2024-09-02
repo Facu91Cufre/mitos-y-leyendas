@@ -70,6 +70,14 @@ const showCards = (set, page) => {
       closeModal();
     });
   });
+  currentPage === 1
+    ? (prevBtn.style.visibility = "hidden")
+    : (prevBtn.style.visibility = "visible");
+  totalPages == currentPage
+    ? (nextBtn.style.visibility = "hidden")
+    : (nextBtn.style.visibility = "visible");
+  console.log(currentPage);
+  console.log(totalPages);
 };
 
 // Generate Pages Function
